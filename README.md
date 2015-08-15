@@ -13,7 +13,7 @@ On repository available:
 # INSTALL
 **For Arch Linux (AUR):**
 ```
-yaourt -S papirus --aur-url https://aur4.archlinux.org
+yaourt -S papirus
 ```
 **For Kubuntu 15.04/15.10:**
 ```

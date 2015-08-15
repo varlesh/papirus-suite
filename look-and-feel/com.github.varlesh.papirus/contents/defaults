@@ -1,0 +1,14 @@
+[kdeglobals][KDE]
+widgetStyle=breeze
+
+[kdeglobals][General]
+ColorScheme=Papirus
+
+[kdeglobals][Icons]
+Theme=papirus
+
+[plasmarc][Theme]
+name=Papirus
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors

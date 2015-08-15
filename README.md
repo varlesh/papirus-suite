@@ -11,7 +11,11 @@ On repository available:
 * Yakuake skins
 
 # INSTALL
-For Kubuntu 15.04/15.10:
+**For Arch Linux (AUR):**
+```
+yaourt -S papirus --aur-url https://aur4.archlinux.org
+```
+**For Kubuntu 15.04/15.10:**
 ```
 sudo add-apt-repository ppa:varlesh-l/papirus-pack
 sudo apt-get update

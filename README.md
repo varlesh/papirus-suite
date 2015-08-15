@@ -4,7 +4,7 @@ On repository available:
 * Plasma 5 Themes
 * Icons
 * Color-schemes
-* GTK-Theme (only for KDE 5)
+* GTK-Themes (only for KDE 5)
 * Plank themes (On GTK Theme)
 * LibreOffice icons
 * Bomi skins
@@ -19,4 +19,4 @@ sudo apt-get install papirus-icon-theme papirus-plasma-theme papirus-libreoffice
 ```
 
 # LICENSES and AUTHORS
-This repository contains a lot of licenses, which mostly come from the source projects. Please, check AUTORS and LICENSE folders for more information.
+This repository combines many licenses, which mostly come from the original projects. Please, see AUTHOR and LICENSE pages in each module folder of the theme for more information.

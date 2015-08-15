@@ -32,14 +32,14 @@ B.AppWithDock {
     Connections { target: engine.media; onNameChanged: text.content = target.name }
 
     bottomControls: Item {
-        width: parent.width; height: top.height + (fs ? 0 : bottom.height)
+        width: parent.width; height: top.height
         Rectangle {
             id: top
             width: parent.width; height: layout.height + 10
             anchors.bottom: bottom.top; color: palette.window
             RowLayout {
-                id: layout; spacing: 0
-                width: parent.width - (fs ? (right.width + 10) : 0); height: implicitHeight
+                id: layout; spacing: 5
+                width: parent.width - (fs ? 10 : 0); height: implicitHeight
                 anchors.verticalCenter: parent.verticalCenter
                 MediaButton { icon: "media-skip-backward"; action: "play/prev" }
                 MediaButton {
@@ -51,6 +51,13 @@ B.AppWithDock {
                 B.TimeSlider {
                     id: timeslider; Layout.fillWidth: true;
                     anchors.verticalCenter: parent.verticalCenter
+                }
+                 B.TimeDuration {
+                height: parent.height;
+                textStyle {
+                    color: "#787879"
+                    font.pixelSize: 12
+                    }
                 }
                 MediaButton {icon: "kdenlive-show-audio"; action: "audio/volume/mute"; checkable: true; checked: engine.muted }
 
@@ -70,47 +77,7 @@ B.AppWithDock {
 
                 Item { visible: fs; width: 5; Layout.fillHeight: true }
             }
-            Rectangle {
-                id: right
-                color: "#EFF0F1"; visible: fs; width: fs ? (timeText2.implicitWidth + 10) : 0
-                anchors { top: parent.top; bottom: parent.bottom; right: parent.right; margins: 5 }
-                B.TimeDuration {
-                    id: timeText2
-                    anchors.centerIn: parent
-                    height: parent.height
-                    onMsecChanged: timeText.msec = msec
-                    onRemainingChanged: timeText.remaining = remaining
-                    textStyle {
-                        color: "#4B4B4B"; font.pixelSize: 14
-                        verticalAlignment: Text.AlignVCenter
-                    }
-                }
-            }
-        }
-
-        Rectangle {
-            id: bottom
-            visible: !fs
-            color: "#EFF0F1"; anchors.bottom: parent.bottom
-            width: parent.width;
-            height: fs ? 0 : (timeText.implicitHeight + 4)
-            Item {
-                anchors { fill: parent; margins: 2 }
-                B.Text {
-                    id: text;
-                    anchors { fill: parent; rightMargin: timeText.width }
-                    textStyle {
-                        elide: Text.ElideRight; color: "#4B4B4B";
-                        verticalAlignment: Text.AlignVCenter
-                    }
-                }
-                B.TimeDuration {
-                    id: timeText; anchors.right: parent.right
-                    onMsecChanged: timeText2.msec = msec
-                    onRemainingChanged: timeText2.remaining = remaining
-                    textStyle { color: "#4B4B4B"; verticalAlignment: Text.AlignVCenter }
-                }
-            }
+            
         }
     }
 

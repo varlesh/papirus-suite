@@ -1,0 +1,4 @@
+Modified Sifr icons for LibreOffice on style Papirus
+INSTALL:
+sudo cp /usr/share/icons/papirus/extra-icons/libreoffice/images_papirus.zip /usr/share/libreoffice/share/config/images_papirus.zip
+sudo ln -s /usr/share/libreoffice/share/config/images_papirus.zip /usr/lib/libreoffice/share/config/images_papirus.zip

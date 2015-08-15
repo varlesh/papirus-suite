@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Papirus Dark
+Comment=Based on Unite
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Papirus Dark
+MetacityTheme=Papirus Dark
+ButtonLayout=menu:minimize,maximize,close

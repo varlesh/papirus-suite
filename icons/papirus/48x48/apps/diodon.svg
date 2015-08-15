@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata57">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs2819">
+  <linearGradient id="linearGradient4343" y2="188" gradientUnits="userSpaceOnUse" x2="160" gradientTransform="translate(-136,-160)" y1="172" x1="144">
+   <stop id="stop4187" offset="0"/>
+   <stop id="stop4189" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4296" y2="203" gradientUnits="userSpaceOnUse" x2="127" gradientTransform="matrix(0 -1 1 0 -164 167)" y1="203" x1="143">
+   <stop id="stop4271" stop-color="#fff" offset="0"/>
+   <stop id="stop4273" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="rect4203" fill="#d0dade" d="m16 8v10c0 1.1046-0.89543 2-2 2h-10v18c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-28c0-1.108-0.892-2-2-2h-26z"/>
+ <path id="path4262" opacity=".3" d="m6 40c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
+ <path id="path4335" opacity=".2" d="m16 8-3 9-9 3 14 18 14-14z" fill="url(#linearGradient4343)"/>
+ <path id="path4294" opacity=".1" d="m4 24v13c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-13h-40z" fill="url(#linearGradient4296)"/>
+ <path id="path4240" style="enable-background:new" d="m16 8v10c0 1.1046-0.89543 2-2 2h-10l12-12z" fill="#bfcbd0"/>
+ <g id="g4227-9" fill="#6e6e6e" transform="matrix(.044742 0 0 .044215 17.546 2.6811)">
+  <path id="path4229" d="m97.344 482.17c-23.311 0-45.215-9.084-61.689-25.555-34.01-34.014-34.01-89.361 0-123.37l269.68-269.71c21.727-21.75 50.645-33.713 81.39-33.713 30.75 0 59.667 11.963 81.395 33.713 15.573 15.57 26.136 35.797 30.879 56.755h-33.388c-3.89-12.73-10.87-24.008-20.55-33.69-15.58-15.58-36.29-24.154-58.33-24.154-22.029 0-42.74 8.574-58.323 24.154l-269.68 269.7c-21.283 21.301-21.283 55.938 0 77.234 20.645 20.617 56.589 20.617 77.233 0l181.09-181.1c4.924-4.924 7.745-11.74 7.745-18.688 0-7.045-2.755-13.686-7.759-18.689-10.291-10.291-27.067-10.322-37.358 0l-123.68 123.69c-6.37 6.375-16.697 6.375-23.067 0-6.374-6.371-6.374-16.697 0-23.066l123.68-123.68c23.005-23.004 60.461-23.004 83.497 0 11.169 11.166 17.317 26 17.317 41.756 0 15.547-6.308 30.762-17.3 41.754l-181.09 181.11c-16.47 16.47-38.38 25.55-61.686 25.55z" fill="#6e6e6e"/>
+ </g>
+</svg>

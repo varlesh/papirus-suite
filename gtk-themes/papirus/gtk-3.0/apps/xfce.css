@@ -1,0 +1,10 @@
+XfceHeading {
+    background-color: @theme_base_color;
+    background-image: none;
+    padding: 0;
+    border-width: 0;
+}
+
+.xfce4-panel .menu {
+    -gtk-image-effect: none;
+}

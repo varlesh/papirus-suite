@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   id="svg6654"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="draw-connector.svg">
+  <defs
+     id="defs6656" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.42"
+     inkscape:cx="-12.527145"
+     inkscape:cy="-0.38252129"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="841"
+     inkscape:window-x="-4"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6659">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1036.3622)">
+    <rect
+       style="color:#000000;fill:none"
+       id="rect10524"
+       width="24"
+       height="24"
+       x="0"
+       y="1028.3622" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-linecap:round;stroke-linejoin:round;opacity:0.5"
+       d="M 11 0 L 11 0.01171875 L 11 1.5546875 C 10.636661 1.5756875 10.276522 1.5958125 9.8847656 1.6328125 C 8.6058619 1.7556125 7.222897 1.9617813 6 2.3632812 L 6 2 L 2 2 L 2 6 L 2.1269531 6 C 1.5576432 7.3541 1.2070264 8.931725 0.96484375 10.390625 C 0.92938035 10.604225 0.90925275 10.7925 0.87890625 11 L 0 11 L 0 11.011719 L 0 15 L 0 15.011719 L 1.5 15.011719 L 4 15.011719 L 4 15 L 4 13.457031 C 4.3633 13.436031 4.7235344 13.415906 5.1152344 13.378906 C 6.3941344 13.256106 7.7771 13.049938 9 12.648438 L 9 13.011719 L 13 13.011719 L 13 9.0117188 L 12.873047 9.0117188 C 13.442447 7.6576187 13.792956 6.0799937 14.035156 4.6210938 C 14.070156 4.4074937 14.091094 4.2192187 14.121094 4.0117188 L 15 4.0117188 L 15 4 L 15 0.01171875 L 15 0 L 13.5 0 L 11 0 z M 11 2.5546875 L 11 4 L 11 4.0117188 L 13.111328 4.0117188 C 13.088328 4.1652187 13.074828 4.3021844 13.048828 4.4589844 C 12.788328 6.0280844 12.350841 7.7156187 11.744141 9.0117188 L 9 9.0117188 L 9 11.5625 C 7.8366 11.9864 6.3724312 12.255066 5.0195312 12.384766 C 4.6616313 12.418766 4.334 12.437031 4 12.457031 L 4 11.011719 L 4 11 L 1.8886719 11 C 1.9118269 10.8465 1.9251549 10.709534 1.9511719 10.552734 C 2.2116643 8.9836344 2.6491699 7.2961 3.2558594 6 L 6 6 L 6 3.4492188 C 7.163399 3.0253187 8.6276143 2.7566531 9.9804688 2.6269531 C 10.338414 2.5929531 10.66595 2.5746875 11 2.5546875 z "
+       transform="translate(0,1036.3622)"
+       id="path4137" />
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata57">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs2819">
+  <linearGradient id="linearGradient3912" y2="203" gradientUnits="userSpaceOnUse" x2="127" gradientTransform="matrix(0 -1 1 0 -164 165)" y1="203" x1="143">
+   <stop id="stop4271" stop-color="#fff" offset="0"/>
+   <stop id="stop4273" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer7" display="none" transform="translate(-52.273 -2.186)">
+  <rect id="rect4169" rx="9" ry="9" height="44" width="44" display="inline" y="2" x="2" fill="#abe1ad"/>
+ </g>
+ <g id="g4225" transform="translate(0,5e-6)">
+  <rect id="rect4203-6" style="enable-background:new" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="32" y="-44" x="-38" fill="#5f7c8a"/>
+  <path id="rect4215" opacity=".3" style="enable-background:new" d="m4 35v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
+  <rect id="rect3282" ry="0" style="enable-background:new" rx="0" transform="matrix(0,-1,-1,0,0,0)" height="34" width="26" y="-41" x="-35" fill="#7f96a1"/>
+  <path id="path4294" opacity=".1" style="enable-background:new" d="m4 36c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-14h-40z" fill="url(#linearGradient3912)"/>
+  <path id="rect4414" opacity=".2" style="enable-background:new" d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
+  <circle id="path4058" style="enable-background:new" cx="36" cy="32" r="10" fill="#f34235"/>
+  <path id="path4-0" style="enable-background:new" d="m30 35.327v2.673h2.6728l6.7507-6.7507-2.6728-2.6728zm11.788-6.4337c0.28271-0.28271 0.28271-0.72818 0-1.0109l-1.6705-1.6705c-0.28271-0.28271-0.72818-0.28271-1.0109 0l-1.3964 1.405 2.6728 2.6728z" fill="#fff"/>
+  <path id="circle4220" opacity=".3" style="enable-background:new" d="m45.979 31.414a10 10 0 0 1 -9.979 9.586 10 10 0 0 1 -9.979 -9.414 10 10 0 0 0 -0.021 0.414 10 10 0 0 0 10 10 10 10 0 0 0 10 -10 10 10 0 0 0 -0.021 -0.586z"/>
+ </g>
+</svg>

@@ -2,13 +2,13 @@
 widgetStyle=breeze
 
 [kdeglobals][General]
-ColorScheme=Papirus
+ColorScheme=PapirusDark
 
 [kdeglobals][Icons]
-Theme=papirus
+Theme=papirus-dark
 
 [plasmarc][Theme]
-name=papirus
+name=papirus-dark
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors

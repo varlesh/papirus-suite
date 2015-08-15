@@ -7,7 +7,7 @@ On repository available:
 * GTK-Themes (only for KDE 5)
 * Plank themes (On GTK Theme)
 * LibreOffice icons
-* Bomi skins
+* Bomi skin (support light and dark colors)
 * Yakuake skins
 
 # INSTALL

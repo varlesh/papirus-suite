@@ -15,11 +15,22 @@ On repository available:
 ```
 yaourt -S papirus
 ```
-**For Kubuntu 15.04/15.10:**
+**For Kubuntu 14.04/15.04/15.10:**
 ```
 sudo add-apt-repository ppa:varlesh-l/papirus-pack
 sudo apt-get update
-sudo apt-get install papirus-icon-theme papirus-plasma-theme papirus-libreoffice-theme papirus-gtk-theme papirus-yakuake-theme papirus-bomi-theme 
+#Icon Theme
+sudo apt-get install papirus-icon-theme
+#Plasma 5 Themes (Only Kubuntu 15.04/15.10)
+sudo apt-get install papirus-plasma-theme
+#Libreoffice Icon Theme
+sudo apt-get install papirus-libreoffice-theme
+#GTK-Themes (Only Kubuntu 15.04/15.10)
+sudo apt-get install papirus-gtk-theme
+#Skins for Yakuake
+sudo apt-get install papirus-yakuake-theme
+#Skin for bomi 
+sudo apt-get install papirus-bomi-theme
 ```
 
 # LICENSES and AUTHORS

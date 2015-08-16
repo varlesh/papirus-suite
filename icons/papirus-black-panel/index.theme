@@ -12,7 +12,7 @@ PanelDefault=16
 PanelSizes=16,22,32,48,64,128,256
 
 # Directory list
-Directories=16x16/apps,16x16/actions,16x16/devices,16x16/places,16x16/status,16x16/extra/amarok,32x32/apps,32x32/categories,32x32/devices,48x48/apps,48x48/categories,48x48/devices,48x48/mimetypes,48x48/notifications,48x48/places,48x48/status,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
+Directories=16x16/apps,16x16/actions,16x16/devices,16x16/places,16x16/status,16x16/extra/amarok,32x32/apps,32x32/devices,48x48/apps,48x48/devices,48x48/mimetypes,48x48/notifications,48x48/places,48x48/status,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
 
 [16x16/apps]
 Context=Applications
@@ -56,13 +56,6 @@ MinSize=16
 MaxSize=32
 Type=Scalable
 
-[32x32/categories]
-Context=Categories
-Size=32
-MinSize=16
-MaxSize=32
-Type=Scalable
-
 [32x32/devices]
 Context=Devices
 Size=32
@@ -72,13 +65,6 @@ Type=Scalable
 
 [48x48/apps]
 Context=Applications
-Size=48
-MinSize=16
-MaxSize=512
-Type=Scalable
-
-[48x48/categories]
-Context=Categories
 Size=48
 MinSize=16
 MaxSize=512

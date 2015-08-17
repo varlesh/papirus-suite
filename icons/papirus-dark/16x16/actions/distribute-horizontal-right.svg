@@ -119,14 +119,14 @@
          id="g4460"
          style="fill:#ffffff;fill-opacity:1">
         <rect
-           style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none"
+           style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect4438"
            width="2"
            height="14"
            x="505.00034"
            y="-38.003361" />
         <rect
-           style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none"
+           style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect4440"
            width="5"
            height="4"
@@ -138,21 +138,21 @@
            height="4"
            width="5"
            id="rect4442"
-           style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none" />
+           style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none" />
       </g>
       <g
          id="g4460-6"
          style="display:inline;enable-background:new;fill:#ffffff;fill-opacity:1"
          transform="translate(8.9999943,1.748291e-6)">
         <rect
-           style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none"
+           style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect4438-7"
            width="2"
            height="14"
            x="505.00034"
            y="-38.003361" />
         <rect
-           style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none"
+           style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect4440-7"
            width="5"
            height="4"
@@ -164,7 +164,7 @@
            height="4"
            width="5"
            id="rect4442-1"
-           style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none" />
+           style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none" />
       </g>
     </g>
   </g>

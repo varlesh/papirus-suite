@@ -194,7 +194,7 @@
        cy="26"
        r="10" />
     <path
-       style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 432,429.00002 a 7,7 0 0 0 -1.16667,0.0991 l 0,9.81755 c 0,0.32316 -0.26016,0.58333 -0.58333,0.58333 l -0.58333,0 c -0.32317,0 -0.58334,-0.26017 -0.58334,-0.58333 l 0,-9.27067 A 7,7 0 0 0 425,436 a 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-7 z m -0.28939,3.5 a 0.29169583,0.31821221 0 0 1 0.139,0.0399 l 5.25,3.18213 a 0.29169583,0.31821221 0 0 1 0,0.55599 l -5.25,3.18213 a 0.29169583,0.31821221 0 0 1 -0.43294,-0.27802 l 0,-6.36426 a 0.29169583,0.31821221 0 0 1 0.29394,-0.31787 z"
        id="path4454"
        inkscape:connector-curvature="0" />

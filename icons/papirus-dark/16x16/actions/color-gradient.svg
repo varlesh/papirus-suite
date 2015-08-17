@@ -134,11 +134,11 @@
      style="display:inline"
      transform="translate(-385.00043,78.996356)">
     <path
-       style="opacity:0.5;stroke:none;fill-opacity:1;fill:url(#linearGradient4177)"
+       style="opacity:0.72;stroke:none;fill-opacity:1;fill:url(#linearGradient4177)"
        d="m 386.00043,-77.996353 14,0 0,14 -14,0 z"
        id="rect4168" />
     <path
-       style="opacity:0.5;stroke:none;fill:#ffffff;fill-opacity:1"
+       style="opacity:0.72;stroke:none;fill:#ffffff;fill-opacity:1"
        d="M 2 2 L 2 6 L 5.2929688 6 L 10 10.705078 L 10 14 L 14 14 L 14 10 L 10.708984 10 L 6 5.2929688 L 6 2 L 2 2 z "
        transform="translate(385.00043,-78.996356)"
        id="rect4179" />

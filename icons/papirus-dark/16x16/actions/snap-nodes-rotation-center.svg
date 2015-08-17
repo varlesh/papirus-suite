@@ -148,13 +148,13 @@
        id="rect5385-6-0-1"
        style="color:#000000;fill:none;stroke-width:0.1" />
     <path
-       style="color:#000000;fill:none;stroke:#ffffff;stroke-linecap:square;stroke-dasharray:1, 2;stroke-dashoffset:2.5;stroke-opacity:1;opacity:0.5"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-linecap:square;stroke-dasharray:1, 2;stroke-dashoffset:2.5;stroke-opacity:1;opacity:0.72"
        d="m 518.50018,207.5 0,13 -13,0"
        id="path9141-9"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       style="display:inline;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.73050779;stroke-opacity:1;enable-background:new"
+       style="display:inline;opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.73050779;stroke-opacity:1;enable-background:new"
        d="m 511.00018,212 0,1 -1,0 0,2 1,0 0,1 2,0 0,-1 1,0 0,-2 -1,0 0,-1 -2,0 z"
        id="rect4355" />
   </g>

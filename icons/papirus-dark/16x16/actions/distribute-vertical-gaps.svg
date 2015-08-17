@@ -116,7 +116,7 @@
        transform="matrix(0,1,-1,0,481.99697,-545.00368)"
        style="fill:#ffffff;fill-opacity:1">
       <path
-         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none"
+         style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none"
          d="m 2.5,1 0,2 -1.5,0 0,4 1.5,0 0,2 -1.5,0 0,4 1.5,0 0,2 2,0 0,-2 L 6,13 6,9 4.5,9 4.5,7 6,7 6,3 4.5,3 l 0,-2 -2,0 z m 9,0 0,2 -1.5,0 0,4 1.5,0 0,2 -1.5,0 0,4 1.5,0 0,2 2,0 0,-2 1.5,0 0,-4 -1.5,0 0,-2 1.5,0 0,-4 -1.5,0 0,-2 -2,0 z"
          transform="translate(506.00032,-39.003361)"
          id="rect4438"

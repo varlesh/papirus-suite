@@ -112,7 +112,7 @@
      style="display:inline"
      transform="translate(-485.0006,99.00672)">
     <path
-       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none"
        d="M 8 1.0039062 C 4.13397 1.0039062 1 4.1380262 1 8.0039062 C 1 11.869936 4.13397 15.003906 8 15.003906 C 11.86603 15.003906 15 11.869936 15 8.0039062 C 15 4.1380262 11.86603 1.0039062 8 1.0039062 z M 7 3 L 9 3 L 9 9 L 8 9 L 7 9 L 7 3 z M 8 10 C 8.55229 10 9 10.447712 9 11 C 9 11.552288 8.55229 12 8 12 C 7.44771 12 7 11.552288 7 11 C 7 10.447712 7.44771 10 8 10 z "
        transform="translate(485.0006,-99.00672)"
        id="path4142" />

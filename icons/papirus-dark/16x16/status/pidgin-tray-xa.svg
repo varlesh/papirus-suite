@@ -122,12 +122,12 @@
      style="display:inline"
      transform="translate(-265.0004,275.00336)">
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.5"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.72"
        d="M 2.96875 2 C 2.96875 2 1 2 1 4 L 1 7 L 1 9 L 1 10 C 1 11.108 1.892 12 3 12 L 8 12 L 10 15.003906 L 12 12 L 13 12 C 13 12 15 12 15 10 L 15 4 C 15 2 13 2 13 2 L 2.96875 2 z M 8 4 A 3 3 0 0 1 11 7 A 3 3 0 0 1 8 10 A 3 3 0 0 1 5 7 A 3 3 0 0 1 8 4 z "
        transform="translate(265.0004,-275.00336)"
        id="path3003-2" />
     <ellipse
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.72;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4176"
        cx="277.50049"
        cy="-265.50336"

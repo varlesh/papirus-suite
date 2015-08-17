@@ -119,7 +119,7 @@
          inkscape:connector-curvature="0"
          id="rect5719"
          d="m 469.0002,143 c -1.108,0 -2,0.892 -2,2 l 0,8 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 l 0,-8 c 0,-1.108 -0.892,-2 -2,-2 l 0,2 0,1 0,1 -6,3 -6,-3 0,-1 0,-1 0,-2 z"
-         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
          transform="translate(467.0006,138.00003)"
          id="g4151"
@@ -132,7 +132,7 @@
           <rect
              height="2"
              id="rect6620"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
              width="10"
              x="308.00043"
              y="3.9966431" />
@@ -141,7 +141,7 @@
              inkscape:connector-curvature="0"
              d="m 308.00041,7.99664 0,2 10,-4.1e-6 0,-1.9999959 z"
              id="rect6622"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new" />
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new" />
         </g>
       </g>
     </g>

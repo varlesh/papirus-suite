@@ -116,12 +116,12 @@
        d="m 507.5002,54 c -0.82235,0 -1.5,-0.67765 -1.5,-1.5 0,-0.82235 0.67765,-1.5 1.5,-1.5 0.82235,0 1.5,0.67765 1.5,1.5 0,0.82235 -0.67765,1.5 -1.5,1.5 z m 0,-4 c -0.82235,0 -1.5,-0.67765 -1.5,-1.5 0,-0.82235 0.67765,-1.5 1.5,-1.5 0.82235,0 1.5,0.67765 1.5,1.5 0,0.82235 -0.67765,1.5 -1.5,1.5 z m 0,-4 c -0.82235,0 -1.5,-0.67765 -1.5,-1.5 0,-0.82235 0.67765,-1.5 1.5,-1.5 0.82235,0 1.5,0.67765 1.5,1.5 0,0.82235 -0.67765,1.5 -1.5,1.5 z"
        id="path8910"
        sodipodi:nodetypes="sssssssssssssss"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" />
     <path
        inkscape:connector-curvature="0"
        d="m 513.0002,44 0,4 -3.0625,0 5.0625,7 5.1875,-7 -3.1875,0 0,-4 z"
        id="path8912"
        sodipodi:nodetypes="cccccccc"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:new" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:new" />
   </g>
 </svg>

@@ -112,7 +112,7 @@
      style="display:inline"
      transform="translate(-505.0004,-20.99664)">
     <path
-       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none"
        d="M 0 1 L 0 15 C 5.33327 14.998 10.66673 15.005906 16 15.003906 L 16 1.0039062 C 10.66673 1.0059063 5.33327 0.998 0 1 z M 2 3 L 7 3 L 14 3 L 14 3.0039062 L 14 7 L 2 7 L 2 3.0039062 L 2 3 z M 2 9 L 14 9 L 14 13 L 14 13.005859 L 9 13.005859 L 9 13 L 7 13 L 7 13.003906 L 2 13.005859 L 2 13 L 2 9 z "
        transform="translate(505.0004,20.99664)"
        id="rect5700" />

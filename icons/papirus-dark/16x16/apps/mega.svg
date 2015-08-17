@@ -194,7 +194,7 @@
        cy="26"
        r="10" />
     <path
-       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 8 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 z M 4 4 L 6 4 L 6 4.0058594 L 6.0019531 4.0039062 L 8 7 L 10 4 L 10.001953 4 L 12 4 L 12 12 L 10 12 L 10 8 L 8 10 L 6 8 L 6 12 L 4 12 L 4 4 z "
        transform="translate(424,428)"
        id="path4154" />

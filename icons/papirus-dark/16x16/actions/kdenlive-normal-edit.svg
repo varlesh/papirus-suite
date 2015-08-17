@@ -116,7 +116,7 @@
        transform="translate(-6.8945312e-6,3.4999999)"
        style="fill:#ffffff;fill-opacity:1">
       <path
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          sodipodi:nodetypes="ccccc"
          id="rect5813"
          d="m 429.99979,19.996641 0,6 6,0 0,-6 z"
@@ -125,7 +125,7 @@
          transform="matrix(0,-1,1,0,0,0)"
          height="10"
          id="rect4142"
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="4"
          x="-30.996641"
          y="427.99982" />

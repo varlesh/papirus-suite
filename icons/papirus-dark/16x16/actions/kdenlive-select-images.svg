@@ -116,9 +116,9 @@
        d="m 267.0002,-76.999999 c -1,0 -1,1 -1,1 l 0,4 2,0 0,-3 3,0 0,-2 z m 8,0 0,2 3,0 0,3 2,0 0,-4 c 0,-1 -1,-1 -1,-1 z m -9,7 0,4 c 0,1 1,1 1,1 l 4,0 0,-2 -3,0 0,-3 z m 12,0 0,3 -3,0 0,2 4,0 c 0,0 1,0 1,-1 l 0,-4 z"
        id="path10424"
        sodipodi:nodetypes="sccccccscccccscccscccccccccccscc"
-       style="color:#bebebe;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none" />
+       style="color:#bebebe;opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none" />
     <path
-       style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 6.9902344 5 L 6.9902344 6 L 8.9902344 6 L 8.9902344 5 L 6.9902344 5 z M 6.9902344 7 L 6.9902344 11 L 8.9902344 11 L 8.9902344 7 L 6.9902344 7 z "
        transform="translate(265.00059,-79.003339)"
        id="rect4138" />

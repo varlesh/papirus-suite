@@ -763,7 +763,7 @@
        inkscape:connector-curvature="0"
        d="m 392.0002,-136 c -3.29341,0 -6,2.7066 -6,6 0,3.2934 2.70659,6 6,6 3.2934,0 6,-2.7066 6,-6 0,-3.2934 -2.7066,-6 -6,-6 z m 0,4.28571 c 0.9417,0 1.71429,0.77259 1.71429,1.71429 0,0.94169 -0.77259,1.71429 -1.71429,1.71429 -0.9417,0 -1.71429,-0.7726 -1.71429,-1.71429 0,-0.9417 0.77259,-1.71429 1.71429,-1.71429 z"
        id="path10465"
-       style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.61250019;marker:none;enable-background:accumulate;opacity:0.5" />
+       style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.61250019;marker:none;enable-background:accumulate;opacity:0.72" />
     <text
        x="1210.3973"
        y="-145.23587"
@@ -2656,7 +2656,7 @@
          inkscape:label="actions"
          id="layer12-5">
         <path
-           style="display:inline;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;enable-background:new"
+           style="display:inline;opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none;enable-background:new"
            d="M 5.0078125 1 C 4.0086103 1 4.0097656 1.9335938 4.0097656 1.9335938 C 4.0082631 1.9370336 4.0108725 2.5942226 4.0097656 2.6796875 A 7 7 0 0 1 7 2 A 7 7 0 0 1 14 9 A 7 7 0 0 1 10.601562 14.994141 L 15 14.994141 C 15 14.994141 15.062575 15.008694 15.15625 14.994141 C 15.437276 14.950406 16 14.760223 16 14.060547 L 16 1.9335938 C 16 1.0006916 15 1 15 1 L 5.0078125 1 z "
            transform="matrix(-1.0007984,0,0,-1.0719238,443.01297,-61.928076)"
            id="path5772" />

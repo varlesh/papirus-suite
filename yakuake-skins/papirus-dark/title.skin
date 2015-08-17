@@ -14,9 +14,9 @@ width=1
 [Text]
 x=7
 y=16
-red=120
-green=120
-blue=121
+red=193
+green=193
+blue=193
 text=Yakuake
 
 [Background]

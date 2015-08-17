@@ -32,6 +32,7 @@ sudo apt-get install papirus-yakuake-theme
 #Skin for bomi 
 sudo apt-get install papirus-bomi-theme
 ```
+![Screenshot papirus-pack](papirus-pack.png)
 
 # LICENSES and AUTHORS
 This repository combines many licenses, which mostly come from the original projects. Please, see AUTHOR and LICENSE pages in each module folder of the theme for more information.

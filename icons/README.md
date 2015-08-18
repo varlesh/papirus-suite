@@ -1,4 +1,4 @@
-Adaptive and modofied [Paper icon theme](https://github.com/snwh/paper-icon-theme) for KDE distros.
+Adaptive and modified [Paper icon theme](https://github.com/snwh/paper-icon-theme) for KDE distros.
 
 ![Screenshot icons](icons.png) 
 

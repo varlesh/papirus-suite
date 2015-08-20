@@ -1,0 +1,74 @@
+<link href="{{ header.absoluteThemePath }}/style.css" rel="stylesheet" type="text/css" />
+<div id="kmailPage">
+<div id="headerbox" dir="ltr">
+	<div id="subject" dir="{{ header.subjectDir }}">{{ header.subject|safe }}</div>
+
+	<div id="photo">
+		{% if header.photourl %}
+		<img src="{{ header.photourl }}" width="{{ header.photowidth }}" height="{{ header.photoheight }}" />
+		{% else %}
+		<img src="{{ header.absoluteThemePath }}/user.png" width="{{ header.photowidth }}" height="{{ header.photoheight }}" />
+		{% endif %}
+	</div>
+
+	<div class="table">
+		<div class="row">
+			<div class="headerleft">{{ header.fromi18n }}</div>
+			<div class="headerright">
+				{{ header.from|safe }}
+
+				{% if header.resentfrom %}
+				{{ header.resentfromi18n }}: {{ header.resentfrom|safe }}
+				{% endif %}
+
+				{% if vCardName %}
+				<a href="{{ header.vcardname|safe }}">{{ header.vcardi18n }}</a>
+				{% endif %}
+
+				{% if header.organization %}
+				({{ header.organization|safe }})
+				{% endif %}
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="headerleft">{{ header.toi18n }}</div>
+			<div class="headerright">{{ header.to|safe }}</div>
+		</div>
+
+		{% if header.cc %}
+		<div class="row">
+			<div class="headerleft">{{ header.cci18n }}</div>
+			<div class="headerright">{{ header.cc|safe }}</div>
+		</div>
+		{% endif %}
+
+		{% if header.bcc %}
+		<div class="row">
+			<div class="headerleft">{{ header.bcci18n }}</div>
+			<div class="headerright">{{ header.bcc|safe }}</div>
+		</div>
+		{% endif %}
+
+		{% if header.Sender %}
+		<div class="row">
+			<div class="headerleft">Sender:</div>
+			<div class="headerright">{{ header.Sender|safe }}</div>
+		</div>
+		{% endif %}
+
+		{% if header.ListId %}
+		<div class="row">
+			<div class="headerleft">List-Id:</div>
+			<div class="headerright">{{ header.ListId }}</div>
+		</div>
+		{% endif %}
+
+		<div class="row">
+			<div class="headerleft">{{ header.datei18n }}</div>
+			<div class="headerrightdate" dir="{{ dateDir }}">{{ header.dateshort }}</div>
+		</div>
+	</div>
+	<div id="attachmentInjectionPoint"></div>
+</div>
+<div id="kmailContent">

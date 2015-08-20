@@ -45,8 +45,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.12"
-     inkscape:cx="14.298337"
+     inkscape:zoom="1"
+     inkscape:cx="1.493459"
      inkscape:cy="26.295103"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -97,35 +97,26 @@
        style="fill:#b891f7;fill-opacity:1"
        inkscape:connector-curvature="0" />
     <g
-       id="g4381"
-       style="fill:#ffffff;fill-opacity:1"
-       transform="translate(0,1004.3622)">
+       id="g4160"
+       transform="translate(3.000035,0)">
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 19.999905,1028.3622 0,3 -4.499966,4 4.499966,4 0,3 -7.99994,-6.8672 z"
+         id="path4456" />
       <g
-         id="g4373"
-         style="fill:#ffffff;fill-opacity:1">
-        <path
-           id="path4456"
-           d="m 19.999905,24 0,3 -4.499966,4 4.499966,4 0,3 -7.99994,-6.8672 z"
-           inkscape:connector-curvature="0"
-           style="opacity:1;fill:#ffffff;fill-opacity:1" />
-        <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1"
-           x="29.986"
-           y="14.77"
-           width="2"
-           height="16"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)"
-           id="rect4458" />
+         transform="translate(-4.9999,0)"
+         id="g4156">
         <path
            inkscape:connector-curvature="0"
            id="path4363"
-           d="m 29,24 a 1.0001,1.0001 0 0 0 -1,1 l 0,2 a 1.0001,1.0001 0 1 0 2,0 l 0,-1 2,0 0,3.464844 -2.554688,1.703125 A 1.0001,1.0001 0 0 0 29,32 l 0,2 a 1.0001,1.0001 0 1 0 2,0 l 0,-1.464844 2.554688,-1.703125 A 1.0001,1.0001 0 0 0 34,30 l 0,-5 a 1.0001,1.0001 0 0 0 -1,-1 l -4,0 z"
+           d="m 29,1028.3622 a 1.0001,1.0001 0 0 0 -1,1 l 0,2 a 1.0001,1.0001 0 1 0 2,0 l 0,-1 2,0 0,3.4648 -2.554688,1.7032 A 1.0001,1.0001 0 0 0 29,1036.3622 l 0,2 a 1.0001,1.0001 0 1 0 2,0 l 0,-1.4648 2.554688,-1.7032 A 1.0001,1.0001 0 0 0 34,1034.3622 l 0,-5 a 1.0001,1.0001 0 0 0 -1,-1 l -4,0 z"
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
         <circle
            style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path4369"
            cx="30"
-           cy="37"
+           cy="1041.3622"
            r="1" />
       </g>
     </g>

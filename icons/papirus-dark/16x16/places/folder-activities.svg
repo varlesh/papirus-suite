@@ -22,13 +22,13 @@
    width="16">
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
-     inkscape:bbox-paths="true"
+     inkscape:bbox-paths="false"
      bordercolor="#666666"
      borderlayer="false"
      borderopacity="1"
-     inkscape:current-layer="layer1"
-     inkscape:cx="-18.251256"
-     inkscape:cy="3.6080402"
+     inkscape:current-layer="layer12"
+     inkscape:cx="4.2746852"
+     inkscape:cy="6.8864241"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -37,15 +37,15 @@
      inkscape:object-paths="true"
      objecttolerance="10"
      pagecolor="#f7f7f7"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     showborder="false"
+     showborder="true"
      showgrid="false"
      showguides="true"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="false"
-     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-bbox-midpoints="true"
      inkscape:snap-center="false"
      inkscape:snap-global="true"
      inkscape:snap-grids="true"
@@ -62,18 +62,18 @@
      inkscape:window-width="1600"
      inkscape:window-x="-4"
      inkscape:window-y="32"
-     inkscape:zoom="9.95">
+     inkscape:zoom="30.14">
     <inkscape:grid
        color="#ffffff"
        dotted="false"
-       empcolor="#808080"
+       empcolor="#0800ff"
        empopacity="0.4627451"
        empspacing="4"
        enabled="true"
        id="grid4866"
        opacity="0.16470588"
-       originx="-466.0002px"
-       originy="-610px"
+       originx="-244.0004"
+       originy="-316.00672"
        snapvisiblegridlinesonly="true"
        spacingx="0.25px"
        spacingy="0.25px"
@@ -104,78 +104,17 @@
          offset="0"
          style="stop-color:#ffffff;stop-opacity:1;" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB"
-       id="filter7554">
-      <feBlend
-         inkscape:collect="always"
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
   </defs>
-  <g
-     inkscape:groupmode="layer"
-     id="layer9"
-     inkscape:label="status"
-     style="display:inline"
-     transform="translate(-707.0004,393)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer10"
-     inkscape:label="devices"
-     style="display:inline;filter:url(#filter7554)"
-     transform="translate(-707.0004,393)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="places"
-     style="display:inline"
-     transform="translate(-466.0002,-224)">
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#ffffff;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.72"
-       d="M 2 1 C 2 1 1 1 1 2 L 1 13 C 1 13 1 14 2 14 L 14 14 C 14 14 15 14 15 13 L 15 4 C 15 3 14 3 14 3 L 9 3 L 7 1 L 2 1 z M 4.5 9 A 1.5 1.5 0 0 1 6 10.5 A 1.5 1.5 0 0 1 4.5 12 A 1.5 1.5 0 0 1 3 10.5 A 1.5 1.5 0 0 1 4.5 9 z M 8.5 9 A 1.5 1.5 0 0 1 10 10.5 A 1.5 1.5 0 0 1 8.5 12 A 1.5 1.5 0 0 1 7 10.5 A 1.5 1.5 0 0 1 8.5 9 z M 12.5 9 A 1.5 1.5 0 0 1 14 10.5 A 1.5 1.5 0 0 1 12.5 12 A 1.5 1.5 0 0 1 11 10.5 A 1.5 1.5 0 0 1 12.5 9 z "
-       transform="translate(466.0002,224)"
-       id="path5057-4" />
-    <g
-       id="g4162"
-       transform="translate(1.9999864,2)" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer14"
-     inkscape:label="mimetypes"
-     style="display:inline"
-     transform="translate(-707.0004,393)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer15"
-     inkscape:label="emblems"
-     style="display:inline"
-     transform="translate(-707.0004,393)" />
-  <g
-     inkscape:groupmode="layer"
-     id="g71291"
-     inkscape:label="emotes"
-     style="display:inline"
-     transform="translate(-707.0004,393)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="categories"
-     style="display:inline"
-     transform="translate(-466.0002,-73.999996)" />
-  <g
-     inkscape:groupmode="layer"
-     id="g6058"
-     inkscape:label="apps"
-     style="display:inline"
-     transform="translate(-466.0002,-73.999996)" />
   <g
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="actions"
      style="display:inline"
-     transform="translate(-707.0004,393)" />
+     transform="translate(-485.0006,99.00672)">
+    <path
+       style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3 6 A 2 2 0 0 0 1 8 A 2 2 0 0 0 3 10 A 2 2 0 0 0 5 8 A 2 2 0 0 0 3 6 z M 8 6 A 2 2 0 0 0 6 8 A 2 2 0 0 0 8 10 A 2 2 0 0 0 10 8 A 2 2 0 0 0 8 6 z M 13 6 A 2 2 0 0 0 11 8 A 2 2 0 0 0 13 10 A 2 2 0 0 0 15 8 A 2 2 0 0 0 13 6 z "
+       transform="translate(485.0006,-99.00672)"
+       id="path4140" />
+  </g>
 </svg>

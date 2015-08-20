@@ -10,7 +10,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="folder-sound.svg"
+   sodipodi:docname="folder-music.svg"
    inkscape:export-filename="/home/sam/source-symbolic.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270"
@@ -27,7 +27,7 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer1"
-     inkscape:cx="-183.08621"
+     inkscape:cx="-300.00086"
      inkscape:cy="-13.158235"
      gridtolerance="10"
      inkscape:guide-bbox="true"
@@ -57,14 +57,14 @@
      inkscape:snap-page="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="840"
+     inkscape:window-height="876"
      inkscape:window-maximized="1"
-     inkscape:window-width="1600"
-     inkscape:window-x="-4"
-     inkscape:window-y="34"
-     inkscape:zoom="2.32">
+     inkscape:window-width="1535"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:zoom="1.33">
     <inkscape:grid
-       color="#000000"
+       color="#ffffff"
        dotted="false"
        empcolor="#0800ff"
        empopacity="0.4627451"
@@ -102,7 +102,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
     </linearGradient>
     <filter
        inkscape:collect="always"

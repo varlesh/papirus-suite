@@ -1,1 +1,124 @@
-application-xml.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48.000001 48.000001"
+   id="svg4357"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="application-x-php.svg">
+  <defs
+     id="defs4359">
+    <clipPath
+       id="clipPath4266-4"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="fill:#ffffff"
+         inkscape:connector-curvature="0"
+         id="path4268-0"
+         d="m 146,240 c -1.108,0 -2,0.892 -2,2 l 0,36 c 0,1.108 0.892,2 2,2 l 28,0 c 1.108,0 2,-0.892 2,-2 l 0,-26 -12,-12 -18,0 z" />
+    </clipPath>
+    <filter
+       id="filter4987"
+       height="1.2229"
+       width="1.26"
+       y="-0.11143"
+       x="-0.13">
+      <feGaussianBlur
+         id="feGaussianBlur4989"
+         stdDeviation="0.65" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#989898"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="1.493459"
+     inkscape:cy="26.295103"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="842"
+     inkscape:window-x="-4"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4362">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1004.3622)">
+    <path
+       id="path4754"
+       style="opacity:0.1;filter:url(#filter4987);enable-background:new"
+       d="m 163.22,242.45 0,11 c 0,1.1046 0.89543,2 2,2 l 10,0 -1,-1 -10,-9 z"
+       clip-path="url(#clipPath4266-4)"
+       transform="translate(-135.61,766.6422)"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4750"
+       d="m 10,1008.3622 c -1.108,0 -2,0.892 -2,2 l 0,36 c 0,1.108 0.892,2 2,2 l 28,0 c 1.108,0 2,-0.892 2,-2 l 0,-26 -11,-1 -1,-11 z"
+       style="fill:#977dc1;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4752"
+       d="m 10,1008.3622 c -1.108,0 -2,0.892 -2,2 l 0,1 c 0,-1.108 0.892,-2 2,-2 l 18,0 11,11 1,0 -12,-12 z"
+       inkscape:connector-curvature="0"
+       style="opacity:0.2;fill:#ffffff" />
+    <path
+       id="path4756"
+       d="m 28,1008.3622 0,10 c 0,1.1046 0.89543,2 2,2 l 10,0 -12,-12 z"
+       style="fill:#b891f7;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g4160"
+       transform="translate(3.000035,0)">
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 19.999905,1028.3622 0,3 -4.499966,4 4.499966,4 0,3 -7.99994,-6.8672 z"
+         id="path4456" />
+      <g
+         transform="translate(-4.9999,0)"
+         id="g4156">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4363"
+           d="m 29,1028.3622 a 1.0001,1.0001 0 0 0 -1,1 l 0,2 a 1.0001,1.0001 0 1 0 2,0 l 0,-1 2,0 0,3.4648 -2.554688,1.7032 A 1.0001,1.0001 0 0 0 29,1036.3622 l 0,2 a 1.0001,1.0001 0 1 0 2,0 l 0,-1.4648 2.554688,-1.7032 A 1.0001,1.0001 0 0 0 34,1034.3622 l 0,-5 a 1.0001,1.0001 0 0 0 -1,-1 l -4,0 z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4369"
+           cx="30"
+           cy="1041.3622"
+           r="1" />
+      </g>
+    </g>
+  </g>
+</svg>

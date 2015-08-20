@@ -1,0 +1,68 @@
+body {
+	background-color: #EFF0F1 !important;
+	background-margin: 0px auto;
+	padding: 3px;
+	line-height: 18px;
+	height: 100%;
+}
+
+div#headerbox {
+	background: #F8F8FF;
+	margin-bottom: 1em;
+	background-color: white;
+	padding: 5px 20px 20px;
+	box-shadow: 1px 1px 6px -2px #000;
+	color: #333 !important;
+	border-top: 5px solid #888888;
+	overflow: auto;
+}
+
+div#subject {
+	font-size: 22px;
+	line-height: 24px;
+	font-weight: normal;
+	color: #666 !important;
+	text-shadow: 0 0 10px #eee, 0 0 5px #eee;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+div#photo {
+	float: left;
+	margin: 5px;
+}
+
+div.table {
+	display: table;
+	padding-top: 6px;
+	padding-right: 12px;
+}
+
+div.row {
+	display: table-row;
+}
+
+div.headerleft {
+	display: table-cell;
+	padding: 0.1em 1em;
+}
+
+div.headerright {
+	display: table-cell;
+	padding: 0.1em;
+	font-weight: bold;
+}
+
+div.headerrightdate {
+	display: table-cell;
+	padding: 0.1em;
+	font-weight: bold;
+	color: #666 !important;
+}
+
+#kmailContent {
+	margin-top: 10px;
+	padding: 20px;
+	background-color: white;
+	box-shadow: 1px 1px 6px -2px #000;
+}

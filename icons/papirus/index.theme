@@ -148,7 +148,7 @@ MaxSize=512
 Type=Scalable
 
 [symbolic/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=16
 MinSize=16
 MaxSize=512

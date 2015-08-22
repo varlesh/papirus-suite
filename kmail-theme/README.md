@@ -1,5 +1,1 @@
-Kmail theme. Light and dark variants.
-
-![Kmail light](kmail.png) 
-
-![Kmail dark](kmail-dark.png) 
+Kmail theme. Light and dark versions.

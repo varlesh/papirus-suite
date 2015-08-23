@@ -20,19 +20,19 @@ Color=255,87,34
 Color=76,175,80
 
 [Color2Intense]
-Color=88,110,117
+Color=69,69,70
 
 [Color3]
 Color=246,116,0
 
 [Color3Intense]
-Color=101,123,131
+Color=108,108,109
 
 [Color4]
 Color=33,150,243
 
 [Color4Intense]
-Color=131,148,150
+Color=148,148,149
 
 [Color5]
 Color=233,30,99
@@ -41,10 +41,10 @@ Color=233,30,99
 Color=156,39,176
 
 [Color6]
-Color=0,188,212
+Color=0,150,136
 
 [Color6Intense]
-Color=147,161,161
+Color=188,188,189
 
 [Color7]
 Color=228,228,229

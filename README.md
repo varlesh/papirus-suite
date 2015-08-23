@@ -1,11 +1,11 @@
 # Papirus pack KDE
 Papirus customization for KDE distros.
-On repository available:
+On repository avaiable:
 * Plasma 5 themes
 * Legacy support Plasma themes for KDE 4
 * Icons
 * System color-schemes
-* Konsole color-schemes
+* Konsole profile color-schemes
 * Kmail themes (messageviewer)
 * GTK themes (only for KDE 5)
 * Plank themes (On GTK Theme)
@@ -24,7 +24,7 @@ sudo add-apt-repository ppa:varlesh-l/papirus-pack
 sudo apt-get update
 #Icon Theme
 sudo apt-get install papirus-icon-theme
-#Plasma 5 Themes (Only Kubuntu 15.04/15.10)
+#Plasma Themes
 sudo apt-get install papirus-plasma-theme
 #Libreoffice Icon Theme
 sudo apt-get install papirus-libreoffice-theme
@@ -32,7 +32,11 @@ sudo apt-get install papirus-libreoffice-theme
 sudo apt-get install papirus-gtk-theme
 #Skins for Yakuake
 sudo apt-get install papirus-yakuake-theme
-#Skin for bomi 
+#Konsole/Yakuake color-schemes
+sudo apt-get install papirus-konsole-colorscheme
+#KMail messageviewer themes
+sudo apt-get install papirus-kmail-theme
+#Skin for bomi
 sudo apt-get install papirus-bomi-theme
 ```
 ![Screenshot papirus-pack](papirus-pack.png)

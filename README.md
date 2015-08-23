@@ -1,10 +1,13 @@
 # Papirus pack KDE
 Papirus customization for KDE distros.
 On repository available:
-* Plasma 5 Themes
+* Plasma 5 themes
+* Legacy support Plasma themes for KDE 4
 * Icons
-* Color-schemes
-* GTK-Themes (only for KDE 5)
+* System color-schemes
+* Konsole color-schemes
+* Kmail themes (messageviewer)
+* GTK themes (only for KDE 5)
 * Plank themes (On GTK Theme)
 * LibreOffice icons
 * Bomi skin (support light and dark colors)

@@ -4,6 +4,7 @@ On repository avaiable:
 * Plasma 5 themes
 * Legacy support Plasma themes for KDE 4
 * Icons
+* Aurorae themes
 * System color-schemes
 * Konsole profile color-schemes
 * Kmail themes (messageviewer)

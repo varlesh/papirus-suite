@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32.000001 32.000001"
+   id="svg4571"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="kronometer.svg">
+  <defs
+     id="defs4573" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-87.857143"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="846"
+     inkscape:window-x="-5"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4576">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1020.3622)">
+    <g
+       transform="translate(-2e-4,1020.3622)"
+       id="g4560">
+      <rect
+         style="fill:#3ce7bb;fill-opacity:1"
+         x="-30"
+         y="-30"
+         width="28"
+         height="28"
+         transform="matrix(0,-1,-1,0,0,0)"
+         rx="14"
+         ry="14"
+         id="rect4203-9" />
+      <path
+         style="opacity:0.2;fill:#ffdddd"
+         inkscape:connector-curvature="0"
+         d="M 16,2 C 8.244,2 2,8.244 2,16 2,16.169 2.0195,16.333 2.0254,16.5 2.2891,8.9794 8.4128,3 16.0004,3 c 7.587,0 13.711,5.9794 13.975,13.5 0.005,-0.167 0.025,-0.331 0.025,-0.5 0,-7.756 -6.244,-14 -14,-14 z"
+         id="rect5867" />
+      <rect
+         style="opacity:0.8;fill:#ffffff"
+         x="-28"
+         y="-28"
+         width="24"
+         height="24"
+         ry="12"
+         rx="12"
+         transform="matrix(0,-1,-1,0,0,0)"
+         id="rect4514" />
+      <path
+         style="opacity:0.8"
+         inkscape:connector-curvature="0"
+         d="m 14.631,16.568 2.1782,3.7214 c 0.39905,0.68176 1.2769,0.91287 1.9687,0.5189 0.69181,-0.39398 0.92783,-1.2594 0.52878,-1.9412 l -2.1627,-3.6949 4.995,-2.8446 c 0.3459,-0.19699 0.46367,-0.63014 0.26404,-0.9712 -0.19963,-0.34106 -0.63881,-0.45704 -0.98472,-0.26005 l -5.9913,3.412 c -0.81737,0.40148 -1.1273,1.4519 -0.796,2.0597 z"
+         id="rect4556" />
+      <path
+         style="opacity:0.8"
+         inkscape:connector-curvature="0"
+         d="M 16,5 A 1,1 0 0 0 15,6 1,1 0 0 0 16,7 1,1 0 0 0 17,6 1,1 0 0 0 16,5 Z"
+         id="path5841" />
+      <path
+         style="opacity:0.8"
+         inkscape:connector-curvature="0"
+         d="m 16,25 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+         id="path5843" />
+      <path
+         style="opacity:0.8"
+         inkscape:connector-curvature="0"
+         d="m 27,16 a 1,1 0 0 0 -1,-1 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 z"
+         id="path5851" />
+      <path
+         style="opacity:0.8"
+         inkscape:connector-curvature="0"
+         d="M 7,16 A 1,1 0 0 0 6,15 1,1 0 0 0 5,16 1,1 0 0 0 6,17 1,1 0 0 0 7,16 Z"
+         id="path5853" />
+      <path
+         style="opacity:0.3"
+         inkscape:connector-curvature="0"
+         d="M 2.0254,15.5 C 2.0195,15.667 2,15.831 2,16 2,23.756 8.244,30 16,30 23.756,30 30,23.756 30,16 30,15.831 29.98,15.667 29.975,15.5 29.711,23.021 23.587,29 16,29 8.4128,29 2.289,23.021 2.025,15.5 Z"
+         id="rect4827" />
+    </g>
+  </g>
+</svg>

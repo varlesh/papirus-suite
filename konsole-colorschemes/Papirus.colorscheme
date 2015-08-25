@@ -1,62 +1,62 @@
 [Background]
-Color=228,228,229
+Color=239,240,241
 
 [BackgroundIntense]
 Color=239,240,241
 
 [Color0]
-Color=34,34,34
+Color=225,225,226
 
 [Color0Intense]
-Color=27,27,27
+Color=225,225,226
 
 [Color1]
 Color=244,67,54
 
 [Color1Intense]
-Color=255,87,34
+Color=150,80,75
 
 [Color2]
 Color=76,175,80
 
 [Color2Intense]
-Color=69,69,70
+Color=58,94,60
 
 [Color3]
 Color=246,116,0
 
 [Color3Intense]
-Color=108,108,109
+Color=133,88,49
 
 [Color4]
 Color=33,150,243
 
 [Color4Intense]
-Color=148,148,149
+Color=60,86,107
 
 [Color5]
 Color=233,30,99
 
 [Color5Intense]
-Color=156,39,176
+Color=138,76,97
 
 [Color6]
-Color=0,150,136
+Color=159,30,233
 
 [Color6Intense]
-Color=188,188,189
+Color=98,75,112
 
 [Color7]
-Color=228,228,229
+Color=102,103,104
 
 [Color7Intense]
-Color=239,240,241
+Color=127,128,129
 
 [Foreground]
-Color=131,148,150
+Color=102,103,104
 
 [ForegroundIntense]
-Color=147,161,161
+Color=127,128,129
 
 [General]
 Description=Papirus

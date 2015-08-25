@@ -27,6 +27,8 @@ sudo apt-get update
 sudo apt-get install papirus-icon-theme
 #Plasma Themes
 sudo apt-get install papirus-plasma-theme
+#Aurorae Themes
+sudo apt-get install papirus-aurorae-theme
 #Libreoffice Icon Theme
 sudo apt-get install papirus-libreoffice-theme
 #GTK-Themes (Only Kubuntu 15.04/15.10)

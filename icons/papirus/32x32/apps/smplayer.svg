@@ -27,14 +27,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="846"
+     inkscape:window-height="843"
      id="namedview218"
      showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="-5.9661017"
+     inkscape:zoom="13.76"
+     inkscape:cx="23.67415"
      inkscape:cy="15.383051"
-     inkscape:window-x="-5"
-     inkscape:window-y="28"
+     inkscape:window-x="-4"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <metadata
@@ -1296,7 +1296,7 @@
        y="-1465.4517"
        x="1621.2083" /></text>
   <path
-     style="fill:#242424"
+     style="fill:#4d4d4d;fill-opacity:1"
      inkscape:connector-curvature="0"
      id="path4581"
      d="m 25,16 a 9,9 0 0 1 -9,9 9,9 0 0 1 -9,-9 9,9 0 0 1 9,-9 9,9 0 0 1 9,9 z" />
@@ -1311,7 +1311,7 @@
      id="rect4400"
      d="M 16,2 C 8.244,2 2,8.244 2,16 2,16.16884 2.01952,16.33264 2.02539,16.5 2.28949,8.9794 8.41319,3 16.00039,3 c 7.5872,0 13.711,5.9794 13.975,13.5 0.006,-0.16736 0.0254,-0.33116 0.0254,-0.5 0,-7.756 -6.244,-14 -14,-14 z" />
   <path
-     style="fill:#242424"
+     style="fill:#4d4d4d;fill-opacity:1"
      inkscape:connector-curvature="0"
      id="path4583"
      d="M 17.732,15 A 0.5,0.5 0 0 0 17.049,14.817 0.5,0.5 0 0 0 16.866,15.5 0.5,0.5 0 0 0 17.549,15.683 0.5,0.5 0 0 0 17.732,15 Z M 15.683,14.451 A 0.5,0.5 0 0 0 15,14.268 a 0.5,0.5 0 0 0 -0.183,0.683 0.5,0.5 0 0 0 0.683,0.183 0.5,0.5 0 0 0 0.183,-0.683 z m 1.5,2.5981 a 0.5,0.5 0 0 0 -0.683,-0.183 0.5,0.5 0 0 0 -0.183,0.683 0.5,0.5 0 0 0 0.683,0.183 0.5,0.5 0 0 0 0.183,-0.683 z m -2.049,-0.549 a 0.5,0.5 0 0 0 -0.683,-0.183 0.5,0.5 0 0 0 -0.183,0.683 0.5,0.5 0 0 0 0.683,0.183 0.5,0.5 0 0 0 0.183,-0.683 z" />

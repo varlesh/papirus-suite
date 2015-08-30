@@ -12,7 +12,7 @@
  </metadata>
  <title id="title8473">Paper Symbolic Icon Theme</title>
  <g id="layer12" transform="translate(-385 -2)">
-  <path id="rect4595" style="color:#bebebe" d="m408.88 12-11.875 14h24l-12.125-14zm-11.875 18v6h24v-6h-24z" fill="#444"/>
+  <path id="rect4595" style="color:#bebebe" fill="#444" d="m408.88 12-11.875 14h24l-12.125-14zm-11.875 18v6h24v-6h-24z"/>
   <rect id="rect5828" opacity=".1" style="color:#bebebe" height="48" width="48" y="2" x="385" fill="none"/>
  </g>
 </svg>

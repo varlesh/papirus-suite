@@ -1,90 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   viewBox="0 0 32 32.000001"
-   id="svg4354"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="ms-powerpoint.svg">
-  <defs
-     id="defs4356" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="27.838415"
-     inkscape:cy="17.356204"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="px"
-     inkscape:window-width="1600"
-     inkscape:window-height="842"
-     inkscape:window-x="-4"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
-     inkscape:snap-grids="false"
-     showguides="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4162" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata4359">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1020.3622)">
-    <rect
-       id="rect4203-1"
-       ry="1.3000001"
-       rx="1.3000001"
-       transform="matrix(0,-1,-1,0,0,0)"
-       height="26"
-       width="26"
-       y="-29"
-       x="-1049.3622"
-       style="fill:#de554c;fill-opacity:1" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 9.5213098,1042.8408 0,-14 c 0,0 12.9485892,-0.4243 12.9786902,3.5214 0.0301,3.9457 -12.9786902,3.4786 -12.9786902,3.4786"
-       id="path4417"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cczc" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;opacity:0.2"
-       d="M 4.3007812 3 C 3.5805812 3 3 3.5805812 3 4.3007812 L 3 5.3007812 C 3 4.5805812 3.5805812 4 4.3007812 4 L 27.699219 4 C 28.419419 4 29 4.5805812 29 5.3007812 L 29 4.3007812 C 29 3.5805812 28.419419 3 27.699219 3 L 4.3007812 3 z "
-       transform="translate(0,1020.3622)"
-       id="rect4164" />
-    <path
-       style="fill:#000000;fill-opacity:1;opacity:0.3"
-       d="M 3 26.699219 L 3 27.699219 C 3 28.419419 3.5805812 29 4.3007812 29 L 27.699219 29 C 28.419419 29 29 28.419419 29 27.699219 L 29 26.699219 C 29 27.419419 28.419419 28 27.699219 28 L 4.3007812 28 C 3.5805812 28 3 27.419419 3 26.699219 z "
-       transform="translate(0,1020.3622)"
-       id="rect4169" />
-  </g>
+<svg id="svg4354" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 32 32.000001">
+ <metadata id="metadata4359">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -1020.4)">
+  <rect id="rect4203-1" ry="1.3" rx="1.3" transform="matrix(0,-1,-1,0,0,0)" height="26" width="26" y="-29" x="-1049.4" fill="#de554c"/>
+  <path id="path4417" stroke-linejoin="round" d="m9.5213 1042.8v-14s12.949-0.4243 12.979 3.5214c0.0301 3.9457-12.979 3.4786-12.979 3.4786" stroke="#fff" stroke-linecap="round" stroke-width="3" fill="none"/>
+  <path id="rect4164" opacity=".2" d="m4.3008 3c-0.7202 0-1.3008 0.5806-1.3008 1.3008v1c0-0.7202 0.5806-1.3008 1.3008-1.3008h23.398c0.72 0 1.301 0.5806 1.301 1.3008v-1c0-0.7202-0.581-1.3008-1.301-1.3008h-23.398z" transform="translate(0 1020.4)" fill="#fff"/>
+  <path id="rect4169" opacity=".3" d="m3 26.699v1c0 0.72 0.5806 1.301 1.3008 1.301h23.398c0.72 0 1.301-0.581 1.301-1.301v-1c0 0.72-0.581 1.301-1.301 1.301h-23.398c-0.7204 0-1.301-0.581-1.301-1.301z" transform="translate(0 1020.4)"/>
+ </g>
 </svg>

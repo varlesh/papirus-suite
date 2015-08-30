@@ -11,21 +11,21 @@
   </rdf:RDF>
  </metadata>
  <defs id="defs2819">
-  <linearGradient id="linearGradient4191" y2="3.9509" gradientUnits="userSpaceOnUse" x2="24.239" y1="22.121" x1="24.292">
+  <linearGradient id="linearGradient4191" y2="3.9509" gradientUnits="userSpaceOnUse" y1="22.121" x2="24.239" x1="24.292">
    <stop id="stop4187" offset="0"/>
    <stop id="stop4189" stop-opacity="0" offset="1"/>
   </linearGradient>
  </defs>
  <g id="g4187" transform="translate(0,1)">
   <rect id="rect4203-6" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="40" y="-44" x="-43" fill="#d951c4"/>
-  <path id="rect4592" opacity=".2" d="m6 3c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
+  <path id="rect4592" opacity=".2" fill="#fff" d="m6 3c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
   <path id="path4597" opacity=".3" d="m6 43c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
   <g id="g4188" fill="#fff">
    <path id="path4183" d="m22 14a7 7 0 0 1 -7 7 7 7 0 0 1 -7 -7 7 7 0 0 1 7 -7 7 7 0 0 1 7 7z"/>
    <path id="path4186" d="m40 14a7 7 0 0 1 -7 7 7 7 0 0 1 -7 -7 7 7 0 0 1 7 -7 7 7 0 0 1 7 7z"/>
   </g>
-  <path id="path4026" opacity=".15" d="m6 4c-1.108 0-2 0.892-2 2v17h40v-17c0-1.108-0.892-2-2-2h-36z" fill="url(#linearGradient4191)"/>
-  <g id="g4192" fill="#fff" transform="translate(0,19)">
+  <path id="path4026" opacity=".15" fill="url(#linearGradient4191)" d="m6 4c-1.108 0-2 0.892-2 2v17h40v-17c0-1.108-0.892-2-2-2h-36z"/>
+  <g id="g4192" transform="translate(0,19)" fill="#fff">
    <path id="path4194" d="m22 14a7 7 0 0 1 -7 7 7 7 0 0 1 -7 -7 7 7 0 0 1 7 -7 7 7 0 0 1 7 7z"/>
    <path id="path4196" d="m40 14a7 7 0 0 1 -7 7 7 7 0 0 1 -7 -7 7 7 0 0 1 7 -7 7 7 0 0 1 7 7z"/>
   </g>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="shutter.svg"
+   width="16"
+   height="16">
+  <metadata
+     id="metadata98">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1531"
+     inkscape:window-height="843"
+     id="namedview96"
+     showgrid="false"
+     inkscape:zoom="7.54"
+     inkscape:cx="-28.270557"
+     inkscape:cy="10.81197"
+     inkscape:window-x="69"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath-429196716">
+      <g
+         transform="translate(0,-1004.3622)"
+         id="g17">
+        <path
+           d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z"
+           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
+           style="fill:#1890d0"
+           id="path19"
+           inkscape:connector-curvature="0" />
+      </g>
+    </clipPath>
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     id="path78"
+     d="M 12.680442,1.0007461 C 10.645848,1.0235972 7.5071833,1.5718205 6.5258659,2.7049145 l -0.0021,0 C 5.7407352,3.8081938 5.641024,8.1251605 5.8445316,7.8591176 7.5105934,5.6675281 11.504263,2.9608243 13.889352,1.872996 15.177181,1.2830014 14.262904,0.98297301 12.680442,1.0007461 Z M 5.0806757,3.4671078 C 4.5666421,3.5517422 2.503695,4.9302645 2.9788376,7.4072705 l 7.001e-4,0.00135 C 3.4305544,8.6741341 6.3197572,10.356467 6.2197535,10.039727 5.399223,7.4275876 5.1027225,5.7374777 5.1942259,3.5101577 5.195926,3.4688745 5.1541044,3.4550014 5.0806702,3.4670928 Z M 10.71614,4.5758766 C 9.3390898,4.6719612 6.9172644,6.9445343 7.257277,6.931498 10.073882,6.8373448 11.832833,6.993443 14.030415,7.6554104 14.356427,7.7534264 13.679251,4.7984639 10.71614,4.5758766 Z M 9.2265157,6.9417517 c -0.072642,0.00367 -0.1027283,0.022133 -0.078289,0.056054 1.6095597,2.2408387 2.4274357,3.7586915 3.0469597,5.9068265 0.092,0.318671 2.285,-1.83698 0.868948,-4.3694523 C 12.337857,7.5993846 9.7350126,6.9160793 9.2265157,6.9417517 Z M 1.7678122,7.3683064 C 1.5029293,7.3345411 0.88212267,10.138904 3.3568862,11.564129 4.6364342,12.069657 7.8447719,11.073526 7.5337603,10.935918 4.9651649,9.8138078 3.4598545,8.9155446 1.7917931,7.3806112 1.7841078,7.3734748 1.7763575,7.3693996 1.7678122,7.3683084 Z M 10.06443,8.73752 c -0.01592,-0.00401 -0.0272,0.00328 -0.03245,0.023239 C 9.3189576,11.403318 8.6608427,12.993844 7.3792951,14.846001 7.187788,15.119286 10.303221,15.336112 11.369261,12.646236 l 7e-4,0.0014 C 11.650266,11.422243 10.303169,8.7978016 10.064423,8.7375026 Z m -0.7821943,1.688446 c -0.00651,-0.0016 -0.014416,-3.2e-4 -0.023981,0.0041 -2.5430939,1.178602 -4.2204702,1.71853 -6.5100552,1.961879 -0.3380121,0.03766 1.4994587,2.484334 4.308063,1.539425 l 0.0028,-6.76e-4 c 1.184341,-0.602925 2.424978,-3.455633 2.223152,-3.504721 z"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.72" />
+  <g
+     id="g4726"
+     transform="matrix(1.3846283,0,0,1.3795548,-9.2336458,-42.791553)"
+     style="fill:#007e00;fill-opacity:1">
+    <g
+       id="g4728"
+       clip-path="url(#clipPath-429196716)"
+       style="fill:#007e00;fill-opacity:1">
+      <!-- color: #eeeeee -->
+      <g
+         id="g4730"
+         style="fill:#007e00;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

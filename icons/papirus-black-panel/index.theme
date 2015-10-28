@@ -24,9 +24,7 @@ Type=Scalable
 [16x16/actions]
 Context=Actions
 Size=16
-MinSize=8
-MaxSize=32
-Type=Scalable
+Type=Fixed
 
 [16x16/devices]
 Context=Devices
@@ -59,16 +57,12 @@ Type=Scalable
 [22x22/actions]
 Context=Actions
 Size=22
-MinSize=8
-MaxSize=32
-Type=Scalable
+Type=Fixed
 
 [24x24/actions]
 Context=Actions
 Size=24
-MinSize=8
-MaxSize=32
-Type=Scalable
+Type=Fixed
 
 [32x32/apps]
 Context=Applications

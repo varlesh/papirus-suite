@@ -17,9 +17,7 @@ Directories=16x16/actions,16x16/apps,16x16/devices,16x16/places,16x16/status,16x
 [16x16/actions]
 Context=Actions
 Size=16
-MinSize=8
-MaxSize=32
-Type=Scalable
+Type=Fixed
 
 [16x16/apps]
 Context=Applications
@@ -59,16 +57,12 @@ Type=Scalable
 [22x22/actions]
 Context=Actions
 Size=22
-MinSize=8
-MaxSize=32
-Type=Scalable
+Type=Fixed
 
 [24x24/actions]
 Context=Actions
 Size=24
-MinSize=8
-MaxSize=32
-Type=Scalable
+Type=Fixed
 
 [32x32/apps]
 Context=Applications

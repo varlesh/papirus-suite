@@ -115,7 +115,7 @@
        id="g4139"
        transform="translate(4,3)">
       <path
-         style="opacity:0.72;fill:#ffffff;fill-opacity:0.72;fill-rule:nonzero;stroke:none"
+         style="opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          sodipodi:nodetypes="cccccccc"
          id="path5873"
          d="m 369.021,-89.003343 -0.0206,-4 -4,-4 10,0 -4,4 5e-5,4 -1.01062,4 z"
@@ -124,7 +124,7 @@
          id="rect4157"
          transform="translate(365.0004,-99.003343)"
          d="m 10,6 0,2 -2,0 0,2 2,0 0,2 2,0 0,-2 2,0 0,-2 -2,0 0,-2 -2,0 z"
-         style="opacity:0.72;fill:#ffffff;fill-opacity:0.72;fill-rule:nonzero;stroke:none;stroke-opacity:0.72"
+         style="opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:0.72"
          inkscape:connector-curvature="0" />
     </g>
   </g>

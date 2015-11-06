@@ -126,7 +126,7 @@
        d="m 375.99759,-256 c -2.19497,0 -3.96658,1.78839 -4,4 l 0,1 1,0 1,0 0,-1 c 0,-1.108 0.892,-2 2,-2 1.108,0 2,0.892 2,2 l 0,4 -2,0 -3,0 -1,0 -1,0 c -0.554,0 -1,0.446 -1,1 l 0,6 c 0,0.554 0.446,1 1,1 l 10,0 c 0.554,0 1,-0.446 1,-1 l 0,-6 c 0,-0.554 -0.446,-1 -1,-1 l -1,0 0,-3.9375 c 0,-2.24 -1.784,-4.0625 -4,-4.0625 z"
        id="path6354"
        sodipodi:nodetypes="sccccsssccccsssssssscss"
-       style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:0.72;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+       style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
   </g>
   <g
      inkscape:groupmode="layer"

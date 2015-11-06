@@ -141,12 +141,12 @@
          inkscape:connector-curvature="0"
          id="rect4168"
          d="m 390.00043,-73.996356 14,0 0,14 -14,0 z"
-         style="opacity:0.72;fill:url(#linearGradient4177);fill-opacity:0.72;stroke:none" />
+         style="opacity:0.72;fill:url(#linearGradient4177);fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          id="rect4179"
          d="m 391.00043,-72.996356 0,4 3.29297,0 4.70703,4.705078 0,3.294922 4,0 0,-4 -3.29102,0 -4.70898,-4.707031 0,-3.292969 -4,0 z"
-         style="opacity:0.72;stroke:none;fill:#ffffff;fill-opacity:0.72" />
+         style="opacity:0.72;stroke:none;fill:#ffffff;fill-opacity:1" />
     </g>
   </g>
 </svg>

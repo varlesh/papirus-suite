@@ -115,7 +115,7 @@
        id="g4139"
        transform="translate(2.99998,3)">
       <path
-         style="opacity:0.3;fill:#ffffff;fill-opacity:0.72;stroke:none"
+         style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
          id="rect10831"
          d="m 567.0002,-38 c 0,0 -1,0.0186 -1,1 l 0,1 2,0 0,-2 -1,0 z m 3,0 0,2 2,0 0,-2 -2,0 z m 4,0 0,2 2,0 0,-2 -2,0 z m 4,0 0,2 2,0 0,-1 c 0,-0.98141 -1,-1 -1,-1 l -1,0 z m -12,4 0,2 2,0 0,-2 -2,0 z m 12,0 0,2 2,0 0,-2 -2,0 z m -12,4 0,2 2,0 0,-2 -2,0 z m 12,0 0,2 2,0 0,-2 -2,0 z m -12,4 0,1 c 0,0.98141 1,1 1,1 l 1,0 0,-2 -2,0 z m 4,0 0,2 2,0 0,-2 -2,0 z m 4,0 0,2 2,0 0,-2 -2,0 z m 4,0 0,2 1,0 c 0,0 1,-0.0186 1,-1 l 0,-1 -2,0 z"
          inkscape:connector-curvature="0" />
@@ -123,7 +123,7 @@
          y="-34"
          x="570.00018"
          width="6.0000167"
-         style="opacity:0.3;fill:#ffffff;fill-opacity:0.72;stroke:none"
+         style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
          id="rect10848"
          height="6" />
     </g>

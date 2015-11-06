@@ -116,6 +116,6 @@
        d="m 330.00059,-61.999999 c 0,0 -1,0 -1,1 l 0,9 c 0,0 0,1 1,1 l 1,0 0,-9 8,0 0,-1 c 0,-1 -1,-1 -1,-1 z m 3,3 c 0,0 -1,0 -1,1 l 0,10 c 0,1 1,1 1,1 l 8,0 c 0,0 1,0 1.00001,-1.002931 l -1e-5,-9.997069 c 0,-1 -1,-1 -1,-1 z m 1,1.999999 6.00001,0 0,8 -6.00001,0 z"
        id="rect5195"
        sodipodi:nodetypes="cscccccsccccccccsccccccc"
-       style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:0.72;fill-rule:nonzero;stroke:none;marker:none;enable-background:new" />
+       style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:new" />
   </g>
 </svg>

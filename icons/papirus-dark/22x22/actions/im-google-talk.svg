@@ -91,7 +91,7 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="opacity:0.72;fill:#ffffff;fill-opacity:0.72;stroke:none"
+       style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 11,1034.3622 c -3.8658955,0 -7.0000009,2.3506 -7,5.25 0,2.855 3.2159059,5.6795 7,5.75 l 0,3 c 7,-4 7,-6.7675 7,-8.75 0,-2.8994 -3.134106,-5.25 -7,-5.25 z m -4,3 3,0 0,3 c 0,1 -0.999999,2 -2,2 l 0,-1 c 0,0 1,0 1,-1 l -2,0 0,-3 z m 5,0 3,0 0,3 c 0,1 -1,2 -2,2 l 0,-1 c 0,0 1,0 1,-1 l -2,0 0,-3 z"
        id="path4147"
        inkscape:connector-curvature="0" />

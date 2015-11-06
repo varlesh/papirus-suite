@@ -115,12 +115,12 @@
        transform="matrix(0.53153387,0,0,0.51863731,209.25633,-348.56087)"
        id="layer1"
        inkscape:label="Capa 1"
-       style="opacity:0.72;fill:#ffffff;fill-opacity:0.72">
+       style="opacity:0.72;fill:#ffffff;fill-opacity:1">
       <path
          id="path4062"
          transform="translate(553.14288,594.07648)"
          d="m 20.171875,14.359375 0,8.269531 -4.183594,-3.269531 0,3.462891 -7.0898435,-0.361328 0,3.078124 7.0898435,-0.361328 0,3.462891 4.183594,-3.269531 0,8.269531 6.541016,-8.236328 0,2.236328 4.125,-3.222656 0.02734,-0.002 0,6.546875 3.898438,-5.824219 0,1.824219 L 39,24 l -4.236328,-2.962891 0,1.824219 -3.898438,-5.824219 0,6.546875 -0.02734,-0.002 -4.125,-3.222656 0,2.236328 -6.541016,-8.236328 z"
-         style="fill:#ffffff;fill-opacity:0.72;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
   </g>

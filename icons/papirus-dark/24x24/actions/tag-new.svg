@@ -115,7 +115,7 @@
        inkscape:connector-curvature="0"
        d="m 292.00041,86 c 0,0 -2,0 -2,2 l 0,5 7,7 7,-7 -7,-7 -5,0 z m 3,3 2,0 0,2 2,0 0,2 -2,0 0,2 -2,0 0,-2 -2,0 0,-2 2,0 0,-2 z"
        id="path5320"
-       style="opacity:0.72;fill:#ffffff;fill-opacity:0.72;fill-rule:evenodd;stroke:none" />
+       style="opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
     <g
        id="g5326"
        inkscape:label="folder-remote"

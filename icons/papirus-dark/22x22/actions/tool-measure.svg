@@ -112,7 +112,7 @@
      style="display:inline"
      transform="translate(-265.00082,19.003342)">
     <path
-       style="opacity:0.72;fill:#ffffff;fill-opacity:0.72;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.72"
+       style="opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.72"
        d="m 273.00082,-15.003342 -4,4 4,0 0,1 -4,0 4,4 0,5 10,0 0,-14 -10,0 z"
        id="rect3338"
        inkscape:connector-curvature="0" />

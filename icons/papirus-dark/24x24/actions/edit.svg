@@ -116,6 +116,6 @@
        d="m 510.0006,-85.12672 0,3.12 3.12,0 7.88,-7.88 -3.12,-3.12 z m 13.76,-7.51 c 0.33,-0.33 0.33,-0.85 0,-1.18 l -1.95,-1.95 c -0.33,-0.33 -0.85,-0.33 -1.18,0 l -1.63,1.64 3.12,3.12 z"
        id="path4-0"
        sodipodi:nodetypes="cccccccsscccc"
-       style="opacity:0.72;fill:#ffffff;fill-opacity:0.72;stroke:none" />
+       style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
 </svg>

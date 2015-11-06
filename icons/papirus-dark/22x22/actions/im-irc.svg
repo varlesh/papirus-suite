@@ -128,14 +128,14 @@
          id="path4150"
          transform="translate(265.0004,-275.00336)"
          d="M 3.40625,2 C 3.40625,2 2,2.0003906 2,3.4003906 L 2,5.5 2,6.9003906 2,7.5996094 C 2,8.2277518 2.4206855,8.7512586 3,8.9296875 L 3,8.5 3,6.4003906 C 3,5.0003906 4.40625,5 4.40625,5 l 7.166016,0 c 0,0 0.195898,0.023531 0.427734,0.085937 L 12,3.4003906 C 12,2.0003906 10.572266,2 10.572266,2 L 3.40625,2 Z"
-         style="opacity:0.3;fill:#ffffff;fill-opacity:0.72;stroke:none"
+         style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
          d="m 277.57183,-269.00336 c 0,0 1.42857,0 1.42857,1.4 l 0,4.20001 c 0,1.39999 -1.42857,1.39999 -1.42857,1.39999 l -0.57143,0 -1.5,2 -1.5,-2 -3.57143,0 c -0.79143,0 -1.42857,-0.62439 -1.42857,-1.39999 l 0,-0.70001 0,-1.4 0,-2.1 c 0,-1.4 1.40625,-1.4 1.40625,-1.4 z"
          id="path4148"
          sodipodi:nodetypes="csscccccsccscc"
-         style="opacity:0.72;fill:#ffffff;fill-opacity:0.72;stroke:none" />
+         style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none" />
     </g>
   </g>
   <g

@@ -115,6 +115,6 @@
        inkscape:connector-curvature="0"
        d="m 278.78185,-94.018913 1.40625,1.375 -3.65625,3.65625 7.46875,-0.03125 0,2 -7.46875,0.0312 3.65625,3.625 -1.40625,1.375 -6,-6.03125 6,-6 z m -8.78125,4 c 1.10457,0 2,0.89543 2,2 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 z"
        id="path5849"
-       style="opacity:0.72;fill:#ffffff;fill-opacity:0.72;fill-rule:nonzero;stroke:none" />
+       style="opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   </g>
 </svg>

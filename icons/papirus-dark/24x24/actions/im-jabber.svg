@@ -119,11 +119,11 @@
          inkscape:connector-curvature="0"
          id="path696"
          d="m 411.0004,-105.00336 0,2 4,0 0,-2 z"
-         style="color:#ffffff;display:block;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:0.72;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+         style="color:#ffffff;display:block;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
       <path
          id="path4161"
          d="m 413.00043,-117.00336 c -2.48528,0 -4.49998,2.2077 -4.49998,4.93104 -0.009,1.47671 1.18326,2.76739 1.73076,4.17242 0.24401,0.62617 0.69231,1.89654 0.69231,1.89654 l 4.15381,0 c 0,0 0.44831,-1.27037 0.69232,-1.89654 0.54749,-1.40502 1.70686,-2.71208 1.73075,-4.17242 0,-2.72334 -2.0147,-4.93104 -4.49997,-4.93104 z"
-         style="color:#ffffff;fill:#ffffff;fill-opacity:0.72"
+         style="color:#ffffff;fill:#ffffff;fill-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
   </g>

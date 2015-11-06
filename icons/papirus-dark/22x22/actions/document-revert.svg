@@ -112,7 +112,7 @@
      style="display:inline"
      transform="translate(-546.00038,99.01009)">
     <path
-       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:0.72;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        d="m 552.00038,-95.01009 c 0,0 -1,0 -1,1 l 0,8.996093 0,3.003907 c 0,1 1,1 1,1 l 10,0 c 0,0 1,0 1,-1 l 0,-1.001954 0,-2.998046 c 0,-3 -3,-3 -3,-3 l -1,-0.0039 0,-2 -4.5,3 4.5,3 0,-2 1,0.0039 c 0,0 1,0 1,1 l 0,3 -8,0 0,-9.996094 8,0 0,2.996094 2,-0.0039 0,-3.996093 c 0,-1 -1,-1 -1,-1 l -10,0 z"
        id="path7064"
        inkscape:connector-curvature="0" />

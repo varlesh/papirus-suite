@@ -131,7 +131,7 @@
        inkscape:connector-curvature="0"
        d="m 316.00043,-155.00333 c -3.31371,0 -6,2.68629 -6,6 0,2.087 1.07077,3.92508 2.6875,5 l -0.6875,0 c -2,0 -2,2 -2,2 l 0,1 12,0 0,-1 c 0,0 0,-2 -2,-2 l -0.6875,0 c 1.61673,-1.07492 2.6875,-2.913 2.6875,-5 0,-3.31371 -2.68629,-6 -6,-6 z m 0,4.00391 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z"
        id="rect3048"
-       style="opacity:0.72;fill:#ffffff;fill-opacity:0.72;stroke:none" />
+       style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      inkscape:groupmode="layer"

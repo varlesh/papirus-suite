@@ -113,13 +113,13 @@
      transform="translate(-485.0006,99.00672)">
     <g
        id="g4151"
-       style="opacity:0.72;fill:#ffffff;fill-opacity:0.72"
+       style="opacity:0.72;fill:#ffffff;fill-opacity:1"
        transform="translate(3,3.0000015)">
       <path
          id="circle4140"
          transform="translate(485.0006,-99.00672)"
          d="M 4,5 C 2.3431458,5 1,6.3431458 1,8 1,9.6568542 2.3431458,11 4,11 L 4.027344,10.998 C 3.3914806,10.159246 3,9.1272985 3,8 3,6.8717182 3.3924295,5.8411281 4.0292969,5.0019531 Z m 8,0 C 11.98958,5.0005967 11.97916,5.00125 11.96875,5.00195 12.605746,5.8411759 13,6.8715926 13,8 c 0,1.127423 -0.393307,2.159199 -1.029297,2.998047 L 12,11 c 1.656854,0 3,-1.3431458 3,-3 0,-1.6568542 -1.343146,-3 -3,-3 z"
-         style="opacity:0.72;fill:#ffffff;fill-opacity:0.72;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72"
+         style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="csccsccccsccsc" />
       <circle
@@ -127,7 +127,7 @@
          cy="-91.006721"
          cx="493.00061"
          id="path4138"
-         style="opacity:0.72;fill:#ffffff;fill-opacity:0.72;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72" />
+         style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72" />
     </g>
   </g>
 </svg>

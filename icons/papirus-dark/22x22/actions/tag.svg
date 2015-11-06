@@ -116,7 +116,7 @@
        d="m 271.00041,85 c 0,0 -2,0 -2,2 l 0,5 7,7 7,-7 -7,-7 z m 1,2 c 0.55228,0 1,0.44772 1,1 0,0.55228 -0.44772,1 -1,1 -0.55228,0 -1,-0.44772 -1,-1 0,-0.55228 0.44772,-1 1,-1 z"
        id="path11098"
        sodipodi:nodetypes="cscccccsssss"
-       style="opacity:0.72;fill:#ffffff;fill-opacity:0.72;fill-rule:evenodd;stroke:none" />
+       style="opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
     <g
        id="g5317"
        inkscape:label="folder-remote"

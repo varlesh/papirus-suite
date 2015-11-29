@@ -1,5 +1,8 @@
 # Papirus pack KDE
 Papirus customization for KDE distros.
+
+Icon Theme for Cinnamon and Unity 7 [here](https://github.com/varlesh/papirus-gtk-icon-theme).
+
 On repository avaiable:
 * Plasma 5 themes
 * Legacy support Plasma themes for KDE 4

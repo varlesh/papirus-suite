@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2817"
@@ -16,7 +17,29 @@
    inkscape:version="0.91 r"
    sodipodi:docname="bovo.svg">
   <defs
-     id="defs219" />
+     id="defs219">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4351">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop4353" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1"
+         id="stop4355" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4351"
+       id="linearGradient4357"
+       x1="-16"
+       y1="-16"
+       x2="-2"
+       y2="-16"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -27,14 +50,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="843"
+     inkscape:window-height="846"
      id="namedview217"
      showgrid="false"
      inkscape:zoom="16.94"
-     inkscape:cx="6.4368359"
+     inkscape:cx="19.220456"
      inkscape:cy="16"
-     inkscape:window-x="-4"
-     inkscape:window-y="31"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <metadata
@@ -1335,4 +1358,11 @@
      d="M 17.06066,14.232233 16,15.292893 14.93934,14.232233 14.232233,14.93934 15.292893,16 14.232233,17.06066 14.93934,17.767767 16,16.707107 17.06066,17.767767 17.767767,17.06066 16.707107,16 17.767767,14.93934 17.06066,14.232233 Z"
      id="rect4378"
      inkscape:connector-curvature="0" />
+  <path
+     transform="matrix(0,-1,-1,0,0,0)"
+     style="fill:url(#linearGradient4357);fill-opacity:1;opacity:0.1"
+     d="m -16,-30 12.5,0 c 0.831,0 1.5,0.669 1.5,1.5 l 0,25 C -2,-2.669 -2.669,-2 -3.5,-2 L -16,-2 Z"
+     id="rect4348"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csssscc" />
 </svg>

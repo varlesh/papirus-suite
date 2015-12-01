@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2817"
@@ -29,7 +30,7 @@
      id="namedview20"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="-31.993249"
+     inkscape:cx="13.681324"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="26"
@@ -43,12 +44,44 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs2819" />
+     id="defs2819">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4144">
+      <stop
+         id="stop4148"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:0" />
+      <stop
+         id="stop4146"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4144"
+       id="linearGradient4150"
+       x1="-44"
+       y1="-24"
+       x2="-24"
+       y2="-24"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4144"
+       id="linearGradient4156"
+       gradientUnits="userSpaceOnUse"
+       x1="-44"
+       y1="-24"
+       x2="-24"
+       y2="-24"
+       gradientTransform="scale(-1,-1)" />
+  </defs>
   <rect
      style="fill:#66a6de;fill-opacity:1"
      x="-44"
@@ -96,4 +129,17 @@
        d="m 22,34 a 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 7,-7 7,7 0 0 1 7,7 z"
        inkscape:connector-curvature="0" />
   </g>
+  <path
+     transform="matrix(0,-1,-1,0,0,0)"
+     style="fill:url(#linearGradient4150);fill-opacity:1;opacity:0.1"
+     d="m -42,-44 18,0 0,40 -18,0 c -1.108,0 -2,-0.892 -2,-2 l 0,-36 c 0,-1.108 0.892,-2 2,-2 z"
+     id="rect4141"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sccssss" />
+  <path
+     sodipodi:nodetypes="sccssss"
+     inkscape:connector-curvature="0"
+     id="path4154"
+     d="m 42,44 -18,0 0,-40.0000005 18,0 c 1.108,0 2,0.892 2,2 L 44,42 c 0,1.108 -0.892,2 -2,2 z"
+     style="fill:url(#linearGradient4156);fill-opacity:1;opacity:0.1" />
 </svg>

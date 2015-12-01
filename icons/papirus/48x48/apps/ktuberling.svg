@@ -13,7 +13,7 @@
    height="48"
    width="48"
    version="1.0"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    sodipodi:docname="ktuberling.svg">
   <defs
      id="defs227" />
@@ -26,15 +26,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1543"
-     inkscape:window-height="845"
+     inkscape:window-width="1600"
+     inkscape:window-height="846"
      id="namedview225"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="11.849387"
+     inkscape:zoom="9.28"
+     inkscape:cx="29.207598"
      inkscape:cy="17.902439"
-     inkscape:window-x="57"
-     inkscape:window-y="31"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <metadata
@@ -1311,8 +1311,9 @@
      style="opacity:0.2;fill:#000000;fill-opacity:1"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#ffffff;fill-opacity:1"
-     d="M 17 15 A 3 3.0001049 0 0 0 14 18 A 3 3.0001049 0 0 0 17 21 A 3 3.0001049 0 0 0 20 18 A 3 3.0001049 0 0 0 17 15 z M 31 15 A 3 3 0 0 0 28 18 A 3 3 0 0 0 31 21 A 3 3 0 0 0 34 18 A 3 3 0 0 0 31 15 z M 24 22 A 6 4 0 0 0 18 26 A 6 4 0 0 0 24 30 A 6 4 0 0 0 30 26 A 6 4 0 0 0 24 22 z M 21.5 24 A 1.5 1.5 0 0 1 23 25.5 A 1.5 1.5 0 0 1 21.5 27 A 1.5 1.5 0 0 1 20 25.5 A 1.5 1.5 0 0 1 21.5 24 z M 26.5 24 A 1.5 1.5 0 0 1 28 25.5 A 1.5 1.5 0 0 1 26.5 27 A 1.5 1.5 0 0 1 25 25.5 A 1.5 1.5 0 0 1 26.5 24 z M 16 30 A 9.2502761 10.000379 0 0 0 24.003906 35 A 9.2502761 10.000379 0 0 0 32 30 L 30.876953 30 A 9.2502761 10.000379 0 0 1 24.003906 33.333984 A 9.2502761 10.000379 0 0 1 17.126953 30 L 16 30 z "
+     inkscape:connector-curvature="0"
+     style="fill:#4d4d4d;fill-opacity:1"
+     d="m 17,15 a 3,3.0001049 0 0 0 -3,3 3,3.0001049 0 0 0 3,3 3,3.0001049 0 0 0 3,-3 3,3.0001049 0 0 0 -3,-3 z m 14,0 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m -7,7 a 6,4 0 0 0 -6,4 6,4 0 0 0 6,4 6,4 0 0 0 6,-4 6,4 0 0 0 -6,-4 z m -2.5,2 A 1.5,1.5 0 0 1 23,25.5 1.5,1.5 0 0 1 21.5,27 1.5,1.5 0 0 1 20,25.5 1.5,1.5 0 0 1 21.5,24 Z m 5,0 A 1.5,1.5 0 0 1 28,25.5 1.5,1.5 0 0 1 26.5,27 1.5,1.5 0 0 1 25,25.5 1.5,1.5 0 0 1 26.5,24 Z M 16,30 A 9.2502761,10.000379 0 0 0 24.003906,35 9.2502761,10.000379 0 0 0 32,30 l -1.123047,0 A 9.2502761,10.000379 0 0 1 24.003906,33.333984 9.2502761,10.000379 0 0 1 17.126953,30 L 16,30 Z"
      id="path4184" />
   <path
      style="opacity:0.3"

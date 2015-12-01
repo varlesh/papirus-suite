@@ -27,14 +27,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="843"
+     inkscape:window-height="846"
      id="namedview218"
      showgrid="false"
-     inkscape:zoom="6.57"
-     inkscape:cx="-8.9491525"
+     inkscape:zoom="1"
+     inkscape:cx="28.9694"
      inkscape:cy="24"
-     inkscape:window-x="-4"
-     inkscape:window-y="31"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <metadata
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1310,27 +1310,32 @@
      inkscape:connector-curvature="0"
      d="m 4,39 0,1 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 c 0,1.108 -0.892,2 -2,2 L 6,41 C 4.892,41 4,40.108 4,39 Z"
      id="path4460" />
+  <path
+     style="opacity:0.2;fill:#000000;fill-opacity:1"
+     d="m 24,13 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z M 11,28 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m 13,0 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m 13,0 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z"
+     id="circle4348"
+     inkscape:connector-curvature="0" />
   <circle
      style="opacity:1;fill:#ffffff;fill-opacity:1"
      id="path4352"
      cx="24"
-     cy="30"
-     r="5" />
+     cy="31"
+     r="4" />
   <circle
-     r="5"
-     cy="30"
-     cx="36"
+     r="4"
+     cy="31"
+     cx="37"
      id="circle4354"
      style="opacity:1;fill:#ffffff;fill-opacity:1" />
   <circle
-     r="5"
-     cy="30"
-     cx="12"
+     r="4"
+     cy="31"
+     cx="11"
      id="circle4356"
      style="opacity:1;fill:#4d4d4d;fill-opacity:1" />
   <circle
-     r="5"
-     cy="18"
+     r="4"
+     cy="16"
      cx="24"
      id="circle4358"
      style="opacity:1;fill:#4d4d4d;fill-opacity:1" />

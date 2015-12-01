@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2817"
@@ -25,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="843"
+     inkscape:window-height="846"
      id="namedview20"
      showgrid="false"
      inkscape:zoom="7.03"
-     inkscape:cx="-8.9491525"
+     inkscape:cx="-31.993249"
      inkscape:cy="24"
-     inkscape:window-x="-4"
-     inkscape:window-y="31"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <metadata
@@ -43,12 +44,49 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs2819" />
+     id="defs2819">
+    <linearGradient
+       gradientTransform="translate(0,1)"
+       x1="24.292"
+       x2="24.239"
+       y1="22.121"
+       gradientUnits="userSpaceOnUse"
+       y2="3.9509"
+       id="linearGradient4191">
+      <stop
+         offset="0"
+         id="stop4187" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop4189" />
+    </linearGradient>
+    <linearGradient
+       y2="3.9509"
+       x2="24.239"
+       y1="23.946499"
+       x1="24.089167"
+       gradientTransform="matrix(0,1,-1,0,-12.4,-2e-7)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4161"
+       xlink:href="#linearGradient4191"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4191"
+       id="linearGradient4178"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-60.4,1)"
+       x1="24.292"
+       y1="22.121"
+       x2="24.239"
+       y2="3.9509" />
+  </defs>
   <rect
      style="fill:#66a6de;fill-opacity:1"
      x="-44"
@@ -89,4 +127,19 @@
      id="path4196"
      d="m 40,34 a 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 7,-7 7,7 0 0 1 7,7 z"
      inkscape:connector-curvature="0" />
+  <g
+     id="g4193"
+     transform="translate(60.4,1e-7)">
+    <path
+       id="path4026"
+       d="m -54.4,5 c -1.108,0 -2,0.892 -2,2 l 0,17 40,0 0,-17 c 0,-1.108 -0.892,-2 -2,-2 l -36,0 z"
+       style="opacity:0.1;fill:url(#linearGradient4178)"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ssccsss"
+       inkscape:connector-curvature="0"
+       style="opacity:0.1;fill:url(#linearGradient4161)"
+       d="m -16.4,5.9999998 c 0,-1.108 -0.892,-2 -2,-2 l -18,0 0,40.0000002 18,0 c 1.108,0 2,-0.892 2,-2 z"
+       id="path4159" />
+  </g>
 </svg>

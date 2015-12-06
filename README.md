@@ -43,7 +43,7 @@ sudo apt-get install papirus-kmail-theme
 #Skin for bomi
 sudo apt-get install papirus-bomi-theme
 ```
-![Screenshot papirus-pack](papirus-pack.png)
+![Screenshot papirus-pack](papirus-pack-preview.png)
 
 # LICENSES and AUTHORS
 This repository combines many licenses, which mostly come from the original projects. Please, see AUTHOR and LICENSE pages in each module folder of the theme for more information.

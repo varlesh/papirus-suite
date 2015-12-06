@@ -13,7 +13,7 @@
    height="32"
    width="32"
    version="1.0"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="lastfm.svg">
   <defs
      id="defs1678">
@@ -41,14 +41,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="847"
+     inkscape:window-height="846"
      id="namedview1676"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="16"
+     inkscape:cx="-145.5"
      inkscape:cy="16"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <metadata
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -8777,22 +8777,6 @@
        id="tspan4089-7-2-9-9-28-5"
        y="-1644.9595"
        x="1808.3728" /></text>
-  <rect
-     id="rect4255-5"
-     ry="14"
-     rx="14"
-     transform="matrix(0,-1,-1,0,0,0)"
-     height="28"
-     width="28"
-     y="-29.899"
-     x="-30"
-     fill="#0286c2"
-     style="fill:#c2352a;fill-opacity:1" />
-  <path
-     id="rect4570"
-     opacity=".1"
-     fill="#fff"
-     d="m16 2c-7.756 0-14 6.244-14 14 0 0.169 0.0195 0.333 0.0254 0.5 0.2637-7.5206 6.3874-13.5 13.975-13.5 7.5872 0 13.711 5.9794 13.975 13.5 0.006-0.16736 0.0254-0.33116 0.0254-0.5 0-7.756-6.244-14-14-14z" />
   <text
      id="text4087-2-6-5-243"
      opacity=".8"
@@ -10031,10 +10015,26 @@
        id="tspan4089-7-2-9-9-28-2"
        y="-1460.4689"
        x="1572.4509" /></text>
+  <rect
+     id="rect4255-5"
+     ry="14"
+     rx="14"
+     transform="matrix(0,-1,-1,0,0,0)"
+     height="28"
+     width="28"
+     y="-29.899"
+     x="-30"
+     style="fill:#c2352a;fill-opacity:1" />
   <path
+     style="opacity:0.1;fill:#ffffff"
+     inkscape:connector-curvature="0"
+     id="rect4570"
+     d="M 16,2 C 8.244,2 2,8.244 2,16 2,16.169 2.0195,16.333 2.0254,16.5 2.2891,8.9794 8.4128,3 16.0004,3 c 7.5872,0 13.711,5.9794 13.975,13.5 0.006,-0.16736 0.0254,-0.33116 0.0254,-0.5 0,-7.756 -6.244,-14 -14,-14 z" />
+  <path
+     style="opacity:0.3"
+     inkscape:connector-curvature="0"
      id="rect4558"
-     opacity=".3"
-     d="m2.0254 15.5c-0.0059 0.167-0.0254 0.331-0.0254 0.5 0 7.756 6.244 14 14 14s14-6.244 14-14c0-0.16884-0.01952-0.33264-0.02539-0.5-0.264 7.521-6.388 13.5-13.975 13.5-7.5872 0-13.711-5.979-13.975-13.5z" />
+     d="M 2.0254,15.5 C 2.0195,15.667 2,15.831 2,16 c 0,7.756 6.244,14 14,14 7.756,0 14,-6.244 14,-14 0,-0.16884 -0.01952,-0.33264 -0.02539,-0.5 -0.264,7.521 -6.388,13.5 -13.975,13.5 -7.5872,0 -13.711,-5.979 -13.975,-13.5 z" />
   <g
      transform="matrix(0.61561928,0,0,0.62531943,1.2274297,0.98872544)"
      id="g45">

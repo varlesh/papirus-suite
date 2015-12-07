@@ -18,7 +18,13 @@ On repository available:
 # DONATE
 If you like my project , you can donate:
 
+**PayPal**
+
 <span class="paypal"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=MVVGUVCMNFAJS&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="PayPal donate button" /></a></span>
+
+**Yandex.Money**
+
+<iframe frameborder="0" allowtransparency="true" scrolling="no" src="https://money.yandex.ru/embed/small.xml?account=410013316426627&quickpay=small&yamoney-payment-type=on&button-text=04&button-size=s&button-color=orange&targets=%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C&default-sum=10&successURL=" width="159" height="31"></iframe>
 
 # INSTALL
 **For Arch Linux (AUR):**

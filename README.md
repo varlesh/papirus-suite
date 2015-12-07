@@ -24,7 +24,7 @@ If you like my project , you can donate:
 
 **Yandex.Money**
 
-<iframe frameborder="0" allowtransparency="true" scrolling="no" src="https://money.yandex.ru/embed/small.xml?account=410013316426627&quickpay=small&yamoney-payment-type=on&button-text=04&button-size=s&button-color=orange&targets=%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C&default-sum=10&successURL=" width="159" height="31"></iframe>
+<span class="Yandex.Money"><a href="http://yasobe.ru/na/varlesh#form_submit" title="Donate to this project using Yandex.Money"><img src="https://money.yandex.ru/i/yandex2015.png" alt="Yandex.Money donate button" height="38" width="150"/></a></span>
 
 # INSTALL
 **For Arch Linux (AUR):**

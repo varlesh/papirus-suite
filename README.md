@@ -15,6 +15,10 @@ On repository available:
 * [Bomi skin](https://github.com/varlesh/papirus-pack-kde/tree/master/bomi-skin)
 * [Yakuake skins](https://github.com/varlesh/papirus-pack-kde/tree/master/yakuake-skins)
 
+# DONATE
+If you like my project , you can donate:
+<span class="paypal"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=MVVGUVCMNFAJS&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="PayPal donate button" /></a></span>
+
 # INSTALL
 **For Arch Linux (AUR):**
 ```

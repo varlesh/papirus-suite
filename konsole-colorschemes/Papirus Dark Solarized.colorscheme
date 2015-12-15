@@ -1,64 +1,64 @@
 [Background]
-Color=239,240,241
+Color=34,34,34
 
 [BackgroundIntense]
-Color=239,240,241
+Color=27,27,27
 
 [Color0]
-Color=225,225,226
+Color=27,27,27
 
 [Color0Intense]
-Color=225,225,226
+Color=34,34,34
 
 [Color1]
 Color=244,67,54
 
 [Color1Intense]
-Color=150,80,75
+Color=255,87,34
 
 [Color2]
 Color=76,175,80
 
 [Color2Intense]
-Color=58,94,60
+Color=69,69,70
 
 [Color3]
 Color=246,116,0
 
 [Color3Intense]
-Color=133,88,49
+Color=108,108,109
 
 [Color4]
 Color=33,150,243
 
 [Color4Intense]
-Color=60,86,107
+Color=148,148,149
 
 [Color5]
 Color=233,30,99
 
 [Color5Intense]
-Color=138,76,97
+Color=156,39,176
 
 [Color6]
-Color=159,30,233
+Color=0,150,136
 
 [Color6Intense]
-Color=98,75,112
+Color=188,188,189
 
 [Color7]
-Color=102,103,104
+Color=228,228,229
 
 [Color7Intense]
-Color=127,128,129
+Color=239,240,241
 
 [Foreground]
-Color=102,103,104
+Color=180,180,180
 
 [ForegroundIntense]
-Color=127,128,129
+Color=147,161,161
 
 [General]
-Description=Papirus
+Description=Papirus Dark Solarized
 Opacity=1
 Wallpaper=

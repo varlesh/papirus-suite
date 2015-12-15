@@ -27,7 +27,7 @@ If you like my project , you can donate:
 <span class="Yandex.Money"><a href="http://yasobe.ru/na/varlesh#form_submit" title="Donate to this project using Yandex.Money"><img src="https://money.yandex.ru/img/ym_logo.gif" alt="Yandex.Money donate button" /></a></span>
 
 # INSTALL
-**For Arch Linux (AUR):**
+**For Archlinux, Manjaro, Chakra, KaOS, Netrunner, Antergos (AUR):**
 ```
 yaourt -S papirus
 ```

@@ -17,6 +17,7 @@ mogrify -colorspace GRAY Spin/*.png
 mogrify -colorspace GRAY Tabs/*.png
 mogrify -colorspace GRAY Toolbar/*.png
 sed -i 's|3DAEE9|888888|g' gtkrc
+cp slider* /Scrollbars
 cd ..
 cd gtk-3.0
 mogrify -colorspace GRAY assets/*.png

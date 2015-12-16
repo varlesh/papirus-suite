@@ -23,6 +23,7 @@ sed -i 's|353535|222222|g' gtkrc
 cp tool* Toolbar/
 cp handle* Handles/
 cp menu* Menubar/
+cp slider* Scrollbars/
 cd ..
 cd gtk-3.0
 mogrify -colorspace GRAY assets/*.png

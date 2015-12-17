@@ -102,12 +102,6 @@
 	<SubBitmap id="img_posbar_650x05" x="0" y="110" height="5" width="650"/>
 	<SubBitmap id="img_volumebg_fs" x="0" y="110" height="10" width="100"/>	
   </Bitmap>
-  <Bitmap id="img_menu_bg_all" file="files/menu_bg_all.jpg" alphacolor="#FF00FF">
-    <SubBitmap id="img_bgmenu_300x250" x="0" y="0" height="250" width="350"/>
-    <SubBitmap id="img_bgmenu_300x20" x="0" y="0" height="20" width="300"/>
-    <SubBitmap id="img_bgmenu_175x50" x="0" y="0" height="50" width="175"/>
-	<SubBitmap id="img_bgmenu_25x50" x="0" y="0" height="50" width="25"/>
-  </Bitmap>
   <Bitmap id="img_settings_all" file="files/menu_all.png" alphacolor="#FF00FF">
     <SubBitmap id="img_sett_aot" x="0" y="0" height="50" width="250"/>
     <SubBitmap id="img_sett_aot_hover" x="250" y="0" height="50" width="250"/>

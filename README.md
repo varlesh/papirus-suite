@@ -12,8 +12,9 @@ On repository available:
 * [Kmail themes (messageviewer)](https://github.com/varlesh/papirus-pack-kde/tree/master/kmail-theme)
 * [GTK themes (only for KDE) + Plank Themes](https://github.com/varlesh/papirus-pack-kde/tree/master/gtk-themes)
 * [LibreOffice icons](https://github.com/varlesh/papirus-pack-kde/tree/master/libreoffice-icons)
-* [Bomi skin](https://github.com/varlesh/papirus-pack-kde/tree/master/bomi-skin)
 * [Yakuake skins](https://github.com/varlesh/papirus-pack-kde/tree/master/yakuake-skins)
+* [VLC skins](https://github.com/varlesh/papirus-pack-kde/tree/master/vlc-skins)
+* [Bomi skin](https://github.com/varlesh/papirus-pack-kde/tree/master/bomi-skin)
 
 # DONATE
 If you like my project , you can donate:

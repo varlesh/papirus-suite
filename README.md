@@ -32,6 +32,10 @@ If you like my project , you can donate:
 ```
 yaourt -S papirus
 ```
+or alternative Git-version:
+```
+yaourt -S papirus-git
+```
 **For Kubuntu 14.04, Debian 8 KDE, Linux Mint 17 KDE (KDE4 DEB-based Distros):**
 
 Package Depends:

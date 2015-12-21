@@ -44,6 +44,7 @@ Package Depends:
 ```
 sudo add-apt-repository 'deb http://ppa.launchpad.net/varlesh-l/papirus-pack/ubuntu trusty main'
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 80AC0F06
+sudo apt-get update
 sudo apt-get install papirus-pack-kde4
 ```
 **For Kubuntu 15.04/15.10/16.04 (KDE5 DEB-based Distros):**
@@ -58,6 +59,7 @@ Package Depends:
 ```
 sudo add-apt-repository 'deb http://ppa.launchpad.net/varlesh-l/papirus-pack/ubuntu xenial main'
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 80AC0F06
+sudo apt-get update
 sudo apt-get install papirus-pack-kde5
 ```
 

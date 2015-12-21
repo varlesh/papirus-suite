@@ -32,7 +32,8 @@ If you like my project , you can donate:
 ```
 yaourt -S papirus
 ```
-**For Kubuntu 14.04, Debian 8 KDE, Linux Mint 17 KDE (KDE4 DED-based Distros):**
+**For Kubuntu 14.04, Debian 8 KDE, Linux Mint 17 KDE (KDE4 DEB-based Distros):**
+
 Package Depends:
 - libreoffice-base-core
 - gtk2-engines-pixbuf
@@ -45,7 +46,8 @@ sudo add-apt-repository 'deb http://ppa.launchpad.net/varlesh-l/papirus-pack/ubu
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 80AC0F06
 sudo apt-get install papirus-pack-kde4
 ```
-**For Kubuntu 15.04/15.10/16.04 (KDE5 DED-based Distros):**
+**For Kubuntu 15.04/15.10/16.04 (KDE5 DEB-based Distros):**
+
 Package Depends:
 - libreoffice-base-core
 - gtk2-engines-pixbuf

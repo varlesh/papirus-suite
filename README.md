@@ -32,29 +32,33 @@ If you like my project , you can donate:
 ```
 yaourt -S papirus
 ```
-**For Kubuntu 14.04/15.04/15.10:**
+**For Kubuntu 14.04, Debian 8 KDE, Linux Mint 17 KDE (KDE4 DED-based Distros):**
+Package Depends:
+- libreoffice-base-core
+- gtk2-engines-pixbuf
+- gtk2-engines-murrine
+- vlc
+- kmail
+- yakuake
 ```
-sudo add-apt-repository ppa:varlesh-l/papirus-pack
-sudo apt-get update
-#Icon Theme
-sudo apt-get install papirus-icon-theme
-#Plasma Themes
-sudo apt-get install papirus-plasma-theme
-#Aurorae Themes
-sudo apt-get install papirus-aurorae-theme
-#Libreoffice Icon Theme
-sudo apt-get install papirus-libreoffice-theme
-#GTK-Themes (Only Kubuntu 15.04/15.10)
-sudo apt-get install papirus-gtk-theme
-#Skins for Yakuake
-sudo apt-get install papirus-yakuake-theme
-#Konsole/Yakuake color-schemes
-sudo apt-get install papirus-konsole-colorscheme
-#KMail messageviewer themes
-sudo apt-get install papirus-kmail-theme
-#Skin for bomi
-sudo apt-get install papirus-bomi-theme
+sudo add-apt-repository 'deb http://ppa.launchpad.net/varlesh-l/papirus-pack/ubuntu trusty main'
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 80AC0F06
+sudo apt-get install papirus-pack-kde4
 ```
+**For Kubuntu 15.04/15.10/16.04 (KDE5 DED-based Distros):**
+Package Depends:
+- libreoffice-base-core
+- gtk2-engines-pixbuf
+- gtk2-engines-murrine
+- vlc
+- kmail
+- yakuake
+```
+sudo add-apt-repository 'deb http://ppa.launchpad.net/varlesh-l/papirus-pack/ubuntu xenial main'
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 80AC0F06
+sudo apt-get install papirus-pack-kde5
+```
+
 ![Screenshot papirus-pack](papirus-pack-preview.png)
 
 # LICENSES and AUTHORS

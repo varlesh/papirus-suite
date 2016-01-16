@@ -28,43 +28,13 @@ If you like my project , you can donate:
 <span class="Yandex.Money"><a href="http://yasobe.ru/na/varlesh#form_submit" title="Donate to this project using Yandex.Money"><img src="https://money.yandex.ru/img/ym_logo.gif" alt="Yandex.Money donate button" /></a></span>
 
 # INSTALL
-**For Archlinux, Manjaro, Chakra, KaOS, Netrunner, Antergos (AUR):**
+**For Archlinux, Manjaro, Chakra, KaOS, Netrunner Rolling, Antergos (AUR):**
 ```
 yaourt -S papirus
 ```
 or alternative Git-version:
 ```
 yaourt -S papirus-git
-```
-**For Kubuntu 14.04, Debian 8 KDE, Linux Mint 17 KDE (KDE4 DEB-based Distros):**
-
-Package Depends:
-- libreoffice-base-core
-- gtk2-engines-pixbuf
-- gtk2-engines-murrine
-- vlc
-- kmail
-- yakuake
-```
-sudo add-apt-repository 'deb http://ppa.launchpad.net/varlesh-l/papirus-pack/ubuntu trusty main'
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 80AC0F06
-sudo apt-get update
-sudo apt-get install papirus-pack-kde4
-```
-**For Kubuntu 15.04/15.10/16.04 (KDE5 DEB-based Distros):**
-
-Package Depends:
-- libreoffice-base-core
-- gtk2-engines-pixbuf
-- gtk2-engines-murrine
-- vlc
-- kmail
-- yakuake
-```
-sudo add-apt-repository 'deb http://ppa.launchpad.net/varlesh-l/papirus-pack/ubuntu xenial main'
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 80AC0F06
-sudo apt-get update
-sudo apt-get install papirus-pack-kde5
 ```
 
 ![Screenshot papirus-pack](papirus-pack-preview.png)

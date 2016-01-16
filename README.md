@@ -10,6 +10,7 @@ On repository available:
 * [KDE color-schemes](https://github.com/varlesh/papirus-pack-kde/tree/master/color-schemes)
 * [Konsole profile color-schemes](https://github.com/varlesh/papirus-pack-kde/tree/master/konsole-colorschemes)
 * [Kmail themes (messageviewer)](https://github.com/varlesh/papirus-pack-kde/tree/master/kmail-theme)
+* [QtCurve styles](https://github.com/varlesh/papirus-pack-kde/tree/master/QtCurve)
 * [GTK themes (only for KDE) + Plank Themes](https://github.com/varlesh/papirus-pack-kde/tree/master/gtk-themes)
 * [LibreOffice icons](https://github.com/varlesh/papirus-pack-kde/tree/master/libreoffice-icons)
 * [Yakuake skins](https://github.com/varlesh/papirus-pack-kde/tree/master/yakuake-skins)
@@ -19,11 +20,9 @@ On repository available:
 # DONATE
 If you like my project , you can donate:
 
-**PayPal**
 
 <span class="paypal"><a href="https://www.paypal.me/varlesh" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="PayPal donate button" /></a></span>
 
-**Yandex.Money**
 
 <span class="Yandex.Money"><a href="http://yasobe.ru/na/varlesh#form_submit" title="Donate to this project using Yandex.Money"><img src="https://money.yandex.ru/img/ym_logo.gif" alt="Yandex.Money donate button" /></a></span>
 

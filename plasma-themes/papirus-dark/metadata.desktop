@@ -12,7 +12,7 @@ X-KDE-PluginInfo-License=CCPL:by-sa
 X-KDE-PluginInfo-EnabledByDefault=true
 
 [ContrastEffect]
-enabled=true
+enabled=false
 contrast=0.2
 intensity=0.4
 saturation=1.7

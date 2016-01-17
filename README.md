@@ -36,8 +36,15 @@ or alternative Git-version:
 ```
 yaourt -S papirus-git
 ```
+# PREVIEW
+
+Breeze style:
 
 ![Screenshot papirus-pack](papirus-pack-preview.png)
+
+QtCurve style (with transparent):
+
+![Screenshot papirus-pack-qtcurve](papirus-pack-qtcurve-preview.png)
 
 # LICENSES and AUTHORS
 This repository combines many licenses, which mostly come from the original projects. Please, see AUTHOR and LICENSE pages in each module folder of the theme for more information.

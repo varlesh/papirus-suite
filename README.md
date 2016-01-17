@@ -15,6 +15,7 @@ On repository available:
 * [LibreOffice icons](https://github.com/varlesh/papirus-pack-kde/tree/master/libreoffice-icons)
 * [Yakuake skins](https://github.com/varlesh/papirus-pack-kde/tree/master/yakuake-skins)
 * [VLC skins](https://github.com/varlesh/papirus-pack-kde/tree/master/vlc-skins)
+* [SMPlayer themes](https://github.com/varlesh/papirus-pack-kde/tree/master/smplayer-themes)
 * [Bomi skin](https://github.com/varlesh/papirus-pack-kde/tree/master/bomi-skin)
 
 # DONATE

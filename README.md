@@ -42,9 +42,13 @@ Breeze style:
 
 ![Screenshot papirus-pack](papirus-pack-preview.png)
 
+![Screenshot papirus-dark](papirus-dark-preview.png)
+
 QtCurve style (with transparent):
 
 ![Screenshot papirus-pack-qtcurve](papirus-pack-qtcurve-preview.png)
+
+![Screenshot papirus-dark-qtcurve](papirus-dark-qtcurve-preview.png)
 
 # LICENSES and AUTHORS
 This repository combines many licenses, which mostly come from the original projects. Please, see AUTHOR and LICENSE pages in each module folder of the theme for more information.

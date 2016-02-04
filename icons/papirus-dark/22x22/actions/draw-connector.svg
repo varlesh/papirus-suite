@@ -14,7 +14,7 @@
    viewBox="0 0 24 24"
    id="svg6654"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="draw-connector.svg">
   <defs
      id="defs6656" />
@@ -26,16 +26,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.04"
-     inkscape:cx="-47.893105"
+     inkscape:cx="-71.259582"
      inkscape:cy="-0.6666122"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1600"
-     inkscape:window-height="849"
+     inkscape:window-height="847"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="30"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata6659">
@@ -55,14 +55,14 @@
      id="layer1"
      transform="translate(0,-1028.3622)">
     <rect
-       style="color:#ffffff;fill:none"
+       style="color:#000000;fill:none"
        id="rect10524"
        width="22"
        height="22"
        x="0"
        y="1028.3622" />
     <path
-       style="opacity:0.72;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-linecap:round;stroke-linejoin:round"
+       style="opacity:0.72;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
        d="m 15.363637,1032.9862 0,0.012 0,1.543 c -0.363339,0.021 -0.723478,0.041 -1.115234,0.078 -1.278904,0.1228 -2.661869,0.3289 -3.884767,0.7304 l 0,-0.3633 -4.0000002,0 0,4 0.1269531,0 c -0.5693099,1.3541 -0.9199267,2.9318 -1.1621094,4.3906 -0.035463,0.2136 -0.055591,0.4019 -0.085937,0.6094 l -0.8789062,0 0,0.012 0,3.9883 0,0.012 1.5,0 2.5,0 0,-0.012 0,-1.543 c 0.3633,-0.021 0.7235344,-0.041 1.1152344,-0.078 1.2789013,-0.1229 2.6618673,-0.329 3.8847663,-0.7305 l 0,0.3633 4,0 0,-4 -0.126954,0 c 0.569401,-1.3541 0.91991,-2.9318 1.16211,-4.3906 0.035,-0.2136 0.05594,-0.4019 0.08594,-0.6094 l 0.878904,0 0,-0.012 0,-3.9883 0,-0.012 -1.5,0 -2.5,0 z m 0,2.5547 0,1.4453 0,0.012 2.111328,0 c -0.023,0.1535 -0.0365,0.2905 -0.0625,0.4473 -0.260501,1.5691 -0.697988,3.2566 -1.304687,4.5527 l -2.744141,0 0,2.5508 c -1.1634,0.4239 -2.627569,0.6926 -3.98047,0.8223 -0.3578999,0.034 -0.6855312,0.052 -1.0195312,0.072 l 0,-1.4454 0,-0.012 -2.1113281,0 c 0.023155,-0.1535 0.036483,-0.2906 0.0625,-0.4473 0.2604924,-1.5691 0.697998,-3.2566 1.3046875,-4.5527 l 2.7441408,0 0,-2.5508 c 1.1634,-0.4239 2.627615,-0.6926 3.98047,-0.8223 0.357945,-0.034 0.685481,-0.052 1.019531,-0.072 z"
        id="path4137"
        inkscape:connector-curvature="0" />

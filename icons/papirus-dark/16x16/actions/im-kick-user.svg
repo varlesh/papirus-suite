@@ -64,7 +64,7 @@
      inkscape:window-y="32"
      inkscape:zoom="14.06">
     <inkscape:grid
-       color="#000000"
+       color="#ffffff"
        dotted="false"
        empcolor="#0800ff"
        empopacity="0.4627451"
@@ -102,7 +102,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -112,7 +112,7 @@
      style="display:inline"
      transform="translate(-425.0004,119.00336)">
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#e74c3c;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate;opacity:1"
+       style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#e74c3c;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate;opacity:1"
        d="M 8 2 C 6.34314 2 5 3.3432 5 5 C 5 6.6568 6.34314 8 8 8 C 9.65686 8 11 6.6568 11 5 C 11 3.3432 9.65686 2 8 2 z M 8 9 C 1.99977 9.00336 2 13 2 13 L 2 14 L 14 14 L 14 13 C 14 13 13.99977 8.997 8 9 z "
        transform="translate(425.0004,-119.00336)"
        id="path4330" />

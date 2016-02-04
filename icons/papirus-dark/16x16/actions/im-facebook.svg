@@ -64,7 +64,7 @@
      inkscape:window-y="32"
      inkscape:zoom="17.31">
     <inkscape:grid
-       color="#000000"
+       color="#ffffff"
        dotted="false"
        empcolor="#0800ff"
        empopacity="0.4627451"
@@ -102,7 +102,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
     </linearGradient>
     <filter
        inkscape:collect="always"
@@ -122,7 +122,7 @@
      style="display:inline"
      transform="translate(-265.0004,275.00336)">
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.72;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#ffffff;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.72;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#ffffff;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 9 2 C 8.08323 2.001 7.1898013 2.29301 6.6445312 2.96875 C 6.0992612 3.64449 5.9454831 4.4722606 5.8769531 5.4316406 C 5.8431948 5.9042769 5.8332859 6.4261044 5.8378906 7 L 5 7 C 4.446 7 4 7.446 4 8 C 4 8.554 4.446 9 5 9 L 5.8886719 9 C 5.9363965 10.398119 5.9999505 12.042589 6 14 A 1.0001 1.0001 0 1 0 8 14 C 7.9999514 12.038269 7.9436907 10.380519 7.8984375 9 L 9 9 C 9.554 9 10 8.554 10 8 C 10 7.446 9.554 7 9 7 L 7.8457031 7 C 7.8389025 6.4472039 7.8446332 5.9719927 7.8730469 5.5742188 C 7.9295469 4.7836087 8.0901419 4.3622094 8.2011719 4.2246094 C 8.3122019 4.0870094 8.4186231 4.00066 9.0019531 4 A 1.0001 1.0001 0 1 0 9 2 z "
        transform="translate(265.0004,-275.00336)"
        id="path4195" />

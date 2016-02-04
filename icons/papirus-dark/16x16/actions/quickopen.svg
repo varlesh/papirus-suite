@@ -18,7 +18,7 @@
    id="svg7384"
    style="enable-background:new"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="16.000017">
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
@@ -27,8 +27,8 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer12"
-     inkscape:cx="-12.196956"
-     inkscape:cy="6.9324869"
+     inkscape:cx="-11.681008"
+     inkscape:cy="3.1801417"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -57,14 +57,14 @@
      inkscape:snap-page="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="840"
+     inkscape:window-height="847"
      inkscape:window-maximized="1"
      inkscape:window-width="1600"
-     inkscape:window-x="-4"
-     inkscape:window-y="34"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
      inkscape:zoom="10.66">
     <inkscape:grid
-       color="#000000"
+       color="#ffffff"
        dotted="false"
        empcolor="#0800ff"
        empopacity="0.4627451"
@@ -102,7 +102,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -111,65 +111,11 @@
      inkscape:label="actions"
      style="display:inline"
      transform="translate(-585.00018,-41)">
-    <g
-       id="g4183"
-       transform="matrix(1.25,0,0,1.1666667,585.50019,42)"
-       style="fill:#ffffff;fill-opacity:1">
-      <g
-         id="g4143"
-         style="fill:#ffffff;fill-opacity:1">
-        <path
-           style="fill:#ffffff;opacity:0.72;fill-opacity:1"
-           d="m 9.199992,0 -4.8,0 L 2,6.8571427 l 2.399992,0 L 2.799992,12 10,5.142857 l -3.200008,0 z"
-           id="polygon4145"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccccc" />
-      </g>
-      <g
-         id="g4147"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g4149"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g4151"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g4153"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g4155"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g4157"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g4159"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g4161"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g4163"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g4165"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g4167"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g4169"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g4171"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g4173"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g4175"
-         style="fill:#ffffff;fill-opacity:1" />
-    </g>
+    <path
+       style="opacity:0.72000002;fill:#ffffff;fill-opacity:1"
+       d="m 597.00018,42 -6,0 -2.99999,8 2.99999,0 -2,6 9.00001,-8 -4.00001,0 z"
+       id="polygon4145"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
   </g>
 </svg>

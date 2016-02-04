@@ -22,24 +22,24 @@
        id="linearGradient1610">
       <stop
          id="stop1611"
-         offset="0.0000000"
-         style="stop-color:#ffffff;stop-opacity:0.72" />
+         offset="0.ffffff0"
+         style="stop-color:#ffffff;stop-opacity:1" />
       <stop
          id="stop3053"
          offset="0.35076979"
-         style="stop-color:#7f7f7f;stop-opacity:0.72" />
+         style="stop-color:#7f7f7f;stop-opacity:1" />
       <stop
          id="stop3054"
          offset="0.59668732"
-         style="stop-color:#bfbfbf;stop-opacity:0.72" />
+         style="stop-color:#bfbfbf;stop-opacity:1" />
       <stop
          id="stop3055"
          offset="0.78382427"
-         style="stop-color:#dfdfdf;stop-opacity:0.72" />
+         style="stop-color:#dfdfdf;stop-opacity:1" />
       <stop
          id="stop1612"
-         offset="1.0000000"
-         style="stop-color:#ffffff;stop-opacity:0.72" />
+         offset="1.ffffff0"
+         style="stop-color:#ffffff;stop-opacity:1" />
     </linearGradient>
   </defs>
   <sodipodi:namedview

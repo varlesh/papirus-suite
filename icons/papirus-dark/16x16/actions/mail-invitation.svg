@@ -27,7 +27,7 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer12"
-     inkscape:cx="-8.4200066"
+     inkscape:cx="-7.5574729"
      inkscape:cy="5.0467261"
      gridtolerance="10"
      inkscape:guide-bbox="true"
@@ -64,7 +64,7 @@
      inkscape:window-y="31"
      inkscape:zoom="18.55">
     <inkscape:grid
-       color="#000000"
+       color="#ffffff"
        dotted="false"
        empcolor="#0800ff"
        empopacity="0.4627451"
@@ -102,7 +102,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g

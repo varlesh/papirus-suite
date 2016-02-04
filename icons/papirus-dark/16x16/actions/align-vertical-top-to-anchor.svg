@@ -27,7 +27,7 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer12"
-     inkscape:cx="-4.6300151"
+     inkscape:cx="3.9212927"
      inkscape:cy="10.122567"
      gridtolerance="10"
      inkscape:guide-bbox="true"
@@ -57,14 +57,14 @@
      inkscape:snap-page="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="840"
+     inkscape:window-height="841"
      inkscape:window-maximized="1"
      inkscape:window-width="1600"
      inkscape:window-x="-4"
-     inkscape:window-y="34"
+     inkscape:window-y="33"
      inkscape:zoom="19.88">
     <inkscape:grid
-       color="#000000"
+       color="#ffffff"
        dotted="false"
        empcolor="#0800ff"
        empopacity="0.4627451"
@@ -102,7 +102,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -113,8 +113,7 @@
      transform="translate(-505.00033,39.003359)">
     <g
        id="g4139"
-       transform="matrix(0,1,-1,0,481.99701,-545.00369)"
-       style="fill:#ffffff;fill-opacity:1">
+       transform="matrix(0,1,-1,0,481.99701,-545.00369)">
       <path
          sodipodi:nodetypes="ccccccccccccc"
          inkscape:connector-curvature="0"

@@ -27,7 +27,7 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer1"
-     inkscape:cx="3.1727325"
+     inkscape:cx="-18.426743"
      inkscape:cy="4.1828883"
      gridtolerance="10"
      inkscape:guide-bbox="true"
@@ -57,14 +57,14 @@
      inkscape:snap-page="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="840"
+     inkscape:window-height="841"
      inkscape:window-maximized="1"
      inkscape:window-width="1600"
      inkscape:window-x="-4"
-     inkscape:window-y="34"
-     inkscape:zoom="17.31">
+     inkscape:window-y="33"
+     inkscape:zoom="14.06">
     <inkscape:grid
-       color="#000000"
+       color="#ffffff"
        dotted="false"
        empcolor="#0800ff"
        empopacity="0.4627451"
@@ -102,7 +102,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
     </linearGradient>
     <filter
        inkscape:collect="always"
@@ -139,21 +139,21 @@
        inkscape:label="#toggle_snap_global"
        style="opacity:0.72">
       <rect
-         style="color:#000000;fill:none;stroke-width:0.1"
+         style="color:#ffffff;fill:none;stroke-width:0.1"
          id="rect5385-6"
          width="16"
          height="16"
          x="620"
          y="30" />
       <rect
-         style="color:#000000;fill:none;stroke-width:0.1"
+         style="color:#ffffff;fill:none;stroke-width:0.1"
          id="rect5385-6-0"
          width="16"
          height="16"
          x="620"
          y="30.00057" />
       <path
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.90510172;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1"
+         style="color:#ffffff;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.90510172;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1"
          d="M 2.9550781 0.421875 L 0.421875 2.9550781 L 2.9824219 5.515625 L 5.515625 2.9824219 L 2.9550781 0.421875 z M 5.3378906 4.6308594 L 4.6308594 5.3378906 L 8.6152344 9.3222656 L 6.96875 10.96875 L 10.96875 10.96875 L 10.96875 6.96875 L 9.3222656 8.6152344 L 5.3378906 4.6308594 z M 13.017578 10.484375 L 10.484375 13.017578 L 13.044922 15.578125 L 15.578125 13.044922 L 13.017578 10.484375 z "
          transform="translate(620.03128,30.03125)"
          id="rect3224-2" />

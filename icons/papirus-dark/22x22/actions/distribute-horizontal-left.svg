@@ -102,7 +102,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:0.72;" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -113,7 +113,7 @@
      transform="translate(-505.00033,39.003359)">
     <g
        id="g4145"
-       transform="translate(2.9999972,3.0000009)">
+       transform="translate(2.9999972,3.ffffff9)">
       <g
          id="g4460">
         <rect

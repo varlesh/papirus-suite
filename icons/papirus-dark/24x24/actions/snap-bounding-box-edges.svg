@@ -102,7 +102,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:0.72;" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
     </linearGradient>
     <filter
        inkscape:collect="always"
@@ -148,7 +148,7 @@
        id="rect5385-6-0-1"
        style="color:#ffffff;fill:none;stroke-width:0.1" />
     <path
-       style="color:#ffffff;opacity:0.72;fill:none;stroke:#ffffff;stroke-linecap:square;stroke-dasharray:1, 2;stroke-dashoffset:2.5;stroke-opacity:0.72"
+       style="color:#ffffff;opacity:0.72;fill:none;stroke:#ffffff;stroke-linecap:square;stroke-dasharray:1, 2;stroke-dashoffset:2.5;stroke-opacity:1"
        d="m 522.50018,211.5 0,13 -13,0"
        id="path9141-9"
        inkscape:connector-curvature="0" />

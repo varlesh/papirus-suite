@@ -66,7 +66,7 @@
     <inkscape:grid
        color="#ffffff"
        dotted="false"
-       empcolor="#ffffff"
+       empcolor="#0800ff"
        empopacity="0.4627451"
        empspacing="4"
        enabled="true"
@@ -102,7 +102,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:0.72;" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g

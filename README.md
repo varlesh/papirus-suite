@@ -36,6 +36,14 @@ or alternative Git-version:
 ```
 yaourt -S papirus-git
 ```
+**For Kubuntu**
+
+[Build packages for Kubuntu 14.04 Trusty](https://launchpad.net/~varlesh-l/+archive/ubuntu/papirus-pack/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty) - compatibility with Kubuntu 14.10, Linux Mint 17 KDE, Debian 8 KDE.
+
+[Build packages for Kubuntu 16.04 Xenial](https://launchpad.net/~varlesh-l/+archive/ubuntu/papirus-pack/+packages?field.name_filter=&field.status_filter=published&field.series_filter=xenial) - compatibility with Kubuntu 15.10
+
+WARNING: papirus-gtk-icon-theme not needed for Kubuntu, icons available on  papirus-pack-kde4 and papirus-pack-kde5 packages.
+
 # PREVIEW
 
 Breeze style:

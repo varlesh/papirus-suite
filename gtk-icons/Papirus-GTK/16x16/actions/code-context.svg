@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="code-context.svg"
+   inkscape:export-filename="/home/sam/source-symbolic.png"
+   inkscape:export-xdpi="270"
+   inkscape:export-ydpi="270"
+   height="16"
+   id="svg7384"
+   style="enable-background:new"
+   version="1.1"
+   inkscape:version="0.91 r"
+   width="16">
+  <sodipodi:namedview
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="false"
+     bordercolor="#666666"
+     borderlayer="false"
+     borderopacity="1"
+     inkscape:current-layer="layer12"
+     inkscape:cx="4.6747545"
+     inkscape:cy="18.151617"
+     gridtolerance="10"
+     inkscape:guide-bbox="true"
+     guidetolerance="10"
+     id="namedview88"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     objecttolerance="10"
+     pagecolor="#f7f7f7"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     showborder="true"
+     showgrid="false"
+     showguides="true"
+     inkscape:showpageshadow="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-center="false"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-others="true"
+     inkscape:snap-page="false"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-to-guides="true"
+     inkscape:window-height="842"
+     inkscape:window-maximized="1"
+     inkscape:window-width="1600"
+     inkscape:window-x="-4"
+     inkscape:window-y="32"
+     inkscape:zoom="17.31">
+    <inkscape:grid
+       color="#000000"
+       dotted="false"
+       empcolor="#0800ff"
+       empopacity="0.4627451"
+       empspacing="4"
+       enabled="true"
+       id="grid4866"
+       opacity="0.16470588"
+       originx="-203.99998"
+       originy="-256.01007"
+       snapvisiblegridlinesonly="true"
+       spacingx="0.25px"
+       spacingy="0.25px"
+       type="xygrid"
+       visible="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient5606"
+       osb:paint="solid">
+      <stop
+         id="stop5608"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="actions"
+     style="display:inline"
+     transform="translate(-445.00018,39.010071)">
+    <path
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
+       d="M 3 1.0097656 C 1.892 1.0097656 1 1.9017656 1 3.0097656 L 1 13.009766 C 1 14.117766 1.892 15.009766 3 15.009766 L 13 15.009766 C 14.108 15.009766 15 14.117766 15 13.009766 L 15 3.0097656 C 15 1.9017656 14.108 1.0097656 13 1.0097656 L 3 1.0097656 z M 6.6816406 3 L 7 3 L 7 3.7558594 L 6.6464844 3.7558594 C 6.1745071 3.7558594 5.868155 3.8350316 5.7265625 3.9902344 C 5.581599 4.1419099 5.5078125 4.4678683 5.5078125 4.96875 L 5.5078125 6.28125 C 5.5078125 6.835042 5.4329573 7.2358873 5.28125 7.4863281 C 5.1295444 7.7367691 4.8663975 7.9059572 4.4921875 7.9941406 C 4.8663975 8.0893788 5.1295444 8.2632309 5.28125 8.5136719 C 5.4329573 8.7641128 5.5078125 9.1645791 5.5078125 9.7148438 L 5.5078125 11.027344 C 5.5078125 11.531753 5.581599 11.85809 5.7265625 12.009766 C 5.868155 12.161441 6.1745071 12.238281 6.6464844 12.238281 L 7 12.238281 L 7 13 L 6.6816406 13 C 5.8421972 13 5.2817688 12.870398 5.0019531 12.609375 C 4.7187682 12.348352 4.578125 11.826416 4.578125 11.046875 L 4.578125 9.7832031 C 4.578125 9.2505752 4.486736 8.8823198 4.3046875 8.6777344 C 4.122639 8.4731487 3.7931707 8.3710938 3.3144531 8.3710938 L 3 8.3710938 L 3 7.6132812 L 3.3144531 7.6132812 C 3.7931707 7.6132813 4.122639 7.5135582 4.3046875 7.3125 C 4.486736 7.1079146 4.578125 6.7423702 4.578125 6.2167969 L 4.578125 4.9472656 C 4.578125 4.1677242 4.7187682 3.6481205 5.0019531 3.390625 C 5.2817688 3.129602 5.8421972 3 6.6816406 3 z M 9 3 L 9.3183594 3 C 10.157803 3 10.718231 3.129602 10.998047 3.390625 C 11.281232 3.6481205 11.421875 4.1677242 11.421875 4.9472656 L 11.421875 6.2167969 C 11.421875 6.7423702 11.513264 7.1079146 11.695312 7.3125 C 11.877362 7.5135582 12.206829 7.6132812 12.685547 7.6132812 L 13 7.6132812 L 13 8.3710938 L 12.685547 8.3710938 C 12.206829 8.3710938 11.877362 8.4731487 11.695312 8.6777344 C 11.513264 8.8823198 11.421875 9.2505752 11.421875 9.7832031 L 11.421875 11.046875 C 11.421875 11.826416 11.281232 12.348352 10.998047 12.609375 C 10.718231 12.870398 10.157803 13 9.3183594 13 L 9 13 L 9 12.238281 L 9.3535156 12.238281 C 9.8254929 12.238281 10.131844 12.161441 10.273438 12.009766 C 10.418401 11.85809 10.492188 11.531753 10.492188 11.027344 L 10.492188 9.7148438 C 10.492188 9.1645791 10.567043 8.7641128 10.71875 8.5136719 C 10.870456 8.2632309 11.133602 8.0893788 11.507812 7.9941406 C 11.133602 7.9059572 10.870456 7.7367691 10.71875 7.4863281 C 10.567043 7.2358873 10.492188 6.835042 10.492188 6.28125 L 10.492188 4.96875 C 10.492188 4.4678683 10.418401 4.1419099 10.273438 3.9902344 C 10.131844 3.8350316 9.8254929 3.7558594 9.3535156 3.7558594 L 9 3.7558594 L 9 3 z "
+       transform="translate(445.00018,-39.010071)"
+       id="path4142" />
+    <g
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4144"
+       transform="matrix(0.25891275,0,0,0.27089947,339.53856,-19.634565)" />
+    <g
+       transform="matrix(-0.25891275,0,0,0.27089947,566.4618,-19.634565)"
+       id="g4151"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

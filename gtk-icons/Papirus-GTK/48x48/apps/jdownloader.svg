@@ -1,0 +1,2203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2817"
+   height="48"
+   width="48"
+   version="1.0"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="jdownloader.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="845"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2817" />
+  <metadata
+     id="metadata57">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2819">
+    <clipPath
+       id="clipPath4186"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         id="path4188"
+         style="color:#000000"
+         cx="286"
+         cy="26"
+         r="10"
+         fill="url(#linearGradient4190)" />
+    </clipPath>
+  </defs>
+  <circle
+     id="path4230"
+     style="color:#000000"
+     cy="24"
+     cx="24"
+     r="20"
+     fill="#37a0f2" />
+  <path
+     style="fill:#a2f46a;fill-opacity:1"
+     d="M 15.384766 5.9707031 A 20 20 0 0 0 13.820312 6.8105469 L 14.025391 6.8105469 L 14.128906 7.1445312 L 13.833984 7.4199219 L 15.09375 7.4550781 L 15.287109 7.9101562 L 13.869141 7.8574219 L 13.798828 7.5078125 L 12.972656 7.328125 A 20 20 0 0 0 12.126953 7.9335938 L 12.621094 7.9335938 L 12.621094 8.2636719 L 12.404297 8.5527344 L 11.369141 8.5527344 L 11.369141 8.5097656 A 20 20 0 0 0 5.1308594 17.435547 L 5.2402344 17.488281 L 5.2402344 19.158203 L 6.078125 20.59375 L 6.7617188 20.699219 L 6.8496094 20.207031 L 6.0429688 18.962891 L 5.8867188 17.751953 L 6.3574219 17.751953 L 6.5566406 18.998047 L 7.7207031 20.699219 L 7.421875 21.248047 L 8.1621094 22.382812 L 10 22.839844 L 10 22.541016 L 10.734375 22.646484 L 10.666016 23.171875 L 11.242188 23.277344 L 12.134766 23.521484 L 13.394531 24.960938 L 15.005859 25.082031 L 15.162109 26.398438 L 14.060547 27.169922 L 14.009766 28.345703 L 13.851562 29.064453 L 15.445312 31.064453 L 15.566406 31.748047 C 15.566406 31.748047 16.144034 31.90625 16.214844 31.90625 C 16.284704 31.90625 17.509766 32.835938 17.509766 32.835938 L 17.509766 36.449219 L 17.947266 36.572266 L 17.650391 38.238281 L 18.384766 39.220703 L 18.25 40.873047 L 19.220703 42.583984 L 20.458984 43.666016 A 20 20 0 0 0 20.525391 43.677734 L 21.722656 43.699219 L 21.84375 43.294922 L 20.923828 42.517578 L 20.976562 42.130859 L 21.140625 41.658203 L 21.175781 41.175781 L 20.552734 41.15625 L 20.238281 40.761719 L 20.755859 40.261719 L 20.826172 39.886719 L 20.248047 39.720703 L 20.283203 39.371094 L 21.105469 39.246094 L 22.357422 38.642578 L 22.777344 37.871094 L 24.089844 36.1875 L 23.792969 34.871094 L 24.195312 34.169922 L 25.402344 34.207031 L 26.214844 33.560547 L 26.478516 31.019531 L 27.378906 29.873047 L 27.537109 29.134766 L 26.714844 28.871094 L 26.171875 27.980469 L 24.316406 27.960938 L 22.845703 27.398438 L 22.777344 26.347656 L 22.285156 25.488281 L 20.955078 25.46875 L 20.1875 24.259766 L 19.503906 23.925781 L 19.46875 24.292969 L 18.226562 24.367188 L 17.771484 23.732422 L 16.476562 23.46875 L 15.408203 24.705078 L 13.728516 24.419922 L 13.605469 22.521484 L 12.378906 22.3125 L 12.871094 21.380859 L 12.730469 20.845703 L 11.119141 21.925781 L 10.105469 21.802734 L 9.7441406 21.007812 L 9.9648438 20.189453 L 10.523438 19.158203 L 11.810547 18.505859 L 14.294922 18.503906 L 14.289062 19.263672 L 15.181641 19.679688 L 15.111328 18.382812 L 15.753906 17.732422 L 17.052734 16.878906 L 17.142578 16.277344 L 18.4375 14.925781 L 19.814453 14.162109 L 19.693359 14.060547 L 20.625 13.181641 L 20.966797 13.271484 L 21.125 13.46875 L 21.478516 13.074219 L 21.564453 13.037109 L 21.177734 12.982422 L 20.783203 12.849609 L 20.783203 12.470703 L 20.992188 12.300781 L 21.451172 12.300781 L 21.662109 12.392578 L 21.84375 12.761719 L 22.068359 12.728516 L 22.068359 12.695312 L 22.130859 12.716797 L 22.777344 12.619141 L 22.869141 12.302734 L 23.236328 12.394531 L 23.236328 12.738281 L 22.896484 12.972656 L 22.947266 13.347656 L 24.115234 13.708984 C 24.115234 13.708984 24.117341 13.715079 24.119141 13.724609 L 24.388672 13.701172 L 24.40625 13.193359 L 23.478516 12.769531 L 23.425781 12.527344 L 24.195312 12.263672 L 24.228516 11.525391 L 23.425781 11.035156 L 23.373047 9.7910156 L 22.269531 10.333984 L 21.867188 10.333984 L 21.972656 9.3867188 L 20.472656 9.03125 L 19.851562 9.5019531 L 19.851562 10.935547 L 18.734375 11.291016 L 18.287109 12.226562 L 17.800781 12.304688 L 17.800781 11.107422 L 16.751953 10.962891 L 16.226562 10.621094 L 16.015625 9.8457031 L 17.892578 8.7441406 L 18.810547 8.4648438 L 18.904297 9.0820312 L 19.416016 9.0566406 L 19.455078 8.7460938 L 19.990234 8.6679688 L 20 8.5605469 L 19.769531 8.4648438 L 19.716797 8.1347656 L 20.375 8.0800781 L 20.771484 7.6640625 L 20.792969 7.6347656 L 20.798828 7.6367188 L 20.919922 7.5117188 L 22.302734 7.3359375 L 22.914062 7.8574219 L 21.310547 8.7128906 L 23.351562 9.1953125 L 23.615234 8.5117188 L 24.507812 8.5117188 L 24.822266 7.9160156 L 24.193359 7.7578125 L 24.193359 7.0039062 L 22.214844 6.125 L 20.849609 6.2832031 L 20.080078 6.6875 L 20.132812 7.6699219 L 19.326172 7.546875 L 19.203125 7.0039062 L 19.974609 6.3007812 L 18.574219 6.2324219 L 18.171875 6.3535156 L 17.998047 6.8261719 L 18.521484 6.9160156 L 18.417969 7.4414062 L 17.525391 7.4941406 L 17.386719 7.84375 L 16.091797 7.8808594 C 16.091797 7.8808594 16.055836 7.1445312 16.003906 7.1445312 C 15.951946 7.1445662 17.017578 7.1269531 17.017578 7.1269531 L 17.789062 6.3710938 L 17.369141 6.1601562 L 16.808594 6.7050781 L 15.880859 6.6523438 L 15.384766 5.9707031 z M 37.066406 8.8710938 L 36.429688 9.1210938 L 36.021484 9.5664062 L 36.115234 10.085938 L 36.617188 10.15625 L 36.917969 10.914062 L 37.783203 10.564453 L 37.925781 11.576172 L 37.666016 11.576172 L 36.955078 11.470703 L 36.167969 11.603516 L 35.40625 12.681641 L 34.316406 12.853516 L 34.158203 13.789062 L 34.619141 13.896484 L 34.486328 14.498047 L 33.404297 14.28125 L 32.412109 14.498047 L 32.201172 15.050781 L 32.373047 16.212891 L 32.955078 16.486328 L 33.931641 16.480469 L 34.591797 16.421875 L 34.792969 15.894531 L 35.824219 14.552734 L 36.503906 14.691406 L 37.171875 14.085938 L 37.296875 14.558594 L 38.941406 15.671875 L 38.740234 15.941406 L 37.998047 15.902344 L 38.283203 16.306641 L 38.740234 16.40625 L 39.273438 16.183594 L 39.261719 15.539062 L 39.5 15.419922 L 39.308594 15.216797 L 38.210938 14.603516 L 37.923828 13.789062 L 38.835938 13.789062 L 39.126953 14.078125 L 39.912109 14.757812 L 39.945312 15.578125 L 40.759766 16.445312 L 41.0625 15.255859 L 41.625 14.947266 L 41.730469 15.919922 L 42.28125 16.525391 L 42.537109 16.521484 A 20 20 0 0 0 39.568359 11.457031 L 38.242188 11.445312 L 38.152344 11.144531 L 38.941406 10.742188 A 20 20 0 0 0 37.066406 8.8710938 z M 12.603516 9.078125 C 12.643166 9.078125 12.603516 9.5371094 12.603516 9.5371094 L 11.566406 9.6035156 L 11.369141 9.3671875 L 12.103516 9.15625 C 12.103516 9.15625 12.563866 9.078125 12.603516 9.078125 z M 13.865234 11.314453 L 14.363281 11.433594 L 14.191406 12.103516 L 13.652344 12.275391 L 13.3125 11.576172 L 13.865234 11.314453 z M 15.230469 12.904297 L 16.056641 12.904297 L 16.056641 13.15625 L 16.238281 13.15625 L 16.238281 13.589844 L 14.978516 13.589844 L 14.507812 13.458984 L 14.625 13.15625 L 15.230469 12.904297 z M 16.462891 13.089844 L 16.896484 13.484375 L 16.462891 13.589844 L 16.462891 13.089844 z M 17.416016 13.695312 L 17.736328 13.896484 L 17.478516 14.109375 L 17.224609 13.896484 L 17.416016 13.695312 z M 14.994141 13.761719 L 15.689453 13.761719 L 14.796875 15.009766 L 14.429688 14.8125 L 14.507812 14.287109 L 14.994141 13.761719 z M 16.111328 13.761719 L 16.818359 13.761719 L 16.818359 14.181641 L 16.503906 14.384766 L 16.111328 14.458984 L 16.111328 13.761719 z M 16.990234 14.222656 L 17.042969 14.222656 L 17.84375 14.458984 L 17.84375 14.867188 L 17.173828 14.867188 L 16.990234 14.601562 L 16.990234 14.222656 z M 16.660156 14.601562 L 16.660156 15.011719 L 16.359375 15.314453 L 15.689453 15.314453 L 15.794922 14.855469 L 16.111328 14.828125 L 16.175781 14.669922 L 16.660156 14.601562 z M 37.480469 16.339844 L 35.117188 16.523438 L 34.384766 16.917969 L 33.447266 16.917969 L 32.986328 16.871094 L 31.847656 17.505859 L 31.847656 18.699219 L 29.517578 20.382812 L 29.710938 21.101562 L 30.183594 21.101562 L 30.060547 21.785156 L 29.728516 21.908203 L 29.708984 23.697266 L 31.722656 25.994141 L 32.597656 25.994141 L 32.652344 25.855469 L 34.226562 25.855469 L 34.679688 25.433594 L 35.574219 25.433594 L 36.0625 25.925781 L 37.394531 26.064453 L 37.21875 27.837891 L 38.695312 30.451172 L 37.917969 31.941406 L 37.970703 32.642578 L 38.582031 33.255859 L 38.582031 34.943359 L 39.386719 36.027344 L 39.386719 36.765625 A 20 20 0 0 0 44 24 A 20 20 0 0 0 43.150391 18.287109 L 42.15625 18.287109 L 41.132812 17.523438 L 40.056641 17.628906 L 40.056641 18.287109 L 39.714844 18.287109 L 39.347656 18.023438 L 37.480469 17.548828 L 37.480469 16.339844 z "
+     id="path4276" />
+  <circle
+     id="path4240"
+     opacity="0"
+     style="color:#000000"
+     stroke-width=".45455"
+     clip-path="url(#clipPath4186)"
+     transform="matrix(2,0,0,2,-548,-28)"
+     cy="26"
+     cx="286"
+     r="10" />
+  <circle
+     id="path4242"
+     opacity="0"
+     style="color:#000000"
+     stroke-width=".90909"
+     clip-path="url(#clipPath4186)"
+     transform="matrix(2,0,0,2,-548,-28)"
+     cy="26"
+     cx="286"
+     r="10" />
+  <path
+     id="rect3436"
+     opacity=".2"
+     d="m24 4c-11.079 0-19.998 8.92-19.998 20 0 0.16772-0.004 0.33329 0 0.5 0.2642-10.846 9.087-19.5 19.998-19.5s19.734 8.6536 19.998 19.5c0.004-0.16671 0-0.33228 0-0.5 0-11.08-8.919-20-19.998-20z"
+     fill="#fff" />
+  <path
+     id="circle4330"
+     opacity=".3"
+     style="color:#000000"
+     d="m43.979 23.418a20 20 0 0 1 -19.979 19.582 20 20 0 0 1 -19.978 -19.418 20 20 0 0 0 -0.022 0.418 20 20 0 0 0 20 20 20 20 0 0 0 20 -20 20 20 0 0 0 -0.021 -0.582z" />
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="1.6604272"
+     x="826.92194"><tspan
+       id="tspan4089-7-2-9"
+       y="1.6604272"
+       x="826.92194" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-39.08128"
+     x="850.88287"><tspan
+       id="tspan4089-7-2-9-6"
+       y="-39.08128"
+       x="850.88287" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-2"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-69.159424"
+     x="-619.67548"><tspan
+       id="tspan4089-7-2-9-2"
+       y="-69.159424"
+       x="-619.67548" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="676.39404"
+     x="-2443.3616"><tspan
+       id="tspan4089-7-2-9-4"
+       y="676.39404"
+       x="-2443.3616" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-1"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-454.48038"
+     x="-505.18442"><tspan
+       id="tspan4089-7-2-9-7"
+       y="-454.48038"
+       x="-505.18442" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-867.9505"
+     x="302.41772"><tspan
+       id="tspan4089-7-2-9-1"
+       y="-867.9505"
+       x="302.41772" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-908.6922"
+     x="326.37866"><tspan
+       id="tspan4089-7-2-9-6-5"
+       y="-908.6922"
+       x="326.37866" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-915.9021"
+     x="-1165.0845"><tspan
+       id="tspan4089-7-2-9-18"
+       y="-915.9021"
+       x="-1165.0845" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1189.1364"
+     x="295.45825"><tspan
+       id="tspan4089-7-2-9-9"
+       y="-1189.1364"
+       x="295.45825" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-1"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-562.44489"
+     x="1781.5818"><tspan
+       id="tspan4089-7-2-9-1-8"
+       y="-562.44489"
+       x="1781.5818" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-5"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-603.18665"
+     x="1805.5426"><tspan
+       id="tspan4089-7-2-9-6-9"
+       y="-603.18665"
+       x="1805.5426" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-75"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-610.39655"
+     x="314.07941"><tspan
+       id="tspan4089-7-2-9-3"
+       y="-610.39655"
+       x="314.07941" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-883.63055"
+     x="1774.6223"><tspan
+       id="tspan4089-7-2-9-9-8"
+       y="-883.63055"
+       x="1774.6223" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-45"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-658.48785"
+     x="-623.73688"><tspan
+       id="tspan4089-7-2-9-75"
+       y="-658.48785"
+       x="-623.73688" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-7"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="87.065681"
+     x="-2447.4226"><tspan
+       id="tspan4089-7-2-9-4-0"
+       y="87.065681"
+       x="-2447.4226" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="179.93782"
+     x="-732.66711"><tspan
+       id="tspan4089-7-2-9-19"
+       y="179.93782"
+       x="-732.66711" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-5"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="0.7556783"
+     x="376.35718"><tspan
+       id="tspan4089-7-2-9-1-2"
+       y="0.7556783"
+       x="376.35718" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-0"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-39.986027"
+     x="400.31812"><tspan
+       id="tspan4089-7-2-9-6-2"
+       y="-39.986027"
+       x="400.31812" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-26"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-47.195999"
+     x="-1091.145"><tspan
+       id="tspan4089-7-2-9-90"
+       y="-47.195999"
+       x="-1091.145" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-320.43005"
+     x="369.39771"><tspan
+       id="tspan4089-7-2-9-9-5"
+       y="-320.43005"
+       x="369.39771" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-55"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-49.910244"
+     x="-658.33685"><tspan
+       id="tspan4089-7-2-9-32"
+       y="-49.910244"
+       x="-658.33685" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="695.64325"
+     x="-2482.0229"><tspan
+       id="tspan4089-7-2-9-4-1"
+       y="695.64325"
+       x="-2482.0229" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-1-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-911.44073"
+     x="-507.24384"><tspan
+       id="tspan4089-7-2-9-7-8"
+       y="-911.44073"
+       x="-507.24384" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1324.911"
+     x="300.35831"><tspan
+       id="tspan4089-7-2-9-1-9"
+       y="-1324.911"
+       x="300.35831" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-52"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1365.6527"
+     x="324.31921"><tspan
+       id="tspan4089-7-2-9-6-4"
+       y="-1365.6527"
+       x="324.31921" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-3-4"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1372.8627"
+     x="-1167.1439"><tspan
+       id="tspan4089-7-2-9-18-3"
+       y="-1372.8627"
+       x="-1167.1439" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-7"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1646.0968"
+     x="293.3988"><tspan
+       id="tspan4089-7-2-9-9-54"
+       y="-1646.0968"
+       x="293.3988" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-1-2"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1019.4055"
+     x="1779.5222"><tspan
+       id="tspan4089-7-2-9-1-8-0"
+       y="-1019.4055"
+       x="1779.5222" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-5-6"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1060.1471"
+     x="1803.483"><tspan
+       id="tspan4089-7-2-9-6-9-8"
+       y="-1060.1471"
+       x="1803.483" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-75-4"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1067.3571"
+     x="312.01996"><tspan
+       id="tspan4089-7-2-9-3-9"
+       y="-1067.3571"
+       x="312.01996" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-8-1"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1340.5912"
+     x="1772.5627"><tspan
+       id="tspan4089-7-2-9-9-8-8"
+       y="-1340.5912"
+       x="1772.5627" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-45-0"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1115.4484"
+     x="-625.79633"><tspan
+       id="tspan4089-7-2-9-75-2"
+       y="-1115.4484"
+       x="-625.79633" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-5"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-369.89478"
+     x="-2449.4822"><tspan
+       id="tspan4089-7-2-9-4-00"
+       y="-369.89478"
+       x="-2449.4822" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-264"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-277.02261"
+     x="-734.72656"><tspan
+       id="tspan4089-7-2-9-8"
+       y="-277.02261"
+       x="-734.72656" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-42"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-36.108452"
+     x="105.28795"><tspan
+       id="tspan4089-7-2-9-93"
+       y="-36.108452"
+       x="105.28795" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-05"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-76.850174"
+     x="129.24889"><tspan
+       id="tspan4089-7-2-9-6-49"
+       y="-76.850174"
+       x="129.24889" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-1-4"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-270.87878"
+     x="-1140.5677"><tspan
+       id="tspan4089-7-2-9-7-7"
+       y="-270.87878"
+       x="-1140.5677" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-56"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-684.34894"
+     x="-332.96576"><tspan
+       id="tspan4089-7-2-9-1-1"
+       y="-684.34894"
+       x="-332.96576" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-725.09064"
+     x="-309.00482"><tspan
+       id="tspan4089-7-2-9-6-7"
+       y="-725.09064"
+       x="-309.00482" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-3-42"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-732.30054"
+     x="-1800.4679"><tspan
+       id="tspan4089-7-2-9-18-39"
+       y="-732.30054"
+       x="-1800.4679" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-4"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1005.5347"
+     x="-339.9252"><tspan
+       id="tspan4089-7-2-9-9-3"
+       y="-1005.5347"
+       x="-339.9252" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-1-0"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-378.84329"
+     x="1146.1982"><tspan
+       id="tspan4089-7-2-9-1-8-5"
+       y="-378.84329"
+       x="1146.1982" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-5-5"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-419.58502"
+     x="1170.1591"><tspan
+       id="tspan4089-7-2-9-6-9-2"
+       y="-419.58502"
+       x="1170.1591" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-75-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-426.79498"
+     x="-321.30408"><tspan
+       id="tspan4089-7-2-9-3-1"
+       y="-426.79498"
+       x="-321.30408" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-8-18"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-700.02905"
+     x="1139.2388"><tspan
+       id="tspan4089-7-2-9-9-8-4"
+       y="-700.02905"
+       x="1139.2388" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-45-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-474.88626"
+     x="-1259.1204"><tspan
+       id="tspan4089-7-2-9-75-7"
+       y="-474.88626"
+       x="-1259.1204" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="270.6673"
+     x="-3082.8062"><tspan
+       id="tspan4089-7-2-9-4-2"
+       y="270.6673"
+       x="-3082.8062" /></text>
+  <g
+     id="layer4-0"
+     transform="matrix(0.90475,0,0,0.90475,-767.05435,-685.44217)">
+    <text
+       style="font-size:14px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+       id="text4087-2-6-5-20"
+       font-size="14px"
+       xml:space="preserve"
+       y="1159.4154"
+       x="-664.2738"><tspan
+         id="tspan4089-7-2-9-82"
+         y="1159.4154"
+         x="-664.2738" /></text>
+  </g>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="8.8984146"
+     x="826.92194"><tspan
+       id="tspan4089-7-2-9-43"
+       y="8.8984146"
+       x="826.92194" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-51"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-31.84329"
+     x="850.88287"><tspan
+       id="tspan4089-7-2-9-6-74"
+       y="-31.84329"
+       x="850.88287" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-2-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-61.921432"
+     x="-619.67548"><tspan
+       id="tspan4089-7-2-9-2-1"
+       y="-61.921432"
+       x="-619.67548" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-4"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="683.63202"
+     x="-2443.3616"><tspan
+       id="tspan4089-7-2-9-4-6"
+       y="683.63202"
+       x="-2443.3616" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-1-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-447.24237"
+     x="-505.18442"><tspan
+       id="tspan4089-7-2-9-7-4"
+       y="-447.24237"
+       x="-505.18442" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-2"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-860.71246"
+     x="302.41772"><tspan
+       id="tspan4089-7-2-9-1-26"
+       y="-860.71246"
+       x="302.41772" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-3-4"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-901.45422"
+     x="326.37866"><tspan
+       id="tspan4089-7-2-9-6-5-1"
+       y="-901.45422"
+       x="326.37866" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-3-2"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-908.66412"
+     x="-1165.0845"><tspan
+       id="tspan4089-7-2-9-18-8"
+       y="-908.66412"
+       x="-1165.0845" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-89"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1181.8983"
+     x="295.45825"><tspan
+       id="tspan4089-7-2-9-9-2"
+       y="-1181.8983"
+       x="295.45825" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-1-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-555.20691"
+     x="1781.5818"><tspan
+       id="tspan4089-7-2-9-1-8-8"
+       y="-555.20691"
+       x="1781.5818" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-5-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-595.94867"
+     x="1805.5426"><tspan
+       id="tspan4089-7-2-9-6-9-6"
+       y="-595.94867"
+       x="1805.5426" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-75-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-603.15857"
+     x="314.07941"><tspan
+       id="tspan4089-7-2-9-3-3"
+       y="-603.15857"
+       x="314.07941" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-8-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-876.39252"
+     x="1774.6223"><tspan
+       id="tspan4089-7-2-9-9-8-3"
+       y="-876.39252"
+       x="1774.6223" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-45-33"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-651.24988"
+     x="-623.73688"><tspan
+       id="tspan4089-7-2-9-75-8"
+       y="-651.24988"
+       x="-623.73688" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-7-0"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="94.303673"
+     x="-2447.4226"><tspan
+       id="tspan4089-7-2-9-4-0-4"
+       y="94.303673"
+       x="-2447.4226" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-8-7"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="187.17581"
+     x="-732.66711"><tspan
+       id="tspan4089-7-2-9-19-6"
+       y="187.17581"
+       x="-732.66711" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-5-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="7.9936657"
+     x="376.35718"><tspan
+       id="tspan4089-7-2-9-1-2-9"
+       y="7.9936657"
+       x="376.35718" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-0-0"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-32.748039"
+     x="400.31812"><tspan
+       id="tspan4089-7-2-9-6-2-6"
+       y="-32.748039"
+       x="400.31812" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-26-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-39.958008"
+     x="-1091.145"><tspan
+       id="tspan4089-7-2-9-90-7"
+       y="-39.958008"
+       x="-1091.145" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-3-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-313.19205"
+     x="369.39771"><tspan
+       id="tspan4089-7-2-9-9-5-0"
+       y="-313.19205"
+       x="369.39771" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-55-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-42.672253"
+     x="-658.33685"><tspan
+       id="tspan4089-7-2-9-32-3"
+       y="-42.672253"
+       x="-658.33685" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-9-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="702.88129"
+     x="-2482.0229"><tspan
+       id="tspan4089-7-2-9-4-1-7"
+       y="702.88129"
+       x="-2482.0229" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-1-8-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-904.20276"
+     x="-507.24384"><tspan
+       id="tspan4089-7-2-9-7-8-2"
+       y="-904.20276"
+       x="-507.24384" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-8-6"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1317.673"
+     x="300.35831"><tspan
+       id="tspan4089-7-2-9-1-9-5"
+       y="-1317.673"
+       x="300.35831" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-52-2"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1358.4148"
+     x="324.31921"><tspan
+       id="tspan4089-7-2-9-6-4-6"
+       y="-1358.4148"
+       x="324.31921" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-3-4-5"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1365.6246"
+     x="-1167.1439"><tspan
+       id="tspan4089-7-2-9-18-3-8"
+       y="-1365.6246"
+       x="-1167.1439" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-7-7"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1638.8588"
+     x="293.3988"><tspan
+       id="tspan4089-7-2-9-9-54-9"
+       y="-1638.8588"
+       x="293.3988" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-1-2-6"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1012.1675"
+     x="1779.5222"><tspan
+       id="tspan4089-7-2-9-1-8-0-0"
+       y="-1012.1675"
+       x="1779.5222" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-5-6-4"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1052.9092"
+     x="1803.483"><tspan
+       id="tspan4089-7-2-9-6-9-8-1"
+       y="-1052.9092"
+       x="1803.483" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-75-4-0"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1060.119"
+     x="312.01996"><tspan
+       id="tspan4089-7-2-9-3-9-4"
+       y="-1060.119"
+       x="312.01996" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-8-1-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1333.3531"
+     x="1772.5627"><tspan
+       id="tspan4089-7-2-9-9-8-8-7"
+       y="-1333.3531"
+       x="1772.5627" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-45-0-0"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1108.2103"
+     x="-625.79633"><tspan
+       id="tspan4089-7-2-9-75-2-8"
+       y="-1108.2103"
+       x="-625.79633" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-5-6"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-362.65677"
+     x="-2449.4822"><tspan
+       id="tspan4089-7-2-9-4-00-2"
+       y="-362.65677"
+       x="-2449.4822" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-264-4"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-269.78461"
+     x="-734.72656"><tspan
+       id="tspan4089-7-2-9-8-7"
+       y="-269.78461"
+       x="-734.72656" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-42-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-28.870464"
+     x="105.28795"><tspan
+       id="tspan4089-7-2-9-93-3"
+       y="-28.870464"
+       x="105.28795" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-05-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-69.612183"
+     x="129.24889"><tspan
+       id="tspan4089-7-2-9-6-49-2"
+       y="-69.612183"
+       x="129.24889" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-1-4-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-263.64078"
+     x="-1140.5677"><tspan
+       id="tspan4089-7-2-9-7-7-3"
+       y="-263.64078"
+       x="-1140.5677" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-56-0"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-677.11096"
+     x="-332.96576"><tspan
+       id="tspan4089-7-2-9-1-1-1"
+       y="-677.11096"
+       x="-332.96576" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-8-7"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-717.85266"
+     x="-309.00482"><tspan
+       id="tspan4089-7-2-9-6-7-8"
+       y="-717.85266"
+       x="-309.00482" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-3-42-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-725.06262"
+     x="-1800.4679"><tspan
+       id="tspan4089-7-2-9-18-39-1"
+       y="-725.06262"
+       x="-1800.4679" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-4-5"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-998.29663"
+     x="-339.9252"><tspan
+       id="tspan4089-7-2-9-9-3-4"
+       y="-998.29663"
+       x="-339.9252" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-1-0-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-371.60532"
+     x="1146.1982"><tspan
+       id="tspan4089-7-2-9-1-8-5-2"
+       y="-371.60532"
+       x="1146.1982" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-5-5-5"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-412.34705"
+     x="1170.1591"><tspan
+       id="tspan4089-7-2-9-6-9-2-7"
+       y="-412.34705"
+       x="1170.1591" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-75-9-4"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-419.55698"
+     x="-321.30408"><tspan
+       id="tspan4089-7-2-9-3-1-9"
+       y="-419.55698"
+       x="-321.30408" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-8-18-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-692.79108"
+     x="1139.2388"><tspan
+       id="tspan4089-7-2-9-9-8-4-4"
+       y="-692.79108"
+       x="1139.2388" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-45-3-5"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-467.64825"
+     x="-1259.1204"><tspan
+       id="tspan4089-7-2-9-75-7-9"
+       y="-467.64825"
+       x="-1259.1204" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-8-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="277.90527"
+     x="-3082.8062"><tspan
+       id="tspan4089-7-2-9-4-2-5"
+       y="277.90527"
+       x="-3082.8062" /></text>
+  <g
+     id="layer4-0-7"
+     transform="matrix(0.90475,0,0,0.90475,-767.05435,-678.20217)">
+    <text
+       style="font-size:14px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+       id="text4087-2-6-5-20-0"
+       font-size="14px"
+       xml:space="preserve"
+       y="1159.4154"
+       x="-664.2738"><tspan
+         id="tspan4089-7-2-9-82-8"
+         y="1159.4154"
+         x="-664.2738" /></text>
+  </g>
+  <text
+     style="font-size:12.66600037px;font-family:'Droid Sans';fill:#000000"
+     id="text7276"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-370.37762"
+     x="385.59991"><tspan
+       id="tspan7278"
+       y="-370.37762"
+       x="385.59991" /><tspan
+       id="tspan7280"
+       y="-354.54456"
+       x="385.59991" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-51"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-852.42218"
+     x="850.78387"><tspan
+       id="tspan4089-7-2-9-97"
+       y="-852.42218"
+       x="850.78387" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-2"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-106.86873"
+     x="-972.9021"><tspan
+       id="tspan4089-7-2-9-4-4"
+       y="-106.86873"
+       x="-972.9021" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-7"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1137.4181"
+     x="1577.8634"><tspan
+       id="tspan4089-7-2-9-1-6"
+       y="-1137.4181"
+       x="1577.8634" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-6"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1178.1598"
+     x="1601.8242"><tspan
+       id="tspan4089-7-2-9-6-53"
+       y="-1178.1598"
+       x="1601.8242" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-54"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1185.3698"
+     x="110.36107"><tspan
+       id="tspan4089-7-2-9-0"
+       y="-1185.3698"
+       x="110.36107" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-1"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1458.6039"
+     x="1570.9039"><tspan
+       id="tspan4089-7-2-9-9-28"
+       y="-1458.6039"
+       x="1570.9039" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-83"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="6.625946"
+     x="774.0426"><tspan
+       id="tspan4089-7-2-9-16"
+       y="6.625946"
+       x="774.0426" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-84"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-34.115761"
+     x="798.00354"><tspan
+       id="tspan4089-7-2-9-6-26"
+       y="-34.115761"
+       x="798.00354" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-2-2"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-64.193901"
+     x="-672.55481"><tspan
+       id="tspan4089-7-2-9-2-6"
+       y="-64.193901"
+       x="-672.55481" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-6"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="681.35956"
+     x="-2496.241"><tspan
+       id="tspan4089-7-2-9-4-8"
+       y="681.35956"
+       x="-2496.241" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-1-2"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-449.51486"
+     x="-558.06372"><tspan
+       id="tspan4089-7-2-9-7-9"
+       y="-449.51486"
+       x="-558.06372" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-28"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-862.98499"
+     x="249.53842"><tspan
+       id="tspan4089-7-2-9-1-16"
+       y="-862.98499"
+       x="249.53842" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-3-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-903.72668"
+     x="273.49936"><tspan
+       id="tspan4089-7-2-9-6-5-8"
+       y="-903.72668"
+       x="273.49936" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-3-24"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-910.93658"
+     x="-1217.9637"><tspan
+       id="tspan4089-7-2-9-18-0"
+       y="-910.93658"
+       x="-1217.9637" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-6"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1184.1708"
+     x="242.57895"><tspan
+       id="tspan4089-7-2-9-9-9"
+       y="-1184.1708"
+       x="242.57895" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-1-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-557.47937"
+     x="1728.7025"><tspan
+       id="tspan4089-7-2-9-1-8-1"
+       y="-557.47937"
+       x="1728.7025" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-5-7"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-598.22113"
+     x="1752.6633"><tspan
+       id="tspan4089-7-2-9-6-9-5"
+       y="-598.22113"
+       x="1752.6633" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-75-7"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-605.43103"
+     x="261.2001"><tspan
+       id="tspan4089-7-2-9-3-0"
+       y="-605.43103"
+       x="261.2001" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-8-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-878.66504"
+     x="1721.743"><tspan
+       id="tspan4089-7-2-9-9-8-33"
+       y="-878.66504"
+       x="1721.743" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-45-1"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-653.52234"
+     x="-676.61621"><tspan
+       id="tspan4089-7-2-9-75-3"
+       y="-653.52234"
+       x="-676.61621" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-7-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="92.031204"
+     x="-2500.302"><tspan
+       id="tspan4089-7-2-9-4-0-3"
+       y="92.031204"
+       x="-2500.302" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-8-0"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="184.90334"
+     x="-785.54645"><tspan
+       id="tspan4089-7-2-9-19-2"
+       y="184.90334"
+       x="-785.54645" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-5-1"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="5.7211971"
+     x="323.47787"><tspan
+       id="tspan4089-7-2-9-1-2-8"
+       y="5.7211971"
+       x="323.47787" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-0-06"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-35.020508"
+     x="347.43881"><tspan
+       id="tspan4089-7-2-9-6-2-7"
+       y="-35.020508"
+       x="347.43881" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-26-5"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-42.23048"
+     x="-1144.0243"><tspan
+       id="tspan4089-7-2-9-90-4"
+       y="-42.23048"
+       x="-1144.0243" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-3-0"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-315.46454"
+     x="316.5184"><tspan
+       id="tspan4089-7-2-9-9-5-1"
+       y="-315.46454"
+       x="316.5184" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-55-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-44.944725"
+     x="-711.21619"><tspan
+       id="tspan4089-7-2-9-32-1"
+       y="-44.944725"
+       x="-711.21619" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-9-36"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="700.60876"
+     x="-2534.9023"><tspan
+       id="tspan4089-7-2-9-4-1-1"
+       y="700.60876"
+       x="-2534.9023" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-1-8-1"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-906.47522"
+     x="-560.12311"><tspan
+       id="tspan4089-7-2-9-7-8-7"
+       y="-906.47522"
+       x="-560.12311" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-8-0"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1319.9454"
+     x="247.479"><tspan
+       id="tspan4089-7-2-9-1-9-55"
+       y="-1319.9454"
+       x="247.479" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-52-7"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1360.6871"
+     x="271.43991"><tspan
+       id="tspan4089-7-2-9-6-4-4"
+       y="-1360.6871"
+       x="271.43991" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-3-4-7"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1367.8971"
+     x="-1220.0232"><tspan
+       id="tspan4089-7-2-9-18-3-1"
+       y="-1367.8971"
+       x="-1220.0232" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-7-71"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1641.1312"
+     x="240.5195"><tspan
+       id="tspan4089-7-2-9-9-54-4"
+       y="-1641.1312"
+       x="240.5195" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-1-2-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1014.4399"
+     x="1726.6429"><tspan
+       id="tspan4089-7-2-9-1-8-0-1"
+       y="-1014.4399"
+       x="1726.6429" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-5-6-0"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1055.1815"
+     x="1750.6038"><tspan
+       id="tspan4089-7-2-9-6-9-8-3"
+       y="-1055.1815"
+       x="1750.6038" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-75-4-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1062.3915"
+     x="259.14066"><tspan
+       id="tspan4089-7-2-9-3-9-1"
+       y="-1062.3915"
+       x="259.14066" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-8-1-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1335.6256"
+     x="1719.6835"><tspan
+       id="tspan4089-7-2-9-9-8-8-4"
+       y="-1335.6256"
+       x="1719.6835" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-45-0-7"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1110.4828"
+     x="-678.67566"><tspan
+       id="tspan4089-7-2-9-75-2-2"
+       y="-1110.4828"
+       x="-678.67566" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-5-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-364.92926"
+     x="-2502.3616"><tspan
+       id="tspan4089-7-2-9-4-00-3"
+       y="-364.92926"
+       x="-2502.3616" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-264-2"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-272.0571"
+     x="-787.6059"><tspan
+       id="tspan4089-7-2-9-8-2"
+       y="-272.0571"
+       x="-787.6059" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-42-5"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-31.142933"
+     x="52.408642"><tspan
+       id="tspan4089-7-2-9-93-5"
+       y="-31.142933"
+       x="52.408642" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-05-5"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-71.884651"
+     x="76.369576"><tspan
+       id="tspan4089-7-2-9-6-49-1"
+       y="-71.884651"
+       x="76.369576" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-1-4-6"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-265.91327"
+     x="-1193.447"><tspan
+       id="tspan4089-7-2-9-7-7-9"
+       y="-265.91327"
+       x="-1193.447" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-56-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-679.38342"
+     x="-385.84506"><tspan
+       id="tspan4089-7-2-9-1-1-8"
+       y="-679.38342"
+       x="-385.84506" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-8-4"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-720.12512"
+     x="-361.88412"><tspan
+       id="tspan4089-7-2-9-6-7-5"
+       y="-720.12512"
+       x="-361.88412" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-3-42-6"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-727.33502"
+     x="-1853.3472"><tspan
+       id="tspan4089-7-2-9-18-39-8"
+       y="-727.33502"
+       x="-1853.3472" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-4-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1000.5692"
+     x="-392.8045"><tspan
+       id="tspan4089-7-2-9-9-3-9"
+       y="-1000.5692"
+       x="-392.8045" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-1-0-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-373.87778"
+     x="1093.319"><tspan
+       id="tspan4089-7-2-9-1-8-5-6"
+       y="-373.87778"
+       x="1093.319" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-5-5-51"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-414.61951"
+     x="1117.2798"><tspan
+       id="tspan4089-7-2-9-6-9-2-75"
+       y="-414.61951"
+       x="1117.2798" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-75-9-6"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-421.82947"
+     x="-374.18338"><tspan
+       id="tspan4089-7-2-9-3-1-0"
+       y="-421.82947"
+       x="-374.18338" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-8-18-99"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-695.06354"
+     x="1086.3595"><tspan
+       id="tspan4089-7-2-9-9-8-4-6"
+       y="-695.06354"
+       x="1086.3595" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-45-3-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-469.92075"
+     x="-1311.9996"><tspan
+       id="tspan4089-7-2-9-75-7-3"
+       y="-469.92075"
+       x="-1311.9996" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-8-7"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="275.63281"
+     x="-3135.6855"><tspan
+       id="tspan4089-7-2-9-4-2-2"
+       y="275.63281"
+       x="-3135.6855" /></text>
+  <g
+     id="layer4-0-5"
+     transform="matrix(0.90475,0,0,0.90475,-819.92435,-680.47217)">
+    <text
+       style="font-size:14px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+       id="text4087-2-6-5-20-9"
+       font-size="14px"
+       xml:space="preserve"
+       y="1159.4154"
+       x="-664.2738"><tspan
+         id="tspan4089-7-2-9-82-9"
+         y="1159.4154"
+         x="-664.2738" /></text>
+  </g>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-9-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="13.863934"
+     x="774.0426"><tspan
+       id="tspan4089-7-2-9-43-7"
+       y="13.863934"
+       x="774.0426" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-51-0"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-26.877771"
+     x="798.00354"><tspan
+       id="tspan4089-7-2-9-6-74-9"
+       y="-26.877771"
+       x="798.00354" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-2-3-6"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-56.955914"
+     x="-672.55481"><tspan
+       id="tspan4089-7-2-9-2-1-0"
+       y="-56.955914"
+       x="-672.55481" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-4-0"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="688.59753"
+     x="-2496.241"><tspan
+       id="tspan4089-7-2-9-4-6-2"
+       y="688.59753"
+       x="-2496.241" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-1-9-6"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-442.27686"
+     x="-558.06372"><tspan
+       id="tspan4089-7-2-9-7-4-6"
+       y="-442.27686"
+       x="-558.06372" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-2-0"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-855.74695"
+     x="249.53842"><tspan
+       id="tspan4089-7-2-9-1-26-1"
+       y="-855.74695"
+       x="249.53842" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-3-4-7"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-896.48871"
+     x="273.49936"><tspan
+       id="tspan4089-7-2-9-6-5-1-0"
+       y="-896.48871"
+       x="273.49936" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-3-2-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-903.69861"
+     x="-1217.9637"><tspan
+       id="tspan4089-7-2-9-18-8-2"
+       y="-903.69861"
+       x="-1217.9637" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-89-1"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1176.9327"
+     x="242.57895"><tspan
+       id="tspan4089-7-2-9-9-2-6"
+       y="-1176.9327"
+       x="242.57895" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-1-8-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-550.24139"
+     x="1728.7025"><tspan
+       id="tspan4089-7-2-9-1-8-8-7"
+       y="-550.24139"
+       x="1728.7025" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-5-8-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-590.98315"
+     x="1752.6633"><tspan
+       id="tspan4089-7-2-9-6-9-6-7"
+       y="-590.98315"
+       x="1752.6633" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-75-8-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-598.19305"
+     x="261.2001"><tspan
+       id="tspan4089-7-2-9-3-3-7"
+       y="-598.19305"
+       x="261.2001" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-8-8-5"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-871.427"
+     x="1721.743"><tspan
+       id="tspan4089-7-2-9-9-8-3-1"
+       y="-871.427"
+       x="1721.743" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-45-33-4"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-646.28436"
+     x="-676.61621"><tspan
+       id="tspan4089-7-2-9-75-8-9"
+       y="-646.28436"
+       x="-676.61621" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-7-0-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="99.269196"
+     x="-2500.302"><tspan
+       id="tspan4089-7-2-9-4-0-4-6"
+       y="99.269196"
+       x="-2500.302" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-8-7-0"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="192.14133"
+     x="-785.54645"><tspan
+       id="tspan4089-7-2-9-19-6-2"
+       y="192.14133"
+       x="-785.54645" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-5-8-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="12.959185"
+     x="323.47787"><tspan
+       id="tspan4089-7-2-9-1-2-9-0"
+       y="12.959185"
+       x="323.47787" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-0-0-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-27.78252"
+     x="347.43881"><tspan
+       id="tspan4089-7-2-9-6-2-6-1"
+       y="-27.78252"
+       x="347.43881" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-26-8-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-34.992489"
+     x="-1144.0243"><tspan
+       id="tspan4089-7-2-9-90-7-3"
+       y="-34.992489"
+       x="-1144.0243" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-3-9-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-308.22653"
+     x="316.5184"><tspan
+       id="tspan4089-7-2-9-9-5-0-1"
+       y="-308.22653"
+       x="316.5184" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-55-3-1"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-37.706734"
+     x="-711.21619"><tspan
+       id="tspan4089-7-2-9-32-3-5"
+       y="-37.706734"
+       x="-711.21619" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-9-3-2"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="707.8468"
+     x="-2534.9023"><tspan
+       id="tspan4089-7-2-9-4-1-7-8"
+       y="707.8468"
+       x="-2534.9023" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-1-8-3-6"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-899.23724"
+     x="-560.12311"><tspan
+       id="tspan4089-7-2-9-7-8-2-1"
+       y="-899.23724"
+       x="-560.12311" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-8-6-1"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1312.7074"
+     x="247.479"><tspan
+       id="tspan4089-7-2-9-1-9-5-9"
+       y="-1312.7074"
+       x="247.479" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-52-2-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1353.4492"
+     x="271.43991"><tspan
+       id="tspan4089-7-2-9-6-4-6-9"
+       y="-1353.4492"
+       x="271.43991" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-3-4-5-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1360.6591"
+     x="-1220.0232"><tspan
+       id="tspan4089-7-2-9-18-3-8-9"
+       y="-1360.6591"
+       x="-1220.0232" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-7-7-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1633.8932"
+     x="240.5195"><tspan
+       id="tspan4089-7-2-9-9-54-9-7"
+       y="-1633.8932"
+       x="240.5195" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-1-2-6-6"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1007.202"
+     x="1726.6429"><tspan
+       id="tspan4089-7-2-9-1-8-0-0-5"
+       y="-1007.202"
+       x="1726.6429" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-5-6-4-1"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1047.9436"
+     x="1750.6038"><tspan
+       id="tspan4089-7-2-9-6-9-8-1-3"
+       y="-1047.9436"
+       x="1750.6038" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-75-4-0-7"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1055.1534"
+     x="259.14066"><tspan
+       id="tspan4089-7-2-9-3-9-4-2"
+       y="-1055.1534"
+       x="259.14066" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-8-1-8-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1328.3876"
+     x="1719.6835"><tspan
+       id="tspan4089-7-2-9-9-8-8-7-7"
+       y="-1328.3876"
+       x="1719.6835" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-45-0-0-6"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1103.2448"
+     x="-678.67566"><tspan
+       id="tspan4089-7-2-9-75-2-8-2"
+       y="-1103.2448"
+       x="-678.67566" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-5-6-0"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-357.69125"
+     x="-2502.3616"><tspan
+       id="tspan4089-7-2-9-4-00-2-1"
+       y="-357.69125"
+       x="-2502.3616" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-264-4-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-264.81909"
+     x="-787.6059"><tspan
+       id="tspan4089-7-2-9-8-7-3"
+       y="-264.81909"
+       x="-787.6059" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-42-9-5"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-23.904945"
+     x="52.408642"><tspan
+       id="tspan4089-7-2-9-93-3-8"
+       y="-23.904945"
+       x="52.408642" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-05-9-4"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-64.646667"
+     x="76.369576"><tspan
+       id="tspan4089-7-2-9-6-49-2-6"
+       y="-64.646667"
+       x="76.369576" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-1-4-8-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-258.67526"
+     x="-1193.447"><tspan
+       id="tspan4089-7-2-9-7-7-3-8"
+       y="-258.67526"
+       x="-1193.447" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-56-0-5"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-672.14545"
+     x="-385.84506"><tspan
+       id="tspan4089-7-2-9-1-1-1-9"
+       y="-672.14545"
+       x="-385.84506" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-8-7-1"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-712.88715"
+     x="-361.88412"><tspan
+       id="tspan4089-7-2-9-6-7-8-8"
+       y="-712.88715"
+       x="-361.88412" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-3-42-9-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-720.09711"
+     x="-1853.3472"><tspan
+       id="tspan4089-7-2-9-18-39-1-0"
+       y="-720.09711"
+       x="-1853.3472" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-4-5-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-993.33112"
+     x="-392.8045"><tspan
+       id="tspan4089-7-2-9-9-3-4-0"
+       y="-993.33112"
+       x="-392.8045" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-1-0-9-1"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-366.6398"
+     x="1093.319"><tspan
+       id="tspan4089-7-2-9-1-8-5-2-7"
+       y="-366.6398"
+       x="1093.319" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-5-5-5-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-407.38153"
+     x="1117.2798"><tspan
+       id="tspan4089-7-2-9-6-9-2-7-0"
+       y="-407.38153"
+       x="1117.2798" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-75-9-4-4"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-414.59146"
+     x="-374.18338"><tspan
+       id="tspan4089-7-2-9-3-1-9-0"
+       y="-414.59146"
+       x="-374.18338" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-8-18-9-3"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-687.82556"
+     x="1086.3595"><tspan
+       id="tspan4089-7-2-9-9-8-4-4-1"
+       y="-687.82556"
+       x="1086.3595" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-45-3-5-4"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-462.68274"
+     x="-1311.9996"><tspan
+       id="tspan4089-7-2-9-75-7-9-4"
+       y="-462.68274"
+       x="-1311.9996" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-8-3-1"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="282.87079"
+     x="-3135.6855"><tspan
+       id="tspan4089-7-2-9-4-2-5-2"
+       y="282.87079"
+       x="-3135.6855" /></text>
+  <g
+     id="layer4-0-7-6"
+     transform="matrix(0.90475,0,0,0.90475,-819.92435,-673.23217)">
+    <text
+       style="font-size:14px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+       id="text4087-2-6-5-20-0-1"
+       font-size="14px"
+       xml:space="preserve"
+       y="1159.4154"
+       x="-664.2738"><tspan
+         id="tspan4089-7-2-9-82-8-4"
+         y="1159.4154"
+         x="-664.2738" /></text>
+  </g>
+  <text
+     style="font-size:12.66600037px;font-family:'Droid Sans';fill:#000000"
+     id="text7276-1"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-365.41211"
+     x="332.72061"><tspan
+       id="tspan7278-4"
+       y="-365.41211"
+       x="332.72061" /><tspan
+       id="tspan7280-1"
+       y="-349.57904"
+       x="332.72061" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-51-9"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-847.45667"
+     x="797.90454"><tspan
+       id="tspan4089-7-2-9-97-0"
+       y="-847.45667"
+       x="797.90454" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-59-2-7"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-101.90321"
+     x="-1025.7815"><tspan
+       id="tspan4089-7-2-9-4-4-4"
+       y="-101.90321"
+       x="-1025.7815" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-7-7-8"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1132.4525"
+     x="1524.9841"><tspan
+       id="tspan4089-7-2-9-1-6-4"
+       y="-1132.4525"
+       x="1524.9841" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-5-6-4"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1173.1942"
+     x="1548.9449"><tspan
+       id="tspan4089-7-2-9-6-53-9"
+       y="-1173.1942"
+       x="1548.9449" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-54-4"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1180.4042"
+     x="57.481762"><tspan
+       id="tspan4089-7-2-9-0-5"
+       y="-1180.4042"
+       x="57.481762" /></text>
+  <text
+     style="font-size:12.66600037px;font-family:'Bitstream Vera Sans';opacity:0.8;fill:#000000"
+     id="text4087-2-6-5-4-1-1"
+     font-size="12.666px"
+     xml:space="preserve"
+     y="-1453.6383"
+     x="1518.0247"><tspan
+       id="tspan4089-7-2-9-9-28-3"
+       y="-1453.6383"
+       x="1518.0247" /></text>
+  <circle
+     id="path4058"
+     style="fill:#ffc921;enable-background:new;fill-opacity:1"
+     cy="35"
+     cx="35"
+     r="12" />
+  <path
+     inkscape:connector-curvature="0"
+     id="circle4689"
+     style="opacity:0.3;enable-background:new"
+     d="M 46.98,34.406 A 12,12 0 0 1 35,46 12,12 0 0 1 23.02,34.594 12,12 0 0 0 23,35 12,12 0 0 0 35,47 12,12 0 0 0 47,35 12,12 0 0 0 46.98,34.406 Z" />
+  <path
+     style="fill:#ffffff"
+     inkscape:connector-curvature="0"
+     id="path5972"
+     d="M 35.474,42 31,36 l 3,0 0,-6 3,0.02892 0,5.9711 3,0 z" />
+</svg>

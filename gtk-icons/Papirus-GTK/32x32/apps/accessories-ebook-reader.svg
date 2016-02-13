@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32.000001"
+   id="svg4842"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="accessories-ebook-reader.svg">
+  <defs
+     id="defs4844" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.07"
+     inkscape:cx="11.949552"
+     inkscape:cy="11.616463"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="846"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4847">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1020.3622)">
+    <path
+       style="fill:#009587;fill-opacity:1;stroke:none"
+       d="m 6.5,1022.3622 c -0.831,0 -1.5,0.669 -1.5,1.5 l 0,25 c 0,0.831 0.669,1.5 1.5,1.5 l 9.5,0 9.5,0 c 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-25 c 0,-0.831 -0.669,-1.5 -1.5,-1.5 l -9.5,0 -9.5,0 z"
+       id="rect4255"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 6.5,1022.3622 c -0.831,0 -1.5,0.669 -1.5,1.5 l 0,25 c 0,0.831 0.669,1.5 1.5,1.5 l 2.5,0 0,-28 z"
+       id="path4234"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssccs" />
+    <path
+       id="path4263"
+       d="m 19,1023.3622 0,14 2,-2 2,2 0,-14 -4,0 z"
+       style="display:inline;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:#d8d8d8;fill-opacity:1;stroke:none;enable-background:new"
+       d="m 19,1022.3622 0,14 2,-2 2,2 0,-14 -4,0 z"
+       id="path4471"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 6.5,1022.3622 c -0.831,0 -1.5,0.669 -1.5,1.5 l 0,1 c 0,-0.831 0.669,-1.5 1.5,-1.5 l 19,0 c 0.831,0 1.5,0.669 1.5,1.5 l 0,-1 c 0,-0.831 -0.669,-1.5 -1.5,-1.5 l -19,0 z"
+       id="rect4448"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.3"
+       d="M 5 27.5 L 5 28.5 C 5 29.331 5.669 30 6.5 30 L 16 30 L 25.5 30 C 26.331 30 27 29.331 27 28.5 L 27 27.5 C 27 28.331 26.331 29 25.5 29 L 16 29 L 6.5 29 C 5.669 29 5 28.331 5 27.5 z "
+       transform="translate(0,1020.3622)"
+       id="path5426" />
+  </g>
+</svg>

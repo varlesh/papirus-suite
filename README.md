@@ -21,7 +21,9 @@ or alternative Git-version:
 yaourt -S papirus-git
 ```
 **For Uubuntu**
+
 Compability with Linux Mint, Debian, elementary OS and other DEB-based distros.
+
 [Build packages for Ubuntu 14.04 Trusty](https://launchpad.net/~varlesh-l/+archive/ubuntu/papirus-pack/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty)
 
 [Build packages for Ubuntu 16.04 Xenial](https://launchpad.net/~varlesh-l/+archive/ubuntu/papirus-pack/+packages?field.name_filter=&field.status_filter=published&field.series_filter=xenial)

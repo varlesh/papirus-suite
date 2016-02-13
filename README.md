@@ -17,9 +17,12 @@ yaourt -S papirus-git
 # For GTK DE
 yaourt -S papirus-gtk-icon-theme-git
 # For all DE
-yaourt -S libreoffice-papirus-theme-git papirus-vlc-theme-git papirus-smplayer-theme-git bomi-skin-papirus-git
+yaourt -S libreoffice-papirus-theme-git
+yaourt -S papirus-vlc-theme-git
+yaourt -S papirus-smplayer-theme-git
+yaourt -S bomi-skin-papirus-git
 ```
-**For Uubuntu**
+**For Ubuntu**
 
 Compability with Linux Mint, Debian, elementary OS and other DEB-based distros.
 

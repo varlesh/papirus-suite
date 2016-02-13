@@ -3,7 +3,7 @@ Papirus customization for Linux distros.
 
 # Preview
 
-Plasma 5
+Plasma 5 (With QtCurve Transparent Style)
 ![Screenshot - KDE](papirus-kde.png)
 
 Unity 7 (With GTK Theme [Arc Dark](https://github.com/horst3180/arc-theme))

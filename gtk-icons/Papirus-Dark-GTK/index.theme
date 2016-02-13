@@ -12,7 +12,7 @@ PanelDefault=16
 PanelSizes=16,22,32,48,64,128,256
 
 # Directory list
-Directories=16x16/actions,16x16/devices,16x16/places,16x16/emblems,22x22/panel,22x22/actions,24x24/actions,24x24/panel,32x32/apps,32x32/devices,48x48/apps,48x48/devices,48x48/mimetypes,48x48/places,48x48/status,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
+Directories=16x16/actions,16x16/devices,16x16/places,16x16/emblems,22x22/panel,22x22/actions,24x24/actions,24x24/panel,32x32/apps,32x32/devices,48x48/apps,48x48/devices,48x48/mimetypes,48x48/places,48x48/status,64x64/places,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
 
 [16x16/actions]
 Context=Actions
@@ -99,6 +99,13 @@ Type=Scalable
 [48x48/status]
 Context=Status
 Size=48
+MinSize=32
+MaxSize=512
+Type=Scalable
+
+[64x64/places]
+Context=Places
+Size=64
 MinSize=32
 MaxSize=512
 Type=Scalable

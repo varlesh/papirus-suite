@@ -11,7 +11,7 @@ Unity 7 (With GTK Theme [Arc Dark](https://github.com/horst3180/arc-theme))
 
 # INSTALL
 
-** Stable version for Archlinux, Manjaro, Chakra, KaOS, Netrunner Rolling, Antergos (AUR):**
+**Stable version for Archlinux, Manjaro, Chakra, KaOS, Netrunner Rolling, Antergos (AUR):**
 ```
 # For KDE DE
 yaourt -S papirus-icon-theme-kde papirus-gtk-theme papirus-look-and-feel plasma-theme-papirus papirus-color-scheme papirus-qtcurve-theme papirus-aurorae-theme yakuake-skin-papirus papirus-konsole-colorscheme papirus-kmail-theme papirus-k3b-theme
@@ -21,7 +21,7 @@ yaourt -S papirus-icon-theme-gtk
 yaourt -S bomi-skin-papirus vlc-skin-papirus smplayer-theme-papirus libreoffice-style-papirus
 ```
 
-** Git version for Archlinux, Manjaro, Chakra, KaOS, Netrunner Rolling, Antergos (AUR):**
+**Git version for Archlinux, Manjaro, Chakra, KaOS, Netrunner Rolling, Antergos (AUR):**
 ```
 # For KDE DE
 yaourt -S papirus-git

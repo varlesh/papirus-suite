@@ -9,6 +9,9 @@ Plasma 5 (With QtCurve Transparent Style)
 Unity 7 (With GTK Theme [Arc Dark](https://github.com/horst3180/arc-theme))
 ![Screenshot - UNITY](papirus-arc-unity.png)
 
+elementary OS Freya
+![Screenshot - Pantheon](papirus-elementary.png)
+
 # INSTALL
 
 **Stable version for Archlinux, Manjaro, Netrunner Rolling, Antergos (AUR):**

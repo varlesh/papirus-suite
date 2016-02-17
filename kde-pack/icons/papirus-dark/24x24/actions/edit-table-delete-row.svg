@@ -1,29 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
-   id="svg3049"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="edit-table-delete-row.svg"
-   inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
-   inkscape:export-xdpi="30"
-   inkscape:export-ydpi="30">
-  <defs
-     id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
+<svg id="svg3049" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs3051">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-Background {
@@ -55,12 +34,8 @@
       }
       .ColorScheme-ButtonFocus{
         color:#3daee9;
-      }
-      </style>
-    <style
-       id="current-color-scheme-3"
-       type="text/css">
-      .ColorScheme-Text {
+      }</style>
+  <style id="current-color-scheme-3" type="text/css">.ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-Background {
@@ -92,81 +67,18 @@
       }
       .ColorScheme-ButtonFocus{
         color:#3daee9;
-      }
-      </style>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="19.88"
-     inkscape:cx="-7.0917521"
-     inkscape:cy="5.9655959"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1600"
-     inkscape:window-height="847"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1"
-     inkscape:showpageshadow="false"
-     borderlayer="true"
-     inkscape:snap-bbox="true"
-     inkscape:snap-global="true"
-     showguides="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4085" />
-    <sodipodi:guide
-       position="2,15"
-       orientation="12,0"
-       id="guide4075" />
-    <sodipodi:guide
-       position="17,2"
-       orientation="0,12"
-       id="guide4077" />
-    <sodipodi:guide
-       position="14,13"
-       orientation="-12,0"
-       id="guide4079" />
-    <sodipodi:guide
-       position="0,14"
-       orientation="0,-12"
-       id="guide4081" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata3054">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-421.71429,-523.79074)">
-    <g
-       transform="translate(-38.260002,-6.3485488)"
-       id="layer1-0"
-       inkscape:label="Capa 1" />
-    <path
-       style="color:#4d4d4d;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-       d="m 440.71429,528.79074 -14,0 0,2 0,6 0,1 0,3 0,2 14,0 0,-14 z m -2,2 0,2 -2,0 0,-2 2,0 z m 0,3 0,1 0,0.28125 -1.28125,-1.28125 1.28125,0 z m 0,2.71875 0,0.28125 0,1 -1.28125,0 -4,-4 2.5625,0 2.71875,2.71875 z m 0,2.28125 0,2 -2,0 0,-2 0.28125,0 1.71875,0 z m -2.71875,-1 -2.5625,0 -4,-4 2.5625,0 4,4 z m -1.28125,-7 0,2 -2,0 0,-2 2,0 z m 0,8 0,0.65625 0,1.34375 -2,0 0,-1 0,-1 0.28125,0 1.71875,0 z m -2.71875,-1 -3.28125,0 0,-1 0,-2 0,-0.28125 3.28125,3.28125 z m -1.28125,-7 0,2 -2,0 0,-2 2,0 z m 0,8 0,2 -2,0 0,-2 2,0 z"
-       id="rect6699-7-6-4-5"
-       inkscape:connector-curvature="0" />
-  </g>
+      }</style>
+ </defs>
+ <metadata id="metadata3054">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-421.71 -523.79)">
+  <path id="rect6699-7-6-4-5" opacity=".72" style="color:#4d4d4d" d="m440.71 528.79h-14v2 6 1 3 2h14v-14zm-2 2v2h-2v-2h2zm0 3v1 0.28125l-1.2812-1.2812h1.2812zm0 2.7188v0.28125 1h-1.2812l-4-4h2.5625l2.7188 2.7188zm0 2.2812v2h-2v-2h0.28125 1.7188zm-2.7188-1h-2.5625l-4-4h2.5625l4 4zm-1.2812-7v2h-2v-2h2zm0 8v0.65625 1.3438h-2v-1-1h0.28125 1.7188zm-2.7188-1h-3.2812v-1-2-0.28125l3.2812 3.2812zm-1.2812-7v2h-2v-2h2zm0 8v2h-2v-2h2z" fill="#fff"/>
+ </g>
 </svg>

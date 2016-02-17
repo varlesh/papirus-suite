@@ -1,115 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2817"
-   height="32"
-   width="32"
-   version="1.0"
-   inkscape:version="0.91 r"
-   sodipodi:docname="scribus.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
-     id="namedview16"
-     showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="26.041028"
-     inkscape:cy="16.85008"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2817">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4158" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata57">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs2819">
-    <clipPath
-       id="clipPath4186"
-       clipPathUnits="userSpaceOnUse">
-      <circle
-         id="path4188"
-         style="color:#000000;fill:url(#linearGradient4190)"
-         cx="286"
-         cy="26"
-         r="10" />
-    </clipPath>
-  </defs>
-  <circle
-     r="14"
-     cy="16"
-     cx="16"
-     style="color:#000000;fill:#37a0f2"
-     id="path4230" />
-  <circle
-     cx="286"
-     cy="26"
-     transform="matrix(1.4,0,0,1.4,-384.4,-20.4)"
-     r="10"
-     clip-path="url(#clipPath4186)"
-     style="color:#000000;opacity:0;stroke-width:0.45455"
-     id="path4240" />
-  <circle
-     cx="286"
-     cy="26"
-     transform="matrix(1.4,0,0,1.4,-384.4,-20.4)"
-     r="10"
-     clip-path="url(#clipPath4186)"
-     style="color:#000000;opacity:0;stroke-width:0.90908998"
-     id="path4242" />
-  <path
-     sodipodi:nodetypes="cccccccc"
-     id="path4244"
-     style="color:#000000;white-space:normal;display:inline;visibility:visible;opacity:0.2;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
-     white-space="normal"
-     isolation="auto"
-     mix-blend-mode="normal"
-     d="M 17,7.9999998 C 14.752478,11.873953 12.845165,15.78521 11.694032,19.660914 11.084208,21.735312 10.534198,23.883809 10,25.968015 c 0.870391,0.07496 0.328299,-0.0062 1,1.62e-4 C 12.840678,23.027015 16.187849,20.978034 19,20 19.03025,17.87446 18.815978,15.42945 19.661619,13.565223 20.008125,12.790389 20.551742,11.703376 21,11 21,8.9999998 18,6.9999998 17,7.9999998 Z"
-     inkscape:connector-curvature="0" />
-  <path
-     inkscape:connector-curvature="0"
-     d="m 17,7 c -2.247522,3.873953 -4.154835,7.78521 -5.305968,11.660914 -0.609824,2.074398 -1.159834,4.222895 -1.694032,6.307101 0.870391,0.07496 0.328299,-0.0062 1,1.62e-4 C 12.840678,22.027015 16.187849,19.978034 19,19 19.03025,16.87446 18.815978,14.42945 19.661619,12.565223 20.008125,11.790389 20.551742,10.703376 21,10 21,8 18,6 17,7 Z"
-     mix-blend-mode="normal"
-     isolation="auto"
-     white-space="normal"
-     style="color:#000000;white-space:normal;display:inline;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
-     id="path29"
-     sodipodi:nodetypes="cccccccc" />
-  <path
-     style="color:#000000;fill:#ffffff;fill-opacity:1;opacity:0.2"
-     d="M 16 2 A 14 14 0 0 0 2 16 A 14 14 0 0 0 2.0214844 16.585938 A 14 14 0 0 1 16 3 A 14 14 0 0 1 29.978516 16.414062 A 14 14 0 0 0 30 16 A 14 14 0 0 0 16 2 z "
-     id="circle4234" />
-  <path
-     style="color:#000000;fill:#000000;fill-opacity:1;opacity:0.3"
-     d="M 29.978516 15.414062 A 14 14 0 0 1 16 29 A 14 14 0 0 1 2.0214844 15.585938 A 14 14 0 0 0 2 16 A 14 14 0 0 0 16 30 A 14 14 0 0 0 30 16 A 14 14 0 0 0 29.978516 15.414062 z "
-     id="circle4239" />
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata57">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs2819">
+  <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
+   <circle id="path4188" style="color:#000000" cx="286" cy="26" r="10" fill="url(#linearGradient4190)"/>
+  </clipPath>
+ </defs>
+ <circle id="path4230" style="color:#000000" cy="16" cx="16" r="14" fill="#37a0f2"/>
+ <circle id="path4240" opacity="0" style="color:#000000" stroke-width=".45455" clip-path="url(#clipPath4186)" transform="matrix(1.4,0,0,1.4,-384.4,-20.4)" cy="26" cx="286" r="10"/>
+ <circle id="path4242" opacity="0" style="color:#000000" stroke-width=".90909" clip-path="url(#clipPath4186)" transform="matrix(1.4,0,0,1.4,-384.4,-20.4)" cy="26" cx="286" r="10"/>
+ <path id="path4244" opacity=".2" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;white-space:normal" d="m17 8c-2.248 3.874-4.155 7.785-5.306 11.661-0.61 2.074-1.16 4.223-1.694 6.307 0.87039 0.07496 0.3283-0.0062 1 0.000162 1.841-2.941 5.188-4.99 8-5.968 0.03-2.126-0.184-4.571 0.662-6.435 0.346-0.775 0.89-1.862 1.338-2.565 0-2-3-4-4-3z" isolation="auto" fill-rule="evenodd" white-space="normal" mix-blend-mode="normal"/>
+ <path id="path29" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;white-space:normal" d="m17 7c-2.2475 3.874-4.1548 7.7852-5.306 11.661-0.60982 2.0744-1.1598 4.2229-1.694 6.3071 0.87039 0.07496 0.3283-0.0062 1 0.000162 1.841-2.941 5.188-4.99 8-5.968 0.03-2.126-0.184-4.571 0.662-6.435 0.346-0.775 0.89-1.862 1.338-2.565 0-2-3-4-4-3z" isolation="auto" mix-blend-mode="normal" fill-rule="evenodd" white-space="normal" fill="#fff"/>
+ <path id="circle4234" opacity=".2" style="color:#000000" d="m16 2a14 14 0 0 0 -14 14 14 14 0 0 0 0.0215 0.586 14 14 0 0 1 13.978 -13.586 14 14 0 0 1 13.979 13.414 14 14 0 0 0 0.021 -0.414 14 14 0 0 0 -14 -14z" fill="#fff"/>
+ <path id="circle4239" opacity=".3" style="color:#000000" d="m29.979 15.414a14 14 0 0 1 -13.979 13.586 14 14 0 0 1 -13.978 -13.414 14 14 0 0 0 -0.022 0.414 14 14 0 0 0 14 14 14 14 0 0 0 14 -14 14 14 0 0 0 -0.021 -0.586z"/>
 </svg>

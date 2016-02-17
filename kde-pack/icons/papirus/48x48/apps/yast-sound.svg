@@ -129,6 +129,6 @@
  <circle id="circle5952" transform="rotate(90)" cy="-33" cx="11" r="2" fill="#fff"/>
  <circle id="circle5954" transform="rotate(90)" cy="-15" cx="10" r="2" fill="#3f3f3f"/>
  <circle id="circle5956" transform="rotate(90)" cy="-33" cx="10" r="2" fill="#3f3f3f"/>
- <path id="circle5958" opacity=".2" d="m24 15a13 13 0 0 0 -13 13 13 13 0 0 0 0.022 0.58 13 13 0 0 1 12.978 -12.58 13 13 0 0 1 12.979 12.42 13 13 0 0 0 0.021 -0.42 13 13 0 0 0 -13 -13z" fill="#fff"/>
+ <path id="circle5958" opacity=".2" fill="#fff" d="m24 15a13 13 0 0 0 -13 13 13 13 0 0 0 0.022 0.58 13 13 0 0 1 12.978 -12.58 13 13 0 0 1 12.979 12.42 13 13 0 0 0 0.021 -0.42 13 13 0 0 0 -13 -13z"/>
  <path id="rect4406" opacity=".3" d="m8 41v1c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z"/>
 </svg>

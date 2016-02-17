@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   id="svg4355"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="adjustcurves.svg">
-  <defs
-     id="defs4357">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
+<svg id="svg4355" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4357">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-Background {
@@ -52,712 +34,97 @@
       }
       .ColorScheme-ButtonFocus{
         color:#3daee9;
-      }
-      </style>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="12.162964"
-     inkscape:cy="13.367931"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     width="0px"
-     height="0px"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1600"
-     inkscape:window-height="847"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1"
-     inkscape:showpageshadow="false"
-     inkscape:snap-bbox="true"
-     inkscape:snap-global="true"
-     inkscape:object-nodes="true"
-     showguides="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4114" />
-    <sodipodi:guide
-       position="2,13"
-       orientation="18,0"
-       id="guide4120" />
-    <sodipodi:guide
-       position="2.0000011,1.9999962"
-       orientation="0,18"
-       id="guide4122" />
-    <sodipodi:guide
-       position="20.000001,1.9999962"
-       orientation="-18,0"
-       id="guide4124" />
-    <sodipodi:guide
-       position="20.000001,19.999996"
-       orientation="0,-18"
-       id="guide4126" />
-    <sodipodi:guide
-       position="3,6"
-       orientation="16,0"
-       id="guide4128" />
-    <sodipodi:guide
-       position="3.0000011,2.9999962"
-       orientation="0,16"
-       id="guide4130" />
-    <sodipodi:guide
-       position="19.000001,2.9999962"
-       orientation="-16,0"
-       id="guide4132" />
-    <sodipodi:guide
-       position="6,19"
-       orientation="0,-16"
-       id="guide4134" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata4360">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-544.57141,-742.93359)">
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035"
-       width="0"
-       height="10.999983"
-       x="520.21124"
-       y="747.07227"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-5"
-       width="0"
-       height="10.999983"
-       x="538.25201"
-       y="745.021"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-8"
-       width="0"
-       height="10.999983"
-       x="520.21124"
-       y="747.07227"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-59"
-       width="0"
-       height="10.999983"
-       x="520.21124"
-       y="747.07227"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-6"
-       width="0"
-       height="10.999983"
-       x="512.90308"
-       y="742.23767"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-5-1"
-       width="0"
-       height="10.999983"
-       x="530.94385"
-       y="740.18628"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-8-3"
-       width="0"
-       height="10.999983"
-       x="512.90308"
-       y="742.23767"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-59-4"
-       width="0"
-       height="10.999983"
-       x="512.90308"
-       y="742.23767"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-1"
-       width="0"
-       height="10.999983"
-       x="518.91827"
-       y="746.45386"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-5-0"
-       width="0"
-       height="10.999983"
-       x="536.95905"
-       y="744.40259"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-8-1"
-       width="0"
-       height="10.999983"
-       x="518.91827"
-       y="746.45386"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-59-1"
-       width="0"
-       height="10.999983"
-       x="518.91827"
-       y="746.45386"
-       class="ColorScheme-Text" />
-    <rect
-       y="747.07227"
-       x="520.21124"
-       height="10.999983"
-       width="0"
-       id="rect4035-7"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="745.021"
-       x="538.25201"
-       height="10.999983"
-       width="0"
-       id="rect4035-5-7"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="747.07227"
-       x="520.21124"
-       height="10.999983"
-       width="0"
-       id="rect4035-8-16"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="747.07227"
-       x="520.21124"
-       height="10.999983"
-       width="0"
-       id="rect4035-59-18"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="742.23767"
-       x="512.90308"
-       height="10.999983"
-       width="0"
-       id="rect4035-6-5"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="740.18628"
-       x="530.94385"
-       height="10.999983"
-       width="0"
-       id="rect4035-5-1-8"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="742.23767"
-       x="512.90308"
-       height="10.999983"
-       width="0"
-       id="rect4035-8-3-8"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="742.23767"
-       x="512.90308"
-       height="10.999983"
-       width="0"
-       id="rect4035-59-4-7"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="746.45386"
-       x="518.91827"
-       height="10.999983"
-       width="0"
-       id="rect4035-1-7"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="744.40259"
-       x="536.95905"
-       height="10.999983"
-       width="0"
-       id="rect4035-5-0-8"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="746.45386"
-       x="518.91827"
-       height="10.999983"
-       width="0"
-       id="rect4035-8-1-0"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="746.45386"
-       x="518.91827"
-       height="10.999983"
-       width="0"
-       id="rect4035-59-1-3"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="750.45178"
-       x="517.67938"
-       height="10.999983"
-       width="0"
-       id="rect4035-0"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="748.40051"
-       x="535.72015"
-       height="10.999983"
-       width="0"
-       id="rect4035-5-5"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="750.45178"
-       x="517.67938"
-       height="10.999983"
-       width="0"
-       id="rect4035-8-6"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="750.45178"
-       x="517.67938"
-       height="10.999983"
-       width="0"
-       id="rect4035-59-11"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="746.81787"
-       x="501.69125"
-       height="10.999983"
-       width="0"
-       id="rect4035-9"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="744.7666"
-       x="519.73206"
-       height="10.999983"
-       width="0"
-       id="rect4035-5-8"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="746.81787"
-       x="501.69125"
-       height="10.999983"
-       width="0"
-       id="rect4035-8-0"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="746.81787"
-       x="501.69125"
-       height="10.999983"
-       width="0"
-       id="rect4035-59-1-8"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-3"
-       width="0"
-       height="10.999983"
-       x="520.21124"
-       y="747.07227"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-5-2"
-       width="0"
-       height="10.999983"
-       x="538.25201"
-       y="745.021"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-8-7"
-       width="0"
-       height="10.999983"
-       x="520.21124"
-       y="747.07227"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-59-43"
-       width="0"
-       height="10.999983"
-       x="520.21124"
-       y="747.07227"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-6-2"
-       width="0"
-       height="10.999983"
-       x="512.90308"
-       y="742.23767"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-5-1-6"
-       width="0"
-       height="10.999983"
-       x="530.94385"
-       y="740.18628"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-8-3-4"
-       width="0"
-       height="10.999983"
-       x="512.90308"
-       y="742.23767"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-59-4-8"
-       width="0"
-       height="10.999983"
-       x="512.90308"
-       y="742.23767"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-1-8"
-       width="0"
-       height="10.999983"
-       x="518.91827"
-       y="746.45386"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-5-0-0"
-       width="0"
-       height="10.999983"
-       x="536.95905"
-       y="744.40259"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-8-1-3"
-       width="0"
-       height="10.999983"
-       x="518.91827"
-       y="746.45386"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-59-1-1"
-       width="0"
-       height="10.999983"
-       x="518.91827"
-       y="746.45386"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-08"
-       width="0"
-       height="10.999983"
-       x="520.16046"
-       y="747.07227"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-5-9"
-       width="0"
-       height="10.999983"
-       x="538.20123"
-       y="745.021"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-8-09"
-       width="0"
-       height="10.999983"
-       x="520.16046"
-       y="747.07227"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-59-23"
-       width="0"
-       height="10.999983"
-       x="520.16046"
-       y="747.07227"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-6-51"
-       width="0"
-       height="10.999983"
-       x="512.85229"
-       y="742.23767"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-5-1-67"
-       width="0"
-       height="10.999983"
-       x="530.89307"
-       y="740.18628"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-8-3-9"
-       width="0"
-       height="10.999983"
-       x="512.85229"
-       y="742.23767"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-59-4-5"
-       width="0"
-       height="10.999983"
-       x="512.85229"
-       y="742.23767"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-1-79"
-       width="0"
-       height="10.999983"
-       x="518.86749"
-       y="746.45386"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-5-0-3"
-       width="0"
-       height="10.999983"
-       x="536.90826"
-       y="744.40259"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-8-1-6"
-       width="0"
-       height="10.999983"
-       x="518.86749"
-       y="746.45386"
-       class="ColorScheme-Text" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect4035-59-1-39"
-       width="0"
-       height="10.999983"
-       x="518.86749"
-       y="746.45386"
-       class="ColorScheme-Text" />
-    <rect
-       y="747.07227"
-       x="520.16046"
-       height="10.999983"
-       width="0"
-       id="rect4035-7-5"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="745.021"
-       x="538.20123"
-       height="10.999983"
-       width="0"
-       id="rect4035-5-7-3"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="747.07227"
-       x="520.16046"
-       height="10.999983"
-       width="0"
-       id="rect4035-8-16-1"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="747.07227"
-       x="520.16046"
-       height="10.999983"
-       width="0"
-       id="rect4035-59-18-3"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="742.23767"
-       x="512.85229"
-       height="10.999983"
-       width="0"
-       id="rect4035-6-5-0"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="740.18628"
-       x="530.89307"
-       height="10.999983"
-       width="0"
-       id="rect4035-5-1-8-6"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="742.23767"
-       x="512.85229"
-       height="10.999983"
-       width="0"
-       id="rect4035-8-3-8-6"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="742.23767"
-       x="512.85229"
-       height="10.999983"
-       width="0"
-       id="rect4035-59-4-7-6"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="746.45386"
-       x="518.86749"
-       height="10.999983"
-       width="0"
-       id="rect4035-1-7-0"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="744.40259"
-       x="536.90826"
-       height="10.999983"
-       width="0"
-       id="rect4035-5-0-8-2"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="746.45386"
-       x="518.86749"
-       height="10.999983"
-       width="0"
-       id="rect4035-8-1-0-6"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="746.45386"
-       x="518.86749"
-       height="10.999983"
-       width="0"
-       id="rect4035-59-1-3-3"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="750.45178"
-       x="517.6286"
-       height="10.999983"
-       width="0"
-       id="rect4035-0-4"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="748.40051"
-       x="535.66937"
-       height="10.999983"
-       width="0"
-       id="rect4035-5-5-7"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="750.45178"
-       x="517.6286"
-       height="10.999983"
-       width="0"
-       id="rect4035-8-6-2"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="750.45178"
-       x="517.6286"
-       height="10.999983"
-       width="0"
-       id="rect4035-59-11-4"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="746.81787"
-       x="501.64047"
-       height="10.999983"
-       width="0"
-       id="rect4035-9-6"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="744.7666"
-       x="519.68127"
-       height="10.999983"
-       width="0"
-       id="rect4035-5-8-6"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="746.81787"
-       x="501.64047"
-       height="10.999983"
-       width="0"
-       id="rect4035-8-0-7"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <rect
-       y="746.81787"
-       x="501.64047"
-       height="10.999983"
-       width="0"
-       id="rect4035-59-1-8-4"
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text" />
-    <g
-       id="g4229">
-      <path
-         id="path4154"
-         transform="translate(544.57141,742.93359)"
-         d="M 4 3 L 4 9 L 4 10 L 4 13.460938 L 4 14.875 L 4 15 L 4 16 L 4 17 L 3 17 L 3 18 L 4 18 L 4 19 L 5 19 L 5 18 L 18.292969 18 L 19 18 L 19 17.292969 L 19 17 L 18.707031 17 L 17.292969 17 L 5 17 L 5 15.431641 L 5 15.423828 L 5 15 L 5 13.875 L 8.9980469 9.8769531 L 11.121094 12 L 11.126953 11.996094 L 11.130859 12 L 19 4.125 L 19 3 L 18.710938 3 C 18.718138 2.987638 11.126953 10.589844 11.126953 10.589844 L 9 8.4648438 L 8.9980469 8.4667969 L 8.9960938 8.4648438 L 5 12.460938 L 5 12.423828 L 5 11.423828 L 5 11 L 5 10 L 5 9 L 5 6 L 5 5.9921875 L 5 5 L 5 3 L 4 3 z "
-         style="opacity:0.5;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455" />
-      <path
-         class="ColorScheme-Text"
-         id="path5276"
-         transform="translate(544.57141,742.93359)"
-         d="M 19 4.125 L 11.130859 12 L 11.126953 11.996094 L 11.121094 12 L 8.9980469 9.8769531 L 5 13.875 L 5 17 L 19 17 L 19 4.125 z "
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.2" />
-    </g>
+      }</style>
+ </defs>
+ <metadata id="metadata4360">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-544.57 -742.93)">
+  <rect id="rect4035" class="ColorScheme-Text" height="11" width="0" y="747.07" x="520.21" fill="currentColor"/>
+  <rect id="rect4035-5" class="ColorScheme-Text" height="11" width="0" y="745.02" x="538.25" fill="currentColor"/>
+  <rect id="rect4035-8" class="ColorScheme-Text" height="11" width="0" y="747.07" x="520.21" fill="currentColor"/>
+  <rect id="rect4035-59" class="ColorScheme-Text" height="11" width="0" y="747.07" x="520.21" fill="currentColor"/>
+  <rect id="rect4035-6" class="ColorScheme-Text" height="11" width="0" y="742.24" x="512.9" fill="currentColor"/>
+  <rect id="rect4035-5-1" class="ColorScheme-Text" height="11" width="0" y="740.19" x="530.94" fill="currentColor"/>
+  <rect id="rect4035-8-3" class="ColorScheme-Text" height="11" width="0" y="742.24" x="512.9" fill="currentColor"/>
+  <rect id="rect4035-59-4" class="ColorScheme-Text" height="11" width="0" y="742.24" x="512.9" fill="currentColor"/>
+  <rect id="rect4035-1" class="ColorScheme-Text" height="11" width="0" y="746.45" x="518.92" fill="currentColor"/>
+  <rect id="rect4035-5-0" class="ColorScheme-Text" height="11" width="0" y="744.4" x="536.96" fill="currentColor"/>
+  <rect id="rect4035-8-1" class="ColorScheme-Text" height="11" width="0" y="746.45" x="518.92" fill="currentColor"/>
+  <rect id="rect4035-59-1" class="ColorScheme-Text" height="11" width="0" y="746.45" x="518.92" fill="currentColor"/>
+  <rect id="rect4035-7" class="ColorScheme-Text" height="11" width="0" y="747.07" x="520.21" fill="currentColor"/>
+  <rect id="rect4035-5-7" class="ColorScheme-Text" height="11" width="0" y="745.02" x="538.25" fill="currentColor"/>
+  <rect id="rect4035-8-16" class="ColorScheme-Text" height="11" width="0" y="747.07" x="520.21" fill="currentColor"/>
+  <rect id="rect4035-59-18" class="ColorScheme-Text" height="11" width="0" y="747.07" x="520.21" fill="currentColor"/>
+  <rect id="rect4035-6-5" class="ColorScheme-Text" height="11" width="0" y="742.24" x="512.9" fill="currentColor"/>
+  <rect id="rect4035-5-1-8" class="ColorScheme-Text" height="11" width="0" y="740.19" x="530.94" fill="currentColor"/>
+  <rect id="rect4035-8-3-8" class="ColorScheme-Text" height="11" width="0" y="742.24" x="512.9" fill="currentColor"/>
+  <rect id="rect4035-59-4-7" class="ColorScheme-Text" height="11" width="0" y="742.24" x="512.9" fill="currentColor"/>
+  <rect id="rect4035-1-7" class="ColorScheme-Text" height="11" width="0" y="746.45" x="518.92" fill="currentColor"/>
+  <rect id="rect4035-5-0-8" class="ColorScheme-Text" height="11" width="0" y="744.4" x="536.96" fill="currentColor"/>
+  <rect id="rect4035-8-1-0" class="ColorScheme-Text" height="11" width="0" y="746.45" x="518.92" fill="currentColor"/>
+  <rect id="rect4035-59-1-3" class="ColorScheme-Text" height="11" width="0" y="746.45" x="518.92" fill="currentColor"/>
+  <rect id="rect4035-0" class="ColorScheme-Text" height="11" width="0" y="750.45" x="517.68" fill="currentColor"/>
+  <rect id="rect4035-5-5" class="ColorScheme-Text" height="11" width="0" y="748.4" x="535.72" fill="currentColor"/>
+  <rect id="rect4035-8-6" class="ColorScheme-Text" height="11" width="0" y="750.45" x="517.68" fill="currentColor"/>
+  <rect id="rect4035-59-11" class="ColorScheme-Text" height="11" width="0" y="750.45" x="517.68" fill="currentColor"/>
+  <rect id="rect4035-9" class="ColorScheme-Text" height="11" width="0" y="746.82" x="501.69" fill="currentColor"/>
+  <rect id="rect4035-5-8" class="ColorScheme-Text" height="11" width="0" y="744.77" x="519.73" fill="currentColor"/>
+  <rect id="rect4035-8-0" class="ColorScheme-Text" height="11" width="0" y="746.82" x="501.69" fill="currentColor"/>
+  <rect id="rect4035-59-1-8" class="ColorScheme-Text" height="11" width="0" y="746.82" x="501.69" fill="currentColor"/>
+  <rect id="rect4035-3" class="ColorScheme-Text" height="11" width="0" y="747.07" x="520.21" fill="currentColor"/>
+  <rect id="rect4035-5-2" class="ColorScheme-Text" height="11" width="0" y="745.02" x="538.25" fill="currentColor"/>
+  <rect id="rect4035-8-7" class="ColorScheme-Text" height="11" width="0" y="747.07" x="520.21" fill="currentColor"/>
+  <rect id="rect4035-59-43" class="ColorScheme-Text" height="11" width="0" y="747.07" x="520.21" fill="currentColor"/>
+  <rect id="rect4035-6-2" class="ColorScheme-Text" height="11" width="0" y="742.24" x="512.9" fill="currentColor"/>
+  <rect id="rect4035-5-1-6" class="ColorScheme-Text" height="11" width="0" y="740.19" x="530.94" fill="currentColor"/>
+  <rect id="rect4035-8-3-4" class="ColorScheme-Text" height="11" width="0" y="742.24" x="512.9" fill="currentColor"/>
+  <rect id="rect4035-59-4-8" class="ColorScheme-Text" height="11" width="0" y="742.24" x="512.9" fill="currentColor"/>
+  <rect id="rect4035-1-8" class="ColorScheme-Text" height="11" width="0" y="746.45" x="518.92" fill="currentColor"/>
+  <rect id="rect4035-5-0-0" class="ColorScheme-Text" height="11" width="0" y="744.4" x="536.96" fill="currentColor"/>
+  <rect id="rect4035-8-1-3" class="ColorScheme-Text" height="11" width="0" y="746.45" x="518.92" fill="currentColor"/>
+  <rect id="rect4035-59-1-1" class="ColorScheme-Text" height="11" width="0" y="746.45" x="518.92" fill="currentColor"/>
+  <rect id="rect4035-08" class="ColorScheme-Text" height="11" width="0" y="747.07" x="520.16" fill="currentColor"/>
+  <rect id="rect4035-5-9" class="ColorScheme-Text" height="11" width="0" y="745.02" x="538.2" fill="currentColor"/>
+  <rect id="rect4035-8-09" class="ColorScheme-Text" height="11" width="0" y="747.07" x="520.16" fill="currentColor"/>
+  <rect id="rect4035-59-23" class="ColorScheme-Text" height="11" width="0" y="747.07" x="520.16" fill="currentColor"/>
+  <rect id="rect4035-6-51" class="ColorScheme-Text" height="11" width="0" y="742.24" x="512.85" fill="currentColor"/>
+  <rect id="rect4035-5-1-67" class="ColorScheme-Text" height="11" width="0" y="740.19" x="530.89" fill="currentColor"/>
+  <rect id="rect4035-8-3-9" class="ColorScheme-Text" height="11" width="0" y="742.24" x="512.85" fill="currentColor"/>
+  <rect id="rect4035-59-4-5" class="ColorScheme-Text" height="11" width="0" y="742.24" x="512.85" fill="currentColor"/>
+  <rect id="rect4035-1-79" class="ColorScheme-Text" height="11" width="0" y="746.45" x="518.87" fill="currentColor"/>
+  <rect id="rect4035-5-0-3" class="ColorScheme-Text" height="11" width="0" y="744.4" x="536.91" fill="currentColor"/>
+  <rect id="rect4035-8-1-6" class="ColorScheme-Text" height="11" width="0" y="746.45" x="518.87" fill="currentColor"/>
+  <rect id="rect4035-59-1-39" class="ColorScheme-Text" height="11" width="0" y="746.45" x="518.87" fill="currentColor"/>
+  <rect id="rect4035-7-5" class="ColorScheme-Text" height="11" width="0" y="747.07" x="520.16" fill="currentColor"/>
+  <rect id="rect4035-5-7-3" class="ColorScheme-Text" height="11" width="0" y="745.02" x="538.2" fill="currentColor"/>
+  <rect id="rect4035-8-16-1" class="ColorScheme-Text" height="11" width="0" y="747.07" x="520.16" fill="currentColor"/>
+  <rect id="rect4035-59-18-3" class="ColorScheme-Text" height="11" width="0" y="747.07" x="520.16" fill="currentColor"/>
+  <rect id="rect4035-6-5-0" class="ColorScheme-Text" height="11" width="0" y="742.24" x="512.85" fill="currentColor"/>
+  <rect id="rect4035-5-1-8-6" class="ColorScheme-Text" height="11" width="0" y="740.19" x="530.89" fill="currentColor"/>
+  <rect id="rect4035-8-3-8-6" class="ColorScheme-Text" height="11" width="0" y="742.24" x="512.85" fill="currentColor"/>
+  <rect id="rect4035-59-4-7-6" class="ColorScheme-Text" height="11" width="0" y="742.24" x="512.85" fill="currentColor"/>
+  <rect id="rect4035-1-7-0" class="ColorScheme-Text" height="11" width="0" y="746.45" x="518.87" fill="currentColor"/>
+  <rect id="rect4035-5-0-8-2" class="ColorScheme-Text" height="11" width="0" y="744.4" x="536.91" fill="currentColor"/>
+  <rect id="rect4035-8-1-0-6" class="ColorScheme-Text" height="11" width="0" y="746.45" x="518.87" fill="currentColor"/>
+  <rect id="rect4035-59-1-3-3" class="ColorScheme-Text" height="11" width="0" y="746.45" x="518.87" fill="currentColor"/>
+  <rect id="rect4035-0-4" class="ColorScheme-Text" height="11" width="0" y="750.45" x="517.63" fill="currentColor"/>
+  <rect id="rect4035-5-5-7" class="ColorScheme-Text" height="11" width="0" y="748.4" x="535.67" fill="currentColor"/>
+  <rect id="rect4035-8-6-2" class="ColorScheme-Text" height="11" width="0" y="750.45" x="517.63" fill="currentColor"/>
+  <rect id="rect4035-59-11-4" class="ColorScheme-Text" height="11" width="0" y="750.45" x="517.63" fill="currentColor"/>
+  <rect id="rect4035-9-6" class="ColorScheme-Text" height="11" width="0" y="746.82" x="501.64" fill="currentColor"/>
+  <rect id="rect4035-5-8-6" class="ColorScheme-Text" height="11" width="0" y="744.77" x="519.68" fill="currentColor"/>
+  <rect id="rect4035-8-0-7" class="ColorScheme-Text" height="11" width="0" y="746.82" x="501.64" fill="currentColor"/>
+  <rect id="rect4035-59-1-8-4" class="ColorScheme-Text" height="11" width="0" y="746.82" x="501.64" fill="currentColor"/>
+  <g id="g4229">
+   <path id="path4154" opacity=".5" d="m4 3v6 1 3.461 1.414 0.125 1 1h-1v1h1v1h1v-1h13.293 0.707v-0.707-0.293h-0.293-1.414-12.293v-1.568-0.008-0.424-1.125l3.998-3.998 2.123 2.123 0.006-0.004 0.004 0.004 7.869-7.875v-1.125h-0.289c0.007-0.0124-7.584 7.59-7.584 7.59l-2.127-2.1252-0.002 0.002-0.0019-0.002-3.9961 3.9962v-0.037-1-0.424-1-1-3-0.0078-0.9922-2h-1z" transform="translate(544.57 742.93)" fill="currentColor"/>
+   <path id="path5276" opacity=".2" d="m19 4.125l-7.869 7.875-0.004-0.004-0.006 0.004-2.123-2.123-3.998 3.998v3.125h14v-12.875z" fill-rule="evenodd" transform="translate(544.57 742.93)" class="ColorScheme-Text"/>
   </g>
+ </g>
 </svg>

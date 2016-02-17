@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   viewBox="0 0 24 24"
-   sodipodi:docname="kstars_hgrid.svg">
-  <defs
-     id="defs4">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-Background {
@@ -53,111 +34,21 @@
       }
       .ColorScheme-ButtonFocus{
         color:#3daee9;
-      }
-      </style>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3979">
-      <rect
-         style="fill:#ffffff"
-         id="rect3981"
-         width="64"
-         height="64"
-         x="0.090115756"
-         y="-0.090114839"
-         clip-path="none" />
-    </clipPath>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="-7.240691"
-     inkscape:cy="9.099579"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:showpageshadow="false"
-     units="px"
-     inkscape:window-width="1600"
-     inkscape:window-height="847"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1"
-     inkscape:object-nodes="true"
-     inkscape:snap-bbox="true"
-     showguides="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4120" />
-    <sodipodi:guide
-       position="2,20.000017"
-       orientation="18,0"
-       id="guide4126" />
-    <sodipodi:guide
-       position="2,2.0000174"
-       orientation="0,18"
-       id="guide4128" />
-    <sodipodi:guide
-       position="20,2.0000174"
-       orientation="-18,0"
-       id="guide4130" />
-    <sodipodi:guide
-       position="20,20.000017"
-       orientation="0,-18"
-       id="guide4132" />
-    <sodipodi:guide
-       position="3,19.000017"
-       orientation="16,0"
-       id="guide4134" />
-    <sodipodi:guide
-       position="3,3.0000174"
-       orientation="0,16"
-       id="guide4136" />
-    <sodipodi:guide
-       position="19,3.0000174"
-       orientation="-16,0"
-       id="guide4138" />
-    <sodipodi:guide
-       position="19,19.000017"
-       orientation="0,-16"
-       id="guide4140" />
-    <sodipodi:guide
-       position="19,13.000017"
-       orientation="-6,0"
-       id="guide4199" />
-    <sodipodi:guide
-       position="19,19.000017"
-       orientation="0,-6.0000172"
-       id="guide4201" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1028.3622)">
-    <path
-       style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none"
-       clip-path="url(#clipPath3979)"
-       d="M 7.0292969,3 6.3261719,4.8085938 C 5.1833461,4.464661 4.0671267,4.0048523 3,3.4238281 L 3,4.8125 C 3.9327177,5.2774969 4.8919014,5.6700934 5.875,5.9707031 L 4.3808594,9.8164062 C 3.9115799,9.6023655 3.4530817,9.357457 3,9.0996094 l 0,1.4082026 c 0.3087318,0.159083 0.6167933,0.321021 0.9316406,0.462891 L 3,13.369141 3,16.787109 3.054687,16.646484 c 2.3067681,1.125432 4.795694,1.744565 7.306641,1.867188 l 0.002,0.486328 1.236328,0 0,-0.464844 C 14.129441,18.492831 16.651088,17.948264 19,16.890625 L 19,13.1875 18.308594,11.40625 C 18.542951,11.317482 18.768474,11.201572 19,11.103516 L 19,9.7578125 C 18.622576,9.9307686 18.245536,10.103756 17.859375,10.25 L 16.263672,6.1425781 C 17.194277,5.892995 18.109273,5.5703486 19,5.1777344 L 19,3.8046875 C 17.969815,4.2998874 16.904976,4.698391 15.814453,4.9824219 L 15.042969,3 13.705078,3 14.583984,5.2558594 C 13.590083,5.4395533 12.583694,5.5360425 11.576172,5.546875 L 11.570312,3 l -1.248046,0 0.0078,2.5175781 C 9.3931694,5.461217 8.4588807,5.3351463 7.5390625,5.1289062 L 8.3671875,3 7.0292969,3 Z m 0.054687,3.2949219 c 1.0694685,0.2502796 2.1564375,0.4002698 3.2480471,0.4609375 l 0.01172,4.5859376 C 8.70767,11.219971 7.0855765,10.87057 5.5292969,10.291016 L 7.0839844,6.2949219 Z m 7.9570321,0.1347656 1.642577,4.2187505 c -1.66071,0.496891 -3.378369,0.748636 -5.097655,0.742187 l -0.0078,-4.6054688 c 1.16097,-0.012105 2.31986,-0.1294896 3.46289,-0.3554687 z M 5.0800781,11.445312 c 1.7020608,0.634169 3.4770466,1.011483 5.2675779,1.134766 l 0.01172,4.695313 C 8.0026295,17.150863 5.670575,16.550685 3.5097656,15.478516 l 1.5703125,-4.033204 z m 12.0546879,0.359376 1.511718,3.878906 c -2.233304,1.034504 -4.636995,1.573146 -7.050781,1.615234 l -0.0078,-4.671875 c 1.871445,0.0056 3.741601,-0.272233 5.546875,-0.822265 z"
-       transform="translate(1,1029.3622)"
-       id="path3368"
-       inkscape:connector-curvature="0" />
-  </g>
+      }</style>
+  <clipPath id="clipPath3979" clipPathUnits="userSpaceOnUse">
+   <rect id="rect3981" height="64" width="64" y="-.090115" x=".090116" fill="#fff"/>
+  </clipPath>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -1028.4)">
+  <path id="path3368" opacity=".72" d="m7.0293 3-0.7031 1.8086c-1.1429-0.3439-2.2591-0.8037-3.3262-1.3848v1.3887c0.9327 0.465 1.8919 0.8576 2.875 1.1582l-1.4941 3.8457c-0.4693-0.214-0.9278-0.4589-1.3809-0.7168v1.4082c0.30873 0.15908 0.61679 0.32102 0.93164 0.46289l-0.9316 2.398v3.418l0.0547-0.141c2.3068 1.1254 4.7957 1.7446 7.3066 1.8672l0.002 0.48633h1.2363v-0.46484c2.53-0.041 5.052-0.586 7.401-1.643v-3.703l-0.691-1.782c0.234-0.089 0.459-0.204 0.691-0.302v-1.3462c-0.377 0.173-0.754 0.3462-1.141 0.4922l-1.595-4.1074c0.93-0.2496 1.845-0.5723 2.736-0.9649v-1.373c-1.03 0.4952-2.095 0.8937-3.186 1.1777l-0.771-1.9824h-1.338l0.879 2.2559c-0.994 0.1837-2 0.2801-3.008 0.291l-0.006-2.5469h-1.248l0.0078 2.5176c-0.9368-0.0564-1.8711-0.1825-2.7909-0.3887l0.8281-2.1289h-1.3379zm0.054687 3.2949c1.0695 0.25028 2.1564 0.40027 3.248 0.46094l0.01172 4.5859c-1.6363-0.122-3.2584-0.471-4.8147-1.051l1.5547-3.9961zm7.957 0.13477 1.6426 4.2188c-1.6607 0.49689-3.3784 0.74864-5.0977 0.74219l-0.0078-4.6055c1.161-0.012105 2.3199-0.12949 3.4629-0.35547zm-9.9609 5.0153c1.7021 0.63417 3.477 1.0115 5.2676 1.1348l0.01172 4.6953c-2.3574-0.124-4.6894-0.724-6.8502-1.796l1.5703-4.0332zm12.055 0.35938 1.5117 3.8789c-2.2333 1.0345-4.637 1.5731-7.0508 1.6152l-0.0078-4.6719c1.8714 0.0056 3.7416-0.27223 5.5469-0.82226z" clip-path="url(#clipPath3979)" transform="translate(1 1029.4)" fill="#fff"/>
+ </g>
 </svg>

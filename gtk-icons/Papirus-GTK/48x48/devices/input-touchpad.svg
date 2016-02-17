@@ -11,7 +11,7 @@
   </rdf:RDF>
  </metadata>
  <rect id="rect4203" ry="2" rx="2" transform="matrix(0,-1,-1,0,0,0)" height="40" width="40" y="-44" x="-44" fill="#858a89"/>
- <path id="rect4592" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
+ <path id="rect4592" opacity=".2" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
  <rect id="rect4186" opacity=".2" rx="2" ry="2" height="10" width="18" y="32" x="5"/>
  <rect id="rect4188" opacity=".2" rx="2" ry="2" height="10" width="18" y="32" x="25"/>
  <rect id="rect4190" opacity=".2" height="1" width="6" y="10" x="37"/>

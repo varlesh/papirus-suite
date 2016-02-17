@@ -1,123 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="diodon-panel.svg"
-   inkscape:export-filename="/home/sam/source-symbolic.png"
-   inkscape:export-xdpi="270"
-   inkscape:export-ydpi="270"
-   height="24"
-   id="svg7384"
-   style="enable-background:new"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   width="24">
-  <sodipodi:namedview
-     inkscape:bbox-nodes="false"
-     inkscape:bbox-paths="false"
-     bordercolor="#666666"
-     borderlayer="false"
-     borderopacity="1"
-     inkscape:current-layer="layer9"
-     inkscape:cx="2.8933793"
-     inkscape:cy="14.183392"
-     gridtolerance="10"
-     inkscape:guide-bbox="true"
-     guidetolerance="10"
-     id="namedview88"
-     inkscape:object-nodes="true"
-     inkscape:object-paths="true"
-     objecttolerance="10"
-     pagecolor="#737373"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     showborder="true"
-     showgrid="false"
-     showguides="false"
-     inkscape:showpageshadow="false"
-     inkscape:snap-bbox="true"
-     inkscape:snap-bbox-edge-midpoints="false"
-     inkscape:snap-bbox-midpoints="false"
-     inkscape:snap-center="false"
-     inkscape:snap-global="true"
-     inkscape:snap-grids="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-nodes="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-others="true"
-     inkscape:snap-page="false"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-to-guides="true"
-     inkscape:window-height="845"
-     inkscape:window-maximized="1"
-     inkscape:window-width="1600"
-     inkscape:window-x="0"
-     inkscape:window-y="31"
-     inkscape:zoom="1">
-    <inkscape:grid
-       color="#000000"
-       dotted="false"
-       empcolor="#0800ff"
-       empopacity="0.4627451"
-       empspacing="4"
-       enabled="true"
-       id="grid4866"
-       opacity="0.16470588"
-       originx="-304.00021"
-       originy="-612.01034"
-       snapvisiblegridlinesonly="true"
-       spacingx="0.25px"
-       spacingy="0.25px"
-       type="xygrid"
-       visible="true" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title8473">Paper Symbolic Icon Theme</title>
-  <defs
-     id="defs7386">
-    <linearGradient
-       id="linearGradient5606"
-       osb:paint="solid">
-      <stop
-         id="stop5608"
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
-    </linearGradient>
-    <filter
-       inkscape:collect="always"
-       id="filter7554"
-       style="color-interpolation-filters:sRGB">
-      <feBlend
-         inkscape:collect="always"
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#7B7C7E;
       }
       .ColorScheme-Background{
@@ -149,137 +47,9 @@
       }
       .ColorScheme-ButtonFocus{
         color:#1E92FF;
-      }
-</style>
-  </defs>
-  <g
-     inkscape:groupmode="layer"
-     id="layer9"
-     inkscape:label="status"
-     style="display:inline"
-     transform="translate(-545.00041,403.01034)">
-    <g
-       id="layer1-0"
-       inkscape:label="places"
-       style="display:inline"
-       transform="translate(494.73356,-808.10088)" />
-    <g
-       id="layer14-9"
-       inkscape:label="mimetypes"
-       style="display:inline"
-       transform="translate(253.73336,-191.10088)" />
-    <g
-       id="layer15-5"
-       inkscape:label="emblems"
-       style="display:inline"
-       transform="translate(253.73336,-191.10088)" />
-    <g
-       id="g71291-6"
-       inkscape:label="emotes"
-       style="display:inline"
-       transform="translate(253.73336,-191.10088)" />
-    <g
-       id="layer2-1"
-       inkscape:label="categories"
-       style="display:inline"
-       transform="translate(494.73356,-658.10088)" />
-    <g
-       id="g6058-8"
-       inkscape:label="apps"
-       style="display:inline"
-       transform="translate(494.73356,-658.10088)" />
-    <g
-       id="layer12-8"
-       inkscape:label="actions"
-       style="display:inline"
-       transform="translate(253.73336,-191.10088)" />
-    <g
-       id="layer1-5"
-       inkscape:label="places"
-       style="display:inline"
-       transform="translate(626.34467,-803.93294)" />
-    <g
-       id="layer14-3"
-       inkscape:label="mimetypes"
-       style="display:inline"
-       transform="translate(385.34447,-186.93294)" />
-    <g
-       id="layer15-8"
-       inkscape:label="emblems"
-       style="display:inline"
-       transform="translate(385.34447,-186.93294)" />
-    <g
-       id="g71291-2"
-       inkscape:label="emotes"
-       style="display:inline"
-       transform="translate(385.34447,-186.93294)" />
-    <g
-       id="layer2-0"
-       inkscape:label="categories"
-       style="display:inline"
-       transform="translate(626.34467,-653.93294)" />
-    <g
-       id="g6058-5"
-       inkscape:label="apps"
-       style="display:inline"
-       transform="translate(626.34467,-653.93294)" />
-    <g
-       id="layer12-5"
-       inkscape:label="actions"
-       style="display:inline"
-       transform="translate(385.34447,-186.93294)" />
-    <path
-       style="fill:#ffffff;fill-opacity:1"
-       id="path4143"
-       d="m 563.98038,-395.37437 c -0.0993,-0.97539 -0.55836,-1.85142 -1.29257,-2.46669 l -0.42244,-0.35412 c -0.6272,-0.52569 -1.41716,-0.81516 -2.22453,-0.81516 -1.07674,0 -2.08129,0.49536 -2.75614,1.35915 l -6.49536,8.31333 c -0.59506,0.76139 -0.86818,1.71737 -0.76899,2.69168 0.0992,0.97423 0.55882,1.85018 1.29418,2.46656 l 0.42245,0.35412 c 0.62711,0.52569 1.41703,0.81516 2.2242,0.81516 0.12463,0 0.2507,-0.007 0.37471,-0.0205 0.93498,-0.10209 1.77686,-0.57264 2.36811,-1.322 0.002,-0.002 0.003,-0.004 4.38205,-5.60755 0.77987,-0.99831 0.63022,-2.46768 -0.33351,-3.27547 l -0.22142,-0.18546 c -0.39825,-0.33381 -0.89995,-0.51763 -1.41253,-0.51763 -0.68361,0 -1.32144,0.31457 -1.74996,0.86301 l -4.37383,5.59783 c -0.28578,0.36585 -0.23097,0.90435 0.12227,1.20042 0.14618,0.12248 0.33013,0.18995 0.51792,0.18995 0.25016,0 0.48383,-0.11528 0.64113,-0.31654 l 4.37374,-5.59783 c 0.11441,-0.14638 0.28483,-0.23035 0.46749,-0.23035 0.13882,0 0.26915,0.0478 0.37695,0.13812 l 0.22146,0.18566 c 0.12442,0.10428 0.20218,0.25276 0.21902,0.41821 0.0168,0.16545 -0.0293,0.32751 -0.13005,0.45629 l -4.36873,5.59149 c -0.36073,0.46138 -0.89772,0.72592 -1.47329,0.72596 -0.4315,0 -0.85374,-0.15469 -1.18895,-0.43572 l -0.42245,-0.35403 c -0.39312,-0.32957 -0.63886,-0.7979 -0.69185,-1.31866 -0.053,-0.52081 0.093,-1.03193 0.41107,-1.439 l 6.4954,-8.31325 c 0.36074,-0.46164 0.89788,-0.72644 1.47371,-0.72644 0.43154,0 0.85382,0.1547 1.18895,0.43564 l 0.4224,0.35403 c 0.81152,0.68018 0.93747,1.91727 0.28082,2.75771 -0.13848,0.17727 -0.20202,0.39969 -0.17894,0.62645 0.0231,0.22671 0.13009,0.43058 0.30113,0.57392 0.14622,0.12253 0.33016,0.19004 0.51795,0.19004 l 0,0 c 0.25017,0 0.48379,-0.11536 0.64106,-0.31658 0.59418,-0.76042 0.86673,-1.71639 0.76737,-2.69173 z"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer10"
-     inkscape:label="devices"
-     style="display:inline;filter:url(#filter7554)"
-     transform="translate(-545.00041,403.01034)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="places"
-     style="display:inline"
-     transform="translate(-304.00021,-213.98966)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer14"
-     inkscape:label="mimetypes"
-     style="display:inline"
-     transform="translate(-545.00041,403.01034)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer15"
-     inkscape:label="emblems"
-     style="display:inline"
-     transform="translate(-545.00041,403.01034)" />
-  <g
-     inkscape:groupmode="layer"
-     id="g71291"
-     inkscape:label="emotes"
-     style="display:inline"
-     transform="translate(-545.00041,403.01034)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="categories"
-     style="display:inline"
-     transform="translate(-304.00021,-63.98966)" />
-  <g
-     inkscape:groupmode="layer"
-     id="g6058"
-     inkscape:label="apps"
-     style="display:inline"
-     transform="translate(-304.00021,-63.98966)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer12"
-     inkscape:label="actions"
-     style="display:inline"
-     transform="translate(-545.00041,403.01034)" />
+      }</style>
+ </defs>
+ <g id="layer9" transform="translate(-545 403.01)">
+  <path id="path4143" fill="#fff" d="m563.98-395.37c-0.0993-0.97539-0.55836-1.8514-1.2926-2.4667l-0.42244-0.35412c-0.6272-0.52569-1.4172-0.81516-2.2245-0.81516-1.0767 0-2.0813 0.49536-2.7561 1.3592l-6.4954 8.3133c-0.59506 0.76139-0.86818 1.7174-0.76899 2.6917 0.0992 0.97423 0.55882 1.8502 1.2942 2.4666l0.42245 0.35412c0.62711 0.52569 1.417 0.81516 2.2242 0.81516 0.12463 0 0.2507-0.007 0.37471-0.0205 0.93498-0.10209 1.7769-0.57264 2.3681-1.322 0.002-0.002 0.003-0.004 4.382-5.6076 0.77987-0.99831 0.63022-2.4677-0.33351-3.2755l-0.22142-0.18546c-0.39825-0.33381-0.89995-0.51763-1.4125-0.51763-0.68361 0-1.3214 0.31457-1.75 0.86301l-4.3738 5.5978c-0.28578 0.36585-0.23097 0.90435 0.12227 1.2004 0.14618 0.12248 0.33013 0.18995 0.51792 0.18995 0.25016 0 0.48383-0.11528 0.64113-0.31654l4.3737-5.5978c0.11441-0.14638 0.28483-0.23035 0.46749-0.23035 0.13882 0 0.26915 0.0478 0.37695 0.13812l0.22146 0.18566c0.12442 0.10428 0.20218 0.25276 0.21902 0.41821 0.0168 0.16545-0.0293 0.32751-0.13005 0.45629l-4.3687 5.5915c-0.36073 0.46138-0.89772 0.72592-1.4733 0.72596-0.4315 0-0.85374-0.15469-1.189-0.43572l-0.42245-0.35403c-0.39312-0.32957-0.63886-0.7979-0.69185-1.3187-0.053-0.52081 0.093-1.0319 0.41107-1.439l6.4954-8.3132c0.36074-0.46164 0.89788-0.72644 1.4737-0.72644 0.43154 0 0.85382 0.1547 1.189 0.43564l0.4224 0.35403c0.81152 0.68018 0.93747 1.9173 0.28082 2.7577-0.13848 0.17727-0.20202 0.39969-0.17894 0.62645 0.0231 0.22671 0.13009 0.43058 0.30113 0.57392 0.14622 0.12253 0.33016 0.19004 0.51795 0.19004 0.25017 0 0.48379-0.11536 0.64106-0.31658 0.59418-0.76042 0.86673-1.7164 0.76737-2.6917z"/>
+ </g>
 </svg>

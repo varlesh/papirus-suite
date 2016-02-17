@@ -57,13 +57,13 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.99"
-     inkscape:cx="6.8915222"
+     inkscape:cx="-3.3961576"
      inkscape:cy="14.415263"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -125,7 +125,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,7 +135,7 @@
      id="layer1"
      transform="translate(-544.57141,-742.93359)">
     <path
-       style="opacity:0.5;fill:currentColor;fill-opacity:1;stroke:none"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
        d="M 3 3 L 3 5 L 4 5 L 4 4 L 5 4 L 5 3 L 3 3 z M 8 3 L 8 4 L 10 4 L 10 3 L 8 3 z M 15.5 3 L 14.791016 3.7070312 L 12.669922 5.828125 L 13.376953 6.5351562 L 15 4.9140625 L 15 9.5703125 L 15.998047 9.5703125 L 15.998047 4.9140625 L 17.621094 6.5351562 L 18.328125 5.828125 L 15.5 3 z M 3 8 L 3 10 L 4 10 L 4 8 L 3 8 z M 18 12 L 18 14 L 19 14 L 19 12 L 18 12 z M 3 13 L 3 19 L 9 19 L 9 13 L 3 13 z M 18 17 L 18 18 L 17 18 L 17 19 L 19 19 L 19 17 L 18 17 z M 12 18 L 12 19 L 14 19 L 14 18 L 12 18 z "
        transform="translate(544.57141,742.93359)"
        id="path4153" />

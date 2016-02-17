@@ -119,11 +119,11 @@
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
  <rect id="rect4203" ry="1.3" rx="1.25" transform="scale(-1,1)" height="26" width="20" y="3" x="-26" fill="#d2d2d2"/>
  <g id="g4509" transform="translate(0,-1)">
-  <circle id="path4369" cx="-19" transform="rotate(-90)" cy="16" r="9" fill="#3f3f3f"/>
-  <circle id="circle4385" cx="-19" transform="matrix(0,-1,-1,0,0,0)" cy="-16" r="7" fill="#fec006"/>
-  <circle id="circle4501" cx="-19" transform="matrix(0,-1,-1,0,0,0)" cy="-16" r="3" fill="#3f3f3f"/>
+  <circle id="path4369" transform="rotate(-90)" cy="16" cx="-19" r="9" fill="#3f3f3f"/>
+  <circle id="circle4385" transform="matrix(0,-1,-1,0,0,0)" cy="-16" cx="-19" r="7" fill="#fec006"/>
+  <circle id="circle4501" transform="matrix(0,-1,-1,0,0,0)" cy="-16" cx="-19" r="3" fill="#3f3f3f"/>
  </g>
- <circle id="circle5954" cx="7" transform="rotate(90)" cy="-10" r="1" fill="#3f3f3f"/>
- <circle id="circle5956" cx="7" transform="rotate(90)" cy="-22" r="1" fill="#3f3f3f"/>
+ <circle id="circle5954" transform="rotate(90)" cy="-10" cx="7" r="1" fill="#3f3f3f"/>
+ <circle id="circle5956" transform="rotate(90)" cy="-22" cx="7" r="1" fill="#3f3f3f"/>
  <path id="rect4504" opacity=".3" d="m6 26.699v1c0 0.72 0.5575 1.301 1.25 1.301h17.5c0.692 0 1.25-0.581 1.25-1.301v-1c0 0.72-0.558 1.301-1.25 1.301h-17.5c-0.6925 0-1.25-0.581-1.25-1.301z"/>
 </svg>

@@ -1,113 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="document-edit-decrypt-verify.svg"
-   inkscape:export-filename="/home/sam/source-symbolic.png"
-   inkscape:export-xdpi="270"
-   inkscape:export-ydpi="270"
-   height="24"
-   id="svg7384"
-   style="enable-background:new"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   width="24">
-  <sodipodi:namedview
-     inkscape:bbox-nodes="true"
-     inkscape:bbox-paths="false"
-     bordercolor="#666666"
-     borderlayer="false"
-     borderopacity="1"
-     inkscape:current-layer="layer12"
-     inkscape:cx="-12.347502"
-     inkscape:cy="2.3808892"
-     gridtolerance="10"
-     inkscape:guide-bbox="true"
-     guidetolerance="10"
-     id="namedview88"
-     inkscape:object-nodes="true"
-     inkscape:object-paths="true"
-     objecttolerance="10"
-     pagecolor="#f7f7f7"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     showborder="true"
-     showgrid="false"
-     showguides="true"
-     inkscape:showpageshadow="false"
-     inkscape:snap-bbox="true"
-     inkscape:snap-bbox-edge-midpoints="false"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-center="false"
-     inkscape:snap-global="true"
-     inkscape:snap-grids="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-nodes="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-others="true"
-     inkscape:snap-page="false"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-to-guides="true"
-     inkscape:window-height="847"
-     inkscape:window-maximized="1"
-     inkscape:window-width="1600"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:zoom="14.06">
-    <inkscape:grid
-       color="#ffffff"
-       dotted="false"
-       empcolor="#0800ff"
-       empopacity="0.4627451"
-       empspacing="4"
-       enabled="true"
-       id="grid4866"
-       opacity="0.16470588"
-       originx="-325.00018"
-       originy="-296.01009"
-       snapvisiblegridlinesonly="true"
-       spacingx="0.25px"
-       spacingy="0.25px"
-       type="xygrid"
-       visible="true" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title8473">Paper Symbolic Icon Theme</title>
-  <defs
-     id="defs7386">
-    <linearGradient
-       id="linearGradient5606"
-       osb:paint="solid">
-      <stop
-         id="stop5608"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-    </linearGradient>
-    <style
-       id="current-color-scheme"
-       type="text/css">
-      .ColorScheme-Text {
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-Background {
@@ -139,12 +44,8 @@
       }
       .ColorScheme-ButtonFocus{
         color:#3daee9;
-      }
-      </style>
-    <style
-       id="current-color-scheme-2"
-       type="text/css">
-      .ColorScheme-Text {
+      }</style>
+  <style id="current-color-scheme-2" type="text/css">.ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-Background {
@@ -176,54 +77,9 @@
       }
       .ColorScheme-ButtonFocus{
         color:#3daee9;
-      }
-      </style>
-  </defs>
-  <g
-     inkscape:groupmode="layer"
-     id="layer12"
-     inkscape:label="actions"
-     style="display:inline"
-     transform="translate(-566.00038,87.010089)">
-    <path
-       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 572.00038,-81.019855 0,2 2,0 0,-2 -2,0 z m 5,0 0,2 2,0 0,-2 -2,0 z m 5,0 0,2 2,0 0,-2 -2,0 z m -8,3 0,2 2,0 0,-2 -2,0 z m 6,0 0,2 2,0 0,-2 -2,0 z m -8,3 0,6.009766 c 0,1 1,1 1,1 l 10,0 c 0,0 1,0 1,-1 l 0,-2.951172 0,-1.298828 0,-1.740235 -2,0 0,2.990235 0,1.298828 0,0.697265 -8,0 0,-5.005859 -2,0 z m 8,0 -3,3 -1,-1 -1,1 1,1 1,1 4,-4 -1,-1 z"
-       id="path4960"
-       inkscape:connector-curvature="0" />
-    <g
-       id="layer1"
-       inkscape:label="places"
-       style="display:inline"
-       transform="translate(621.11803,-551.86754)" />
-    <g
-       id="layer14"
-       inkscape:label="mimetypes"
-       style="display:inline"
-       transform="translate(380.11783,65.13246)" />
-    <g
-       id="layer15"
-       inkscape:label="emblems"
-       style="display:inline"
-       transform="translate(380.11783,65.13246)" />
-    <g
-       id="g71291"
-       inkscape:label="emotes"
-       style="display:inline"
-       transform="translate(380.11783,65.13246)" />
-    <g
-       id="layer2"
-       inkscape:label="categories"
-       style="display:inline"
-       transform="translate(621.11803,-401.86754)" />
-    <g
-       id="g6058"
-       inkscape:label="apps"
-       style="display:inline"
-       transform="translate(621.11803,-401.86754)" />
-    <g
-       id="layer12-2"
-       inkscape:label="actions"
-       style="display:inline"
-       transform="translate(380.11783,65.13246)" />
-  </g>
+      }</style>
+ </defs>
+ <g id="layer12" transform="translate(-566 87.01)">
+  <path id="path4960" opacity=".72" style="color:#bebebe;enable-background:accumulate" d="m572-81.02v2h2v-2h-2zm5 0v2h2v-2h-2zm5 0v2h2v-2h-2zm-8 3v2h2v-2h-2zm6 0v2h2v-2h-2zm-8 3v6.0098c0 1 1 1 1 1h10s1 0 1-1v-2.9512-1.2988-1.7402h-2v2.9902 1.2988 0.69726h-8v-5.0059h-2zm8 0-3 3-1-1-1 1 1 1 1 1 4-4-1-1z" fill="#fff"/>
+ </g>
 </svg>

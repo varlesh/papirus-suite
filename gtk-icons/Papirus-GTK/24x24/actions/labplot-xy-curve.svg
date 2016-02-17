@@ -57,13 +57,13 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.2781691"
-     inkscape:cx="10.143364"
+     inkscape:cx="-9.7281798"
      inkscape:cy="-7.6240324"
      inkscape:document-units="px"
      inkscape:current-layer="g3845"
@@ -127,7 +127,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -140,7 +140,7 @@
        id="g3845"
        transform="translate(0,-0.53516)">
       <path
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.41041371;marker:none;enable-background:accumulate"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.41041371;marker:none;enable-background:accumulate"
          d="m 562.35266,748.43746 -0.0312,0.0566 c -0.0743,-0.0124 -0.14905,-0.0254 -0.22656,-0.0254 -0.8178,0 -1.52536,0.72322 -1.52344,1.52344 -9e-4,0.35866 0.14663,0.68804 0.37695,0.94726 l -3.12109,5.55469 c -0.0761,-0.0131 -0.15293,-0.0254 -0.23242,-0.0254 -0.0133,0 -0.0259,0.004 -0.0391,0.004 l -1.54297,-4.33398 c 0.3393,-0.27333 0.55969,-0.68755 0.55859,-1.14648 0.002,-0.80022 -0.65877,-1.52344 -1.47656,-1.52344 -0.8178,0 -1.52536,0.72322 -1.52344,1.52344 -1.5e-4,0.058 0.0105,0.11343 0.0176,0.16992 l -2.48047,1.24023 c -0.26449,-0.26356 -0.61952,-0.43359 -1.01367,-0.43359 -0.8178,0 -1.52536,0.72322 -1.52344,1.52344 -0.002,0.80023 0.70564,1.47656 1.52344,1.47656 0.81779,0 1.47848,-0.67633 1.47656,-1.47656 1.8e-4,-0.0735 -0.0109,-0.14508 -0.0215,-0.2168 l 2.48242,-1.24023 c 0.27487,0.26288 0.64648,0.42733 1.04687,0.43164 l 1.5625,4.36718 c -0.34226,0.2863 -0.57139,0.70736 -0.57031,1.15821 -0.002,0.80023 0.70564,1.47656 1.52344,1.47656 0.81779,0 1.47848,-0.67633 1.47656,-1.47656 9.2e-4,-0.36959 -0.14504,-0.7192 -0.37695,-0.99219 l 3.0957,-5.5 0.58984,4.16992 c -0.4729,0.26781 -0.80991,0.77345 -0.80859,1.32227 -0.002,0.80023 0.70564,1.47656 1.52344,1.47656 0.81779,0 1.47848,-0.67633 1.47656,-1.47656 0.002,-0.70802 -0.51564,-1.35238 -1.20117,-1.49219 l -0.59961,-4.20313 c 0.47546,-0.24905 0.80213,-0.74384 0.80078,-1.30468 0.002,-0.71067 -0.51962,-1.35764 -1.20898,-1.49414 l -0.01,-0.0606 z"
          id="path5273-9-0"
          inkscape:connector-curvature="0" />

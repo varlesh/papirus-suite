@@ -61,13 +61,13 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="27.85"
-     inkscape:cx="3.31459"
+     inkscape:cx="-2.5920527"
      inkscape:cy="10.043963"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -125,7 +125,7 @@
      id="layer1"
      transform="translate(-421.71429,-531.79074)">
     <path
-       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.33333504px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.5"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.33333504px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.5"
        d="M 4 1 L 1 4 L 9.0175781 4 L 12 1 L 4 1 z M 13.314453 2 L 2 13.294922 L 2.7148438 14 L 14 2.6972656 L 13.314453 2 z M 4 6 L 1 9 L 4 9 L 7.0175781 6 L 4 6 z M 13 6 L 10 9 L 12 9 L 15 6 L 13 6 z M 7 12 L 4 15 L 12 15 L 15 12 L 7 12 z "
        transform="translate(421.71429,531.79074)"
        id="path4149" />

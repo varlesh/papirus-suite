@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata57">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -117,9 +117,7 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1169.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1169.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
- <g id="g4434" transform="translate(0,1)">
-  <path id="rect4203" opacity=".8" fill="#fff" d="m40 42 2-38h-36l2 38c0.0582 1.1065 0.892 2 2 2h28c1.108 0 2-0.892 2-2z"/>
-  <path id="path4203" opacity=".1" fill="#fff" d="m6 3 0.0527 1h35.895l0.0527-1h-36z"/>
-  <path id="path4197" opacity=".3" d="m6 4 2 38c0.0582 1.1065 0.892 2 2 2h28c1.108 0 2-0.892 2-2l2-38h-0.053l-1.947 37c0 1.108-0.892 2-2 2h-28c-1.108 0-1.9418-0.894-2-2l-1.9473-37h-0.0527z"/>
- </g>
+ <path id="rect4203" opacity=".8" d="m40 43 2-38h-36l2 38c0.0582 1.1065 0.892 2 2 2h28c1.108 0 2-0.892 2-2z" fill="#ff7549"/>
+ <path id="path4203" opacity=".1" d="m6 5 0.0527 1h35.895l0.0527-1h-36z" fill="#fff"/>
+ <path id="path4197" opacity=".3" d="m6 5 2 38c0.0582 1.1065 0.892 2 2 2h28c1.108 0 2-0.892 2-2l2-38h-0.053l-1.947 37c0 1.108-0.892 2-2 2h-28c-1.108 0-1.9418-0.894-2-2l-1.9473-37h-0.0527z"/>
 </svg>

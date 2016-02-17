@@ -119,8 +119,8 @@
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
  <rect id="rect4203" ry="2" rx="2" transform="matrix(0,-1,-1,0,0,0)" height="40" width="40" y="-44" x="-44" fill="#29aae2"/>
  <rect id="rect3303" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="34" width="34" y="-41" x="-41" fill="#fff"/>
- <path id="rect4481" opacity=".2" fill="#fff" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+ <path id="rect4481" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
  <path id="rect4104" opacity=".3" d="m4 41v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
- <path id="rect4464" fill="#424242" d="m10 10v28h12v-6h-6v-16h6v-6h-6z"/>
- <path id="path4473" fill="#424242" d="m38 10v28h-12v-6h6v-16h-6v-6h6z"/>
+ <path id="rect4464" d="m10 10v28h12v-6h-6v-16h6v-6h-6z" fill="#424242"/>
+ <path id="path4473" d="m38 10v28h-12v-6h6v-16h-6v-6h6z" fill="#424242"/>
 </svg>

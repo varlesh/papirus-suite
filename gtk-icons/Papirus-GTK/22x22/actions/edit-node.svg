@@ -60,13 +60,13 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="30.05"
-     inkscape:cx="3.5354214"
+     inkscape:cx="-1.9387883"
      inkscape:cy="9.1525941"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -113,7 +113,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -123,7 +123,7 @@
      id="layer1"
      transform="translate(-421.71429,-525.79074)">
     <path
-       style="display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+       style="display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
        d="m 428.21429,529.79073 a 2.5,2.5 0 0 0 -2.5,2.5 2.5,2.5 0 0 0 2,2.44922 l 0,0.0508 0,4 -2,0 0,5 5,0 0,-5 -2,0 0,-4 0,-0.0547 a 2.5,2.5 0 0 0 1.94922,-1.94531 l 0.0508,0 4,0 0,2 5,0 0,-5 -5,0 0,2 -4,0 -0.0547,0 a 2.5,2.5 0 0 0 -2.44531,-2 z m 4.5,6 0,6.125 1.26953,-0.625 1.53125,1.5 -0.16016,-2.09961 1.35938,-0.52539 -4,-4.375 z"
        id="rect4874"
        inkscape:connector-curvature="0" />

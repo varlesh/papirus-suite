@@ -117,16 +117,16 @@
  <text id="text4087-2-6-5-5-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1169.0076" x="1652.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53" y="-1169.0076" x="1652.1285"/></text>
  <text id="text4087-2-6-5-54" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1176.2175" x="160.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0" y="-1176.2175" x="160.66542"/></text>
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1449.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1449.4517" x="1621.2083"/></text>
- <path id="rect4203" fill="#ebebeb" d="m23.979 3.9797v40h14.021c1.108 0 2-0.892 2-2v-36c0-1.108-0.892-2-2-2h-14.021z"/>
+ <path id="rect4203" d="m23.979 3.9797v40h14.021c1.108 0 2-0.892 2-2v-36c0-1.108-0.892-2-2-2h-14.021z" fill="#ebebeb"/>
  <path id="path4448" opacity=".3" d="m40 41c0 1.1153-0.892 2.0131-2 2.0131h-14v0.987h14c1.108 0 2-0.89784 2-2.0131v-0.987z"/>
  <path id="path4682" opacity=".1" d="m38 3.9797c1.108 0 2 0.892 2 2v36c0 1.108-0.892 2-2 2h-14v-40z"/>
- <path id="path3314" fill="#ebebeb" d="m23.979 3.9797v40l12 2c1.0929 0.18215 2-0.892 2-2v-40c0-1.108-0.90708-2.1822-2-2z"/>
- <path id="path3323" opacity=".1" fill="#fff" d="m24 3.9998v39.962l12 1.9981c1.0929 0.18198 2-0.89114 2-1.9981v-39.962c0-1.1072-0.909-2.189-2-1.9983z"/>
- <path id="path8375" fill="#d8d8d8" d="m10.002 3.9797c-1.1095 0-2.0026 0.892-2.0026 2v36c0 1.108 0.89317 2 2.0026 2h13.997v-40z"/>
- <path id="path4672" opacity=".2" fill="#fff" d="m36 1.9999-12 1.9865v0.9933l12-1.9866c1.0929-0.18093 2 0.886 2 1.9866v-0.9933c0-1.1005-0.907-2.1675-2-1.9865z"/>
- <path id="path4679" opacity=".2" fill="#fff" d="m10.002 3.9797c-1.1095 0-2.0026 0.892-2.0026 2v1c0-1.108 0.89317-2 2.0026-2h13.997v-1z"/>
- <path id="path5078-2" style="enable-background:new" fill="#c2352a" d="m20.017 3c-0.99577 0-0.99577 1-0.99577 1v16.5l2.4894-1.5 2.4894 1.5v-16.5c0-1-0.99577-1-0.99577-1z"/>
- <path id="path4447" opacity=".2" style="enable-background:new" fill="#fff" d="m20 3c-1 0-1 1-1 1v1s0-1 1-1h3s1 0 1 1v-1c0-1-1-1-1-1h-3z"/>
+ <path id="path3314" d="m23.979 3.9797v40l12 2c1.0929 0.18215 2-0.892 2-2v-40c0-1.108-0.90708-2.1822-2-2z" fill="#ebebeb"/>
+ <path id="path3323" opacity=".1" d="m24 3.9998v39.962l12 1.9981c1.0929 0.18198 2-0.89114 2-1.9981v-39.962c0-1.1072-0.909-2.189-2-1.9983z" fill="#fff"/>
+ <path id="path8375" d="m10.002 3.9797c-1.1095 0-2.0026 0.892-2.0026 2v36c0 1.108 0.89317 2 2.0026 2h13.997v-40z" fill="#d8d8d8"/>
+ <path id="path4672" opacity=".2" d="m36 1.9999-12 1.9865v0.9933l12-1.9866c1.0929-0.18093 2 0.886 2 1.9866v-0.9933c0-1.1005-0.907-2.1675-2-1.9865z" fill="#fff"/>
+ <path id="path4679" opacity=".2" d="m10.002 3.9797c-1.1095 0-2.0026 0.892-2.0026 2v1c0-1.108 0.89317-2 2.0026-2h13.997v-1z" fill="#fff"/>
+ <path id="path5078-2" d="m20.017 3c-0.99577 0-0.99577 1-0.99577 1v16.5l2.4894-1.5 2.4894 1.5v-16.5c0-1-0.99577-1-0.99577-1z" style="enable-background:new" fill="#c2352a"/>
+ <path id="path4447" opacity=".2" d="m20 3c-1 0-1 1-1 1v1s0-1 1-1h3s1 0 1 1v-1c0-1-1-1-1-1h-3z" style="enable-background:new" fill="#fff"/>
  <path id="path4437" opacity=".3" d="m8 41v0.98689c0 1.115 0.8925 2.013 2.002 2.013h13.998v-0.98689h-13.998c-1.1095 0-2.002-0.898-2.002-2.013z"/>
  <path id="path4442" opacity=".3" d="m24 42.982v0.979l12 1.998c1.093 0.182 2-0.891 2-1.998v-0.979c0 1.107-0.907 2.18-2 1.998l-12-1.998z"/>
  <path id="path4453" opacity=".3" style="enable-background:new" d="m21.5 18l-2.5 1.5v1l2.5-1.5 2.5 1.5v-1l-2.5-1.5z"/>

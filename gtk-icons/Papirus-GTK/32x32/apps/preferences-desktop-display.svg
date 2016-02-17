@@ -11,7 +11,7 @@
   </rdf:RDF>
  </metadata>
  <defs id="defs2819">
-  <linearGradient id="linearGradient4423" x1="143" gradientUnits="userSpaceOnUse" y1="203" gradientTransform="matrix(0 -.7 .7 0 -115.6 114.9)" x2="127" y2="203">
+  <linearGradient id="linearGradient4423" y2="203" gradientUnits="userSpaceOnUse" x2="127" gradientTransform="matrix(0 -.7 .7 0 -115.6 114.9)" y1="203" x1="143">
    <stop id="stop4271" stop-color="#fff" offset="0"/>
    <stop id="stop4273" stop-color="#fff" stop-opacity="0" offset="1"/>
   </linearGradient>
@@ -660,9 +660,9 @@
  <text id="text4087-2-6-5-4-1-7" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1453.2582" x="1555.8142" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-9" y="-1453.2582" x="1555.8142"/></text>
  <rect id="rect4255" ry="1.5" rx="1.5" transform="matrix(0,-1,-1,0,0,0)" height="28" width="22" y="-30" x="-26" fill="#5f7c8a"/>
  <rect id="rect4419" transform="matrix(0,-1,-1,0,0,0)" rx="0" ry="0" height="24" width="18" y="-28" x="-24" fill="#7f96a1"/>
- <path id="path4421" opacity=".1" fill="url(#linearGradient4423)" d="m2 24.5c0 1.5 1.5 1.5 1.5 1.5h25c1.5 0 1.5-1.5 1.5-1.5v-9.5h-28z"/>
- <path id="rect4425" opacity=".1" fill="#fff" d="m3.5 4c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
+ <path id="path4421" opacity=".1" d="m2 24.5c0 1.5 1.5 1.5 1.5 1.5h25c1.5 0 1.5-1.5 1.5-1.5v-9.5h-28z" fill="url(#linearGradient4423)"/>
+ <path id="rect4425" opacity=".1" d="m3.5 4c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z" fill="#fff"/>
  <path id="rect4430" opacity=".3" d="m2 23.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
- <path id="rect4225" style="enable-background:new" fill="#ebebeb" d="m9 15v12.095c0 0.501 0.4063 0.905 0.911 0.905h15.089zm2.7331 5.7432 5.5943 4.5408h-5.5943z"/>
+ <path id="rect4225" d="m9 15v12.095c0 0.501 0.4063 0.905 0.911 0.905h15.089zm2.7331 5.7432 5.5943 4.5408h-5.5943z" style="enable-background:new" fill="#ebebeb"/>
  <path id="path6149" opacity=".3" style="enable-background:new" d="m11.732 19.744v1l4.3633 3.5391h1.2324l-5.5957-4.5391zm-2.732 6.35v1c0 0.501 0.4054 0.906 0.9102 0.906h15.09l-1.23-1h-13.86c-0.5046 0-0.91-0.405-0.91-0.906z"/>
 </svg>

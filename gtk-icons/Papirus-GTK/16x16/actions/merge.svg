@@ -60,13 +60,13 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="17.2614"
-     inkscape:cx="-2.8666447"
+     inkscape:cx="-12.396579"
      inkscape:cy="4.3322519"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -128,7 +128,7 @@
        id="layer1-0"
        inkscape:label="Capa 1" />
     <path
-       style="opacity:0.5;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 422.71429,532.79074 a 1.0001,1.0001 0 0 0 -1,1 l 0,4 a 1.0001,1.0001 0 0 0 1,1 l 5,0 0,2 -5,0 a 1.0001,1.0001 0 0 0 -1,1 l 0,4 a 1.0001,1.0001 0 0 0 1,1 l 7,0 a 1.0001,1.0001 0 0 0 1,-1 l 0,-3 5,0 a 1.0001,1.0001 0 0 0 1,-1 l 0,-4 a 1.0001,1.0001 0 0 0 -1,-1 l -5,0 0,-3 a 1.0001,1.0001 0 0 0 -1,-1 l -7,0 z"
        id="path4147"
        inkscape:connector-curvature="0" />

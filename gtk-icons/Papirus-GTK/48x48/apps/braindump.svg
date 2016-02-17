@@ -1,94 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2817"
-   height="48"
-   width="48"
-   version="1.0"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="braindump.svg">
-  <defs
-     id="defs15" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="847"
-     id="namedview13"
-     showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="22.944101"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2817" />
-  <metadata
-     id="metadata57">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     inkscape:connector-curvature="0"
-     id="path4161"
-     style="color:#000000;fill:#f5ab35;fill-opacity:1"
-     d="m 24,4 c -7.18,0 -13,5.8203 -13,13 -0.027,3.893 3.418,7.296 5,11 0.705,1.651 2,5 2,5 l 12,0 c 0,0 1.295,-3.349 2,-5 1.582,-3.704 4.931,-7.15 5,-11 C 37,9.8203 31.18,4 24,4 Z" />
-  <path
-     style="fill:#434343"
-     inkscape:connector-curvature="0"
-     id="rect4143"
-     d="m 30,33 -2,9 c -0.24036,1.0816 -0.892,2 -2,2 l -4,0 c -1.108,0 -1.7678,-0.91659 -2,-2 l -2,-9 z" />
-  <path
-     style="opacity:0.2;fill:#ffffff"
-     inkscape:connector-curvature="0"
-     id="rect4151"
-     d="m 18,33 0.445,2 11.11,0 L 30,33 18,33 Z m 0.889,4 0.445,2 9.332,0 0.445,-2 -10.222,0 z m 0.888,4 0.223,1 c 0.078,0.363 0.208,0.703 0.383,1 l 7.23,0 C 27.788,42.703 27.919,42.363 28,42 l 0.223,-1 -8.446,0 z" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path4168"
-     style="color:#000000;opacity:0.2;fill:#ffffff"
-     d="m 24,4 c -7.18,0 -13,5.8203 -13,13 -10e-4,0.171 0.014,0.339 0.025,0.508 C 11.286,10.558 16.986,5 24,5 30.982,5 36.662,10.508 36.971,17.414 36.982,17.276 36.998,17.139 37,17 37,9.8203 31.18,4 24,4 Z" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path4173"
-     style="color:#000000;opacity:0.3"
-     d="M 36.971,16.414 C 36.682,20.098 33.525,23.43 32,27 c -0.705,1.651 -2,5 -2,5 L 18,32 C 18,32 16.705,28.651 16,27 14.488,23.458 11.281,20.191 11.025,16.508 11.019,16.672 11,16.834 11,17 c -0.027,3.893 3.418,7.296 5,11 0.705,1.651 2,5 2,5 l 12,0 c 0,0 1.295,-3.349 2,-5 1.582,-3.704 4.931,-7.15 5,-11 0,-0.198 -0.021,-0.39 -0.029,-0.586 z" />
-  <path
-     style="opacity:0.3"
-     inkscape:connector-curvature="0"
-     id="path4178"
-     d="m 18,33 2,9 c 0.232,1.083 0.892,2 2,2 l 4,0 c 1.108,0 1.76,-0.918 2,-2 L 30,33 29.777,33 28,41 c -0.24,1.082 -0.892,2 -2,2 l -4,0 c -1.108,0 -1.768,-0.917 -2,-2 L 18.223,33 18,33 Z" />
-  <path
-     sodipodi:nodetypes="ccccccc"
-     inkscape:connector-curvature="0"
-     style="display:inline;opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 25,11 -6,9.000071 4,-1.43e-4 L 23,27 l 6,-9 -4,0 z"
-     id="path4149" />
-  <path
-     id="path4324-1"
-     d="m 25,10 -6,9.000071 4,-1.43e-4 L 23,26 l 6,-9 -4,0 z"
-     style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccc" />
+<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata57">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="path4161" style="color:#000000" d="m24 4c-7.18 0-13 5.8203-13 13-0.027 3.893 3.418 7.296 5 11 0.705 1.651 2 5 2 5h12s1.295-3.349 2-5c1.582-3.704 4.931-7.15 5-11 0-7.1797-5.82-13-13-13z" fill="#f5ab35"/>
+ <path id="rect4143" d="m30 33-2 9c-0.24036 1.0816-0.892 2-2 2h-4c-1.108 0-1.7678-0.91659-2-2l-2-9z" fill="#434343"/>
+ <path id="rect4151" opacity=".2" d="m18 33 0.445 2h11.11l0.445-2h-12zm0.889 4 0.445 2h9.332l0.445-2h-10.222zm0.888 4 0.223 1c0.078 0.363 0.208 0.703 0.383 1h7.23c0.175-0.297 0.306-0.637 0.387-1l0.223-1h-8.446z" fill="#fff"/>
+ <path id="path4168" opacity=".2" style="color:#000000" d="m24 4c-7.18 0-13 5.8203-13 13-0.001 0.171 0.014 0.339 0.025 0.508 0.261-6.95 5.961-12.508 12.975-12.508 6.982 0 12.662 5.508 12.971 12.414 0.011-0.138 0.027-0.275 0.029-0.414 0-7.1797-5.82-13-13-13z" fill="#fff"/>
+ <path id="path4173" opacity=".3" d="m36.971 16.414c-0.289 3.684-3.446 7.016-4.971 10.586-0.705 1.651-2 5-2 5h-12s-1.295-3.349-2-5c-1.512-3.542-4.719-6.809-4.975-10.492-0.006 0.164-0.025 0.326-0.025 0.492-0.027 3.893 3.418 7.296 5 11 0.705 1.651 2 5 2 5h12s1.295-3.349 2-5c1.582-3.704 4.931-7.15 5-11 0-0.198-0.021-0.39-0.029-0.586z" style="color:#000000"/>
+ <path id="path4178" opacity=".3" d="m18 33 2 9c0.232 1.083 0.892 2 2 2h4c1.108 0 1.76-0.918 2-2l2-9h-0.223l-1.777 8c-0.24 1.082-0.892 2-2 2h-4c-1.108 0-1.768-0.917-2-2l-1.777-8h-0.223z"/>
+ <path id="path4149" opacity=".2" d="m25 11-6 9.0001 4-0.000143v7l6-9h-4z" fill-rule="evenodd"/>
+ <path id="path4324-1" d="m25 10-6 9.0001 4-0.000143v7l6-9h-4z" fill-rule="evenodd" fill="#fff"/>
 </svg>

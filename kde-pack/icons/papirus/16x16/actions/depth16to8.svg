@@ -57,13 +57,13 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.42"
-     inkscape:cx="2.597857"
+     inkscape:cx="-11.806696"
      inkscape:cy="7.2515319"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -128,7 +128,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -138,7 +138,7 @@
      id="layer1"
      transform="translate(-544.57141,-748.93359)">
     <path
-       style="opacity:0.5;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 545.57141,749.66406 0,1 1,0 0,6 1,0 0,-7 -1,0 -1,0 z m 5,0 a 2,1.999998 0 0 0 -2,2 l 0,3 a 2,1.999998 0 0 0 2,2 2,1.999998 0 0 0 2,-2 2,1.999998 0 0 0 -2,-2 2,1.999998 0 0 0 -1,0.26953 l 0,-1.26953 a 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 l 1,0 a 2,1.999998 0 0 0 -2,-2 z m 2,0.26953 0,1 a 7,7 0 0 1 6.30859,4 l -3.60937,0 0,1 4,0 1,0 0,-0.11328 0,-0.88672 0,-4 -1,0 0,2.65625 a 7.9999981,8.000001 0 0 0 -6.69922,-3.65625 z m -2,3.73047 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z m 8,3.26953 a 2,2 0 0 0 -2,2 2,2 0 0 0 0.67969,1.5 2,2 0 0 0 -0.67969,1.5 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -0.67969,-1.5 2,2 0 0 0 0.67969,-1.5 2,2 0 0 0 -2,-2 z m -13,1 0,0.11329 0,0.88671 0,4 1,0 0,-2.65625 a 7.9999981,8.000001 0 0 0 6.69922,3.65625 l 0,-1 a 7,7 0 0 1 -6.30859,-4 l 3.60937,0 0,-1 -4.00195,0 -0.99805,0 z m 13,0 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z m 0,3 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z"
        id="path4216"
        inkscape:connector-curvature="0" />

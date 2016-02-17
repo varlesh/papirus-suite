@@ -1,86 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   viewBox="0 0 48 48.000001"
-   id="svg4222"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="user-desktop.svg">
-  <defs
-     id="defs4224" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="26.362716"
-     inkscape:cy="8.3535318"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="px"
-     inkscape:window-width="1600"
-     inkscape:window-height="846"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata4227">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1004.3622)">
-    <path
-       style="fill:#4ab3e4;fill-opacity:1;stroke:none"
-       d="m 4,1014.3622 0,30 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,-30 z"
-       id="rect4203"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csssscc" />
-    <path
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="m 6,1010.3622 c -1.108,0 -2,0.892 -2,2 l 0,2 40,0 0,-2 c 0,-1.108 -0.892,-2 -2,-2 z"
-       id="rect3328"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssccsss" />
-    <path
-       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 6,1010.3622 c -1.108,0 -2,0.892 -2,2 l 0,1 c 0,-1.108 0.892,-2 2,-2 l 36,0 c 1.108,0 2,0.892 2,2 l 0,-1 c 0,-1.108 -0.892,-2 -2,-2 z"
-       id="path3345"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sscsscsss" />
-    <path
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 16 38 C 14.892 38 14 38.892 14 40 L 14 42 L 34 42 L 34 40 C 34 38.892 33.108 38 32 38 L 16 38 z "
-       transform="translate(0,1004.3622)"
-       id="rect4155" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.3"
-       d="M 4 39 L 4 40 C 4 41.108 4.892 42 6 42 L 42 42 C 43.108 42 44 41.108 44 40 L 44 39 C 44 40.108 43.108 41 42 41 L 6 41 C 4.892 41 4 40.108 4 39 z "
-       transform="translate(0,1004.3622)"
-       id="path4148" />
-  </g>
+<svg id="svg4222" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 48 48.000001">
+ <metadata id="metadata4227">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -1004.4)">
+  <path id="rect4203" d="m4 1014.4v30c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-30z" fill="#4ab3e4"/>
+  <path id="rect3328" d="m6 1010.4c-1.108 0-2 0.892-2 2v2h40v-2c0-1.108-0.892-2-2-2z" fill="#4d4d4d"/>
+  <path id="path3345" opacity=".1" d="m6 1010.4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z" fill="#fff"/>
+  <path id="rect4155" d="m16 38c-1.108 0-2 0.892-2 2v2h20v-2c0-1.108-0.892-2-2-2h-16z" transform="translate(0 1004.4)" fill="#4d4d4d"/>
+  <path id="path4148" opacity=".3" d="m4 39v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z" transform="translate(0 1004.4)"/>
+ </g>
 </svg>

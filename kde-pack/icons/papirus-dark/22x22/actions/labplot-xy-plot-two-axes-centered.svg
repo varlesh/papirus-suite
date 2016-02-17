@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   id="svg3760"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="labplot-xy-plot-two-axes-centered.svg">
-  <defs
-     id="defs3762">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
+<svg id="svg3760" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs3762">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-Background {
@@ -52,94 +34,18 @@
       }
       .ColorScheme-ButtonFocus{
         color:#3daee9;
-      }
-      </style>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="3.9172464"
-     inkscape:cy="12.695185"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1600"
-     inkscape:window-height="847"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1"
-     inkscape:showpageshadow="false"
-     showguides="false"
-     inkscape:snap-bbox="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4106"
-       originx="-0.99998557px"
-       originy="-1.0000252px" />
-    <sodipodi:guide
-       position="2.00001,19.99997"
-       orientation="0,18"
-       id="guide4229" />
-    <sodipodi:guide
-       position="20.00001,19.99997"
-       orientation="18,0"
-       id="guide4231" />
-    <sodipodi:guide
-       position="20.00001,1.99997"
-       orientation="0,-18"
-       id="guide4233" />
-    <sodipodi:guide
-       position="2.00001,1.99997"
-       orientation="-18,0"
-       id="guide4235" />
-    <sodipodi:guide
-       position="3.00001,18.99997"
-       orientation="0,16"
-       id="guide4237" />
-    <sodipodi:guide
-       position="19.00001,18.99997"
-       orientation="16,0"
-       id="guide4239" />
-    <sodipodi:guide
-       position="19.00001,2.99997"
-       orientation="0,-16"
-       id="guide4241" />
-    <sodipodi:guide
-       position="3.00001,2.99997"
-       orientation="-16,0"
-       id="guide4243" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata3765">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-551.28571,-607.64788)">
-    <path
-       style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
-       d="M 18 3 L 18 5.40625 L 14 9.078125 L 14 10 L 14 11 L 11 11 L 11 4 L 10 4 L 10 11 L 3 11 L 3 12 L 10 12 L 10 15.242188 L 7 17.996094 L 7 18 L 3 18 L 3 19 L 7 19 L 7.3847656 19 L 10 16.599609 L 10 19 L 11 19 L 11 15.681641 L 15 12.009766 L 15 12 L 18 12 L 18 11 L 15 11 L 15 9.5175781 L 19 5.8457031 L 19 5 L 19 3 L 18 3 z M 11 12 L 13.53125 12 L 11 14.324219 L 11 12 z "
-       transform="translate(551.28571,607.64788)"
-       id="rect3343"
-       class="ColorScheme-Text" />
-  </g>
+      }</style>
+ </defs>
+ <metadata id="metadata3765">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-551.29 -607.65)">
+  <path id="rect3343" opacity=".72" d="m18 3v2.4062l-4 3.6719v0.9219 1h-3v-7h-1v7h-7v1h7v3.242l-3 2.754v0.004h-4v1h4 0.3848l2.6152-2.4v2.4h1v-3.318l4-3.672v-0.01h3v-1h-3v-1.4824l4-3.6719v-0.8457-2h-1zm-7 9h2.531l-2.531 2.324v-2.324z" transform="translate(551.29 607.65)" class="ColorScheme-Text" fill="#fff"/>
+ </g>
 </svg>

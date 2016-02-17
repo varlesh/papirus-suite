@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   viewBox="0 0 16 16"
-   sodipodi:docname="kstars_deepsky.svg">
-  <defs
-     id="defs4">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-Background {
@@ -53,184 +34,18 @@
       }
       .ColorScheme-ButtonFocus{
         color:#3daee9;
-      }
-      </style>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3979">
-      <rect
-         style="fill:#ffffff"
-         id="rect3981"
-         width="64"
-         height="64"
-         x="0.090115756"
-         y="-0.090114839"
-         clip-path="none" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3975">
-      <rect
-         style="fill:#ffffff"
-         id="rect3977"
-         width="64"
-         height="64"
-         x="0.090115756"
-         y="-0.090114839"
-         clip-path="none" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3971">
-      <rect
-         style="fill:#ffffff"
-         id="rect3973"
-         width="64"
-         height="64"
-         x="0.090115756"
-         y="-0.090114839"
-         clip-path="none" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3967">
-      <rect
-         style="fill:#ffffff"
-         id="rect3969"
-         width="64"
-         height="64"
-         x="0.090115756"
-         y="-0.090114839"
-         clip-path="none" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3963">
-      <rect
-         style="fill:#ffffff"
-         id="rect3965"
-         width="64"
-         height="64"
-         x="0.090115756"
-         y="-0.090114839"
-         clip-path="none" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3959">
-      <rect
-         style="fill:#ffffff"
-         id="rect3961"
-         width="64"
-         height="64"
-         x="0.090115756"
-         y="-0.090114839"
-         clip-path="none" />
-    </clipPath>
-    <linearGradient
-       id="linearGradient3764">
-      <stop
-         style="stop-color:#ffffb7;stop-opacity:1;"
-         offset="0"
-         id="stop3766" />
-      <stop
-         id="stop3772"
-         offset="0.5"
-         style="stop-color:#f4e55b;stop-opacity:1;" />
-      <stop
-         style="stop-color:#ea9a00;stop-opacity:1;"
-         offset="1"
-         id="stop3768" />
-    </linearGradient>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="15.968669"
-     inkscape:cx="-3.5850011"
-     inkscape:cy="7.0180313"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:showpageshadow="false"
-     units="px"
-     inkscape:window-width="1600"
-     inkscape:window-height="847"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1"
-     inkscape:object-nodes="true"
-     inkscape:snap-bbox="true"
-     showguides="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4120" />
-    <sodipodi:guide
-       position="2,20.000017"
-       orientation="18,0"
-       id="guide4126" />
-    <sodipodi:guide
-       position="2,2.0000174"
-       orientation="0,18"
-       id="guide4128" />
-    <sodipodi:guide
-       position="20,2.0000174"
-       orientation="-18,0"
-       id="guide4130" />
-    <sodipodi:guide
-       position="20,20.000017"
-       orientation="0,-18"
-       id="guide4132" />
-    <sodipodi:guide
-       position="3,19.000017"
-       orientation="16,0"
-       id="guide4134" />
-    <sodipodi:guide
-       position="3,3.0000174"
-       orientation="0,16"
-       id="guide4136" />
-    <sodipodi:guide
-       position="19,3.0000174"
-       orientation="-16,0"
-       id="guide4138" />
-    <sodipodi:guide
-       position="19,19.000017"
-       orientation="0,-16"
-       id="guide4140" />
-    <sodipodi:guide
-       position="19,13.000017"
-       orientation="-6,0"
-       id="guide4199" />
-    <sodipodi:guide
-       position="19,19.000017"
-       orientation="0,-6.0000172"
-       id="guide4201" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1036.3622)">
-    <path
-       style="opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 6.5,1036.3622 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m 3,0 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m -5,1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m 7,0 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m -9,1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m 11,0 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m -12,2 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m 13,0 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m -14,2 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m 15,0 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m -15,3 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m 15,0 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m -14,2 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m 13,0 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m -12,2 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m 11,0 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m -9,1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m 7,0 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m -5,1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z m 3,0 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z"
-       id="path4176-90"
-       inkscape:connector-curvature="0" />
-  </g>
+      }</style>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -1036.4)">
+  <path id="path4176-90" opacity=".72" d="m6.5 1036.4a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm3 0a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm-5 1a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm7 0a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm-9 1a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm11 0a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm-12 2a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm13 0a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm-14 2a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm15 0a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm-15 3a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm15 0a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm-14 2a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm13 0a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm-12 2a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm11 0a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm-9 1a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm7 0a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm-5 1a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5zm3 0a0.5 0.5 0 0 0 -0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5 -0.5 0.5 0.5 0 0 0 -0.5 -0.5z" fill="#fff"/>
+ </g>
 </svg>

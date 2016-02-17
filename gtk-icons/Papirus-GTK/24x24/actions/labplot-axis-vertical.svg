@@ -57,13 +57,13 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="25.27888"
-     inkscape:cx="1.7161251"
+     inkscape:cx="-4.7912835"
      inkscape:cy="13.060423"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -125,7 +125,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,7 +135,7 @@
      id="layer1"
      transform="translate(-551.28571,-605.64788)">
     <path
-       style="opacity:0.5;fill:currentColor;fill-opacity:1;stroke:none"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
        d="m 556.28571,609.64788 0,14 -1,0 0,1 1,0 0,1 1,0 0,-1 14,0 0,-1 -14,0 0,-3.66602 2,0 0,-1 -2,0 0,-8.33398 2,0 0,-1 -2,0 -1,0 z m 1.00781,4.66602 0,1 2,0 0,-1 -2,0 z"
        id="rect3012"
        inkscape:connector-curvature="0" />

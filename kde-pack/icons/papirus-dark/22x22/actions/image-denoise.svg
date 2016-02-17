@@ -1,245 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="image-denoise.svg"
-   inkscape:export-filename="/home/sam/source-symbolic.png"
-   inkscape:export-xdpi="270"
-   inkscape:export-ydpi="270"
-   height="22"
-   id="svg7384"
-   style="enable-background:new"
-   version="1.1"
-   inkscape:version="0.91 r"
-   width="22">
-  <sodipodi:namedview
-     inkscape:bbox-nodes="true"
-     inkscape:bbox-paths="false"
-     bordercolor="#666666"
-     borderlayer="false"
-     borderopacity="1"
-     inkscape:current-layer="layer12"
-     inkscape:cx="-211.13527"
-     inkscape:cy="-0.05323"
-     gridtolerance="10"
-     inkscape:guide-bbox="true"
-     guidetolerance="10"
-     id="namedview88"
-     inkscape:object-nodes="true"
-     inkscape:object-paths="true"
-     objecttolerance="10"
-     pagecolor="#f7f7f7"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     showborder="true"
-     showgrid="false"
-     showguides="true"
-     inkscape:showpageshadow="false"
-     inkscape:snap-bbox="true"
-     inkscape:snap-bbox-edge-midpoints="false"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-center="false"
-     inkscape:snap-global="true"
-     inkscape:snap-grids="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-nodes="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-others="true"
-     inkscape:snap-page="false"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-to-guides="true"
-     inkscape:window-height="849"
-     inkscape:window-maximized="1"
-     inkscape:window-width="1600"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
-     inkscape:zoom="1">
-    <inkscape:grid
-       color="#ffffff"
-       dotted="false"
-       empcolor="#0800ff"
-       empopacity="0.4627451"
-       empspacing="4"
-       enabled="true"
-       id="grid4866"
-       opacity="0.16470588"
-       originx="-204"
-       originy="-136"
-       snapvisiblegridlinesonly="true"
-       spacingx="0.25px"
-       spacingy="0.25px"
-       type="xygrid"
-       visible="true" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title8473">Paper Symbolic Icon Theme</title>
-  <defs
-     id="defs7386">
-    <linearGradient
-       id="linearGradient5606"
-       osb:paint="solid">
-      <stop
-         id="stop5608"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-    </linearGradient>
-  </defs>
-  <g
-     inkscape:groupmode="layer"
-     id="layer12"
-     inkscape:label="actions"
-     style="display:inline"
-     transform="translate(-445.0002,-81)">
-    <g
-       id="g4155"
-       transform="translate(2.9999864,3)">
-      <rect
-         y="82"
-         x="446.00021"
-         width="2"
-         style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-         id="rect44755"
-         height="2" />
-      <rect
-         y="82"
-         x="448.00021"
-         width="2"
-         style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-         id="rect44757"
-         height="2" />
-      <rect
-         y="82"
-         x="450.00021"
-         width="2"
-         style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-         id="rect44759"
-         height="2" />
-      <rect
-         y="84"
-         x="450.00021"
-         width="2"
-         style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-         id="rect44761"
-         height="2" />
-      <rect
-         y="86"
-         x="448.00021"
-         width="2"
-         style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-         id="rect44763"
-         height="2" />
-      <rect
-         y="88"
-         x="446.00021"
-         width="2"
-         style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-         id="rect44765"
-         height="2" />
-      <rect
-         y="90"
-         x="448.00021"
-         width="2"
-         style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-         id="rect44767"
-         height="2" />
-      <rect
-         y="88"
-         x="450.00021"
-         width="2"
-         style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-         id="rect44769"
-         height="2" />
-      <rect
-         y="86"
-         x="452.00021"
-         width="2"
-         style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-         id="rect44771"
-         height="2" />
-      <rect
-         y="86"
-         x="454.00021"
-         width="2"
-         style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-         id="rect44773"
-         height="2" />
-      <rect
-         y="82"
-         x="454.00021"
-         width="2"
-         style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-         id="rect44775"
-         height="2" />
-      <rect
-         y="84"
-         x="456.00021"
-         width="2"
-         style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-         id="rect44777"
-         height="2" />
-      <rect
-         y="90"
-         x="456.00021"
-         width="2"
-         style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-         id="rect44779"
-         height="2" />
-      <rect
-         y="92"
-         x="452.00021"
-         width="2"
-         style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-         id="rect44781"
-         height="2" />
-      <rect
-         y="94"
-         x="454.00021"
-         width="2"
-         style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-         id="rect44783"
-         height="2" />
-      <rect
-         y="94"
-         x="448.00021"
-         width="2"
-         style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-         id="rect44785"
-         height="2" />
-      <rect
-         y="92"
-         x="458.00021"
-         width="2"
-         style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-         id="rect44787"
-         height="2" />
-      <rect
-         y="94"
-         x="458.00021"
-         width="2"
-         style="color:#ffffff;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-         id="rect44789"
-         height="2" />
-    </g>
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <g id="layer12" transform="translate(-445 -81)">
+  <g id="g4155" transform="translate(3 3)" fill="#fff">
+   <rect id="rect44755" opacity=".72" style="color:#ffffff;enable-background:new" height="2" width="2" y="82" x="446"/>
+   <rect id="rect44757" opacity=".72" style="color:#ffffff;enable-background:new" height="2" width="2" y="82" x="448"/>
+   <rect id="rect44759" opacity=".72" style="color:#ffffff;enable-background:new" height="2" width="2" y="82" x="450"/>
+   <rect id="rect44761" opacity=".72" style="color:#ffffff;enable-background:new" height="2" width="2" y="84" x="450"/>
+   <rect id="rect44763" opacity=".72" style="color:#ffffff;enable-background:new" height="2" width="2" y="86" x="448"/>
+   <rect id="rect44765" opacity=".72" style="color:#ffffff;enable-background:new" height="2" width="2" y="88" x="446"/>
+   <rect id="rect44767" opacity=".72" style="color:#ffffff;enable-background:new" height="2" width="2" y="90" x="448"/>
+   <rect id="rect44769" opacity=".72" style="color:#ffffff;enable-background:new" height="2" width="2" y="88" x="450"/>
+   <rect id="rect44771" opacity=".72" style="color:#ffffff;enable-background:new" height="2" width="2" y="86" x="452"/>
+   <rect id="rect44773" opacity=".72" style="color:#ffffff;enable-background:new" height="2" width="2" y="86" x="454"/>
+   <rect id="rect44775" opacity=".72" style="color:#ffffff;enable-background:new" height="2" width="2" y="82" x="454"/>
+   <rect id="rect44777" opacity=".72" style="color:#ffffff;enable-background:new" height="2" width="2" y="84" x="456"/>
+   <rect id="rect44779" opacity=".72" style="color:#ffffff;enable-background:new" height="2" width="2" y="90" x="456"/>
+   <rect id="rect44781" opacity=".72" style="color:#ffffff;enable-background:new" height="2" width="2" y="92" x="452"/>
+   <rect id="rect44783" opacity=".72" style="color:#ffffff;enable-background:new" height="2" width="2" y="94" x="454"/>
+   <rect id="rect44785" opacity=".72" style="color:#ffffff;enable-background:new" height="2" width="2" y="94" x="448"/>
+   <rect id="rect44787" opacity=".72" style="color:#ffffff;enable-background:new" height="2" width="2" y="92" x="458"/>
+   <rect id="rect44789" opacity=".72" style="color:#ffffff;enable-background:new" height="2" width="2" y="94" x="458"/>
   </g>
+ </g>
 </svg>

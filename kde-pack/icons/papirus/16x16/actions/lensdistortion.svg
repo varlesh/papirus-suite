@@ -57,7 +57,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -138,7 +138,7 @@
      id="layer1"
      transform="translate(-544.57141,-748.93359)">
     <path
-       style="opacity:0.5;fill:currentColor;fill-opacity:1;stroke:none;stroke-linecap:round"
+       style="opacity:0.5000002;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round"
        d="m 544.57141,748.93359 0,3.88867 0,1.1211 0,2.99023 0,2.99023 0,1.00977 0,0.11133 0,3.88867 16,0 0,-3.89258 0,-0.10742 0,-1.00977 0,-2.99023 0,-2.99023 0,-1.11719 0,-3.89258 -16,0 z m 1,1 14,0 0,2.38672 a 11,6 0 0 0 -7,-1.38672 11,6 0 0 0 -7,1.38086 l 0,-2.38086 z m 7,2 a 10,5 0 0 1 7,1.44141 l 0,2.10742 a 8,3 0 0 0 -7,-1.54883 8,3 0 0 0 -7,1.55469 l 0,-2.10938 a 10,5 0 0 1 7,-1.44531 z m 0,3 a 7,2 0 0 1 7,2 7,2 0 0 1 -7,2 7,2 0 0 1 -7,-2 7,2 0 0 1 7,-2 z m 7,3.44531 0,2.11328 a 10,5 0 0 1 -7,1.44141 10,5 0 0 1 -7,-1.44531 l 0,-2.10352 a 8,3 0 0 0 7,1.54883 8,3 0 0 0 7,-1.55469 z m 0,3.16797 0,2.38672 -14,0 0,-2.38086 a 11,6 0 0 0 7,1.38086 11,6 0 0 0 7,-1.38672 z"
        id="path4155"
        inkscape:connector-curvature="0" />

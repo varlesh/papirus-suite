@@ -1072,9 +1072,9 @@
  <text id="text4087-2-6-5-5-6-0" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1156.7947" x="1482.8315" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53-29" y="-1156.7947" x="1482.8315"/></text>
  <text id="text4087-2-6-5-54-18" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1164.0046" x="-8.6316099" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-41" y="-1164.0046" x="-8.6316099"/></text>
  <text id="text4087-2-6-5-4-1-11" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1437.2388" x="1451.9113" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-6" y="-1437.2388" x="1451.9113"/></text>
- <path id="path4601" d="m4 4s-2 0-2 2v18c0 2 2 2 2 2h4l2 2h12l2-2h4s2 0.25988 2-2v-18c0-2-2-2-2-2z" fill="#d2d2d2"/>
- <path id="path4287" opacity=".4" d="m6 9h20v14h-4l-2 2h-8l-2-2h-4z" fill="#fff"/>
- <path id="path4621" d="m6 8h20v14h-4l-2 2h-8l-2-2h-4z" fill="#3f3f3f"/>
- <path id="path4637" opacity=".1" d="m4 4s-2 0-2 2v1c0-2 2-2 2-2h24s2 0 2 2v-1c0-2-2-2-2-2h-24z" fill="#fff"/>
+ <path id="path4601" fill="#d2d2d2" d="m4 4s-2 0-2 2v18c0 2 2 2 2 2h4l2 2h12l2-2h4s2 0.25988 2-2v-18c0-2-2-2-2-2z"/>
+ <path id="path4287" opacity=".4" fill="#fff" d="m6 9h20v14h-4l-2 2h-8l-2-2h-4z"/>
+ <path id="path4621" fill="#3f3f3f" d="m6 8h20v14h-4l-2 2h-8l-2-2h-4z"/>
+ <path id="path4637" opacity=".1" fill="#fff" d="m4 4s-2 0-2 2v1c0-2 2-2 2-2h24s2 0 2 2v-1c0-2-2-2-2-2h-24z"/>
  <path id="path4625" opacity=".3" d="m2 23v1c0 2 2 2 2 2h4l2 2h12l2-2h4s2 0.25988 2-2v-1c0 2.2599-2 2-2 2h-4l-2 2h-12l-2-2h-4s-2 0-2-2z"/>
 </svg>

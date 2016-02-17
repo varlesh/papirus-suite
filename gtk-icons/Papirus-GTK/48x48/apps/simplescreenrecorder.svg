@@ -11,7 +11,7 @@
   </rdf:RDF>
  </metadata>
  <defs id="defs2819">
-  <linearGradient id="linearGradient3912" x1="143" gradientUnits="userSpaceOnUse" y1="203" gradientTransform="matrix(0 -1 1 0 -164 166)" x2="127" y2="203">
+  <linearGradient id="linearGradient3912" y2="203" gradientUnits="userSpaceOnUse" x2="127" gradientTransform="matrix(0 -1 1 0 -164 166)" y1="203" x1="143">
    <stop id="stop4271" stop-color="#fff" offset="0"/>
    <stop id="stop4273" stop-color="#fff" stop-opacity="0" offset="1"/>
   </linearGradient>
@@ -233,9 +233,9 @@
  <g id="g4726" transform="translate(0,1)">
   <rect id="rect4203" transform="matrix(0,-1,-1,0,0,0)" rx="2" ry="2" height="40" width="32" y="-44" x="-39" fill="#5f7c8a"/>
   <rect id="rect3282" ry="0" rx="0" transform="matrix(0,-1,-1,0,0,0)" height="34" width="26" y="-41" x="-36" fill="#7f96a1"/>
-  <path id="path5243-2" opacity=".8" style="color:#000000;block-progression:tb;text-decoration-line:none;text-transform:none;text-indent:0" fill="#c2352a" d="m14 16h13.999c1.0001 0 1.0001 1 1.0001 1v12c0 1-1.0001 1-1.0001 1h-13.999s-1 0-1-1v-12s0-1 1.0001-1zm21 1.5v11.5l-6.001-6z"/>
-  <path id="path4294" opacity=".1" fill="url(#linearGradient3912)" d="m4 37c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-14h-40z"/>
-  <path id="rect4414" opacity=".2" fill="#fff" d="m6 7c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
+  <path id="path5243-2" opacity=".8" d="m14 16h13.999c1.0001 0 1.0001 1 1.0001 1v12c0 1-1.0001 1-1.0001 1h-13.999s-1 0-1-1v-12s0-1 1.0001-1zm21 1.5v11.5l-6.001-6z" style="color:#000000;block-progression:tb;text-decoration-line:none;text-transform:none;text-indent:0" fill="#c2352a"/>
+  <path id="path4294" opacity=".1" d="m4 37c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-14h-40z" fill="url(#linearGradient3912)"/>
+  <path id="rect4414" opacity=".2" d="m6 7c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff"/>
   <path id="rect4077" opacity=".3" d="m4 36v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
  </g>
 </svg>

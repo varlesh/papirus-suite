@@ -13,12 +13,12 @@
  <defs id="defs2819">
   <clipPath id="clipPath-823863673">
    <g id="g4212" transform="translate(0 -1004.4)">
-    <path id="path4214" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z" transform="matrix(15.333 0 0 11.5 415 878.86)" fill="#1890d0"/>
+    <path id="path4214" transform="matrix(15.333 0 0 11.5 415 878.86)" fill="#1890d0" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z"/>
    </g>
   </clipPath>
   <clipPath id="clipPath-823863673-9">
    <g id="g4212-0" transform="translate(0 -1004.4)">
-    <path id="path4214-9" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z" transform="matrix(15.333 0 0 11.5 415 878.86)" fill="#1890d0"/>
+    <path id="path4214-9" transform="matrix(15.333 0 0 11.5 415 878.86)" fill="#1890d0" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z"/>
    </g>
   </clipPath>
  </defs>
@@ -236,8 +236,8 @@
  <text id="text4087-2-6-5-5-6-8" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1177.5076" x="1644.1285" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53-7" y="-1177.5076" x="1644.1285"/></text>
  <text id="text4087-2-6-5-54-6" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1184.7175" x="152.66542" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-0" y="-1184.7175" x="152.66542"/></text>
  <text id="text4087-2-6-5-4-1-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1457.9517" x="1613.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-6" y="-1457.9517" x="1613.2083"/></text>
- <g id="g4539" transform="matrix(1.8319 0 0 1.8188 -21.992 -25.325)" fill="#433200" clip-path="url(#clipPath-823863673)"><!-- color: #5e4e50 --></g>
- <g id="g5973" transform="matrix(1.2594 0 0 1.2731 -10.12 -12.278)" fill="#fecd38" clip-path="url(#clipPath-823863673)"><!-- color: #5e4e50 --></g>
+ <g id="g4539" clip-path="url(#clipPath-823863673)" fill="#433200" transform="matrix(1.8319 0 0 1.8188 -21.992 -25.325)"><!-- color: #5e4e50 --></g>
+ <g id="g5973" clip-path="url(#clipPath-823863673)" fill="#fecd38" transform="matrix(1.2594 0 0 1.2731 -10.12 -12.278)"><!-- color: #5e4e50 --></g>
  <text id="text4087-2-6-5-31" opacity=".8" font-size="12.666px" xml:space="preserve" y="-2.1710398" x="811.53918" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-5" y="-2.1710398" x="811.53918"/></text>
  <text id="text4087-2-6-5-5-517" opacity=".8" font-size="12.666px" xml:space="preserve" y="-42.912746" x="835.50012" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-55" y="-42.912746" x="835.50012"/></text>
  <text id="text4087-2-6-5-2-39" opacity=".8" font-size="12.666px" xml:space="preserve" y="-72.990891" x="-635.05823" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-2-10" y="-72.990891" x="-635.05823"/></text>
@@ -345,7 +345,7 @@
  <text id="text4087-2-6-5-5-6-2" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1181.9912" x="1586.4415" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-53-4" y="-1181.9912" x="1586.4415"/></text>
  <text id="text4087-2-6-5-54-3" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1189.2012" x="94.978363" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-0-7" y="-1189.2012" x="94.978363"/></text>
  <text id="text4087-2-6-5-4-1-2" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1462.4353" x="1555.5212" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28-0" y="-1462.4353" x="1555.5212"/></text>
- <g id="g4539-1" transform="matrix(1.8319 0 0 1.8188 -79.679 -29.809)" fill="#433200" clip-path="url(#clipPath-823863673-9)"><!-- color: #5e4e50 --></g>
+ <g id="g4539-1" clip-path="url(#clipPath-823863673-9)" fill="#433200" transform="matrix(1.8319 0 0 1.8188 -79.679 -29.809)"><!-- color: #5e4e50 --></g>
  <text id="text4087-2-6-5-420" opacity=".8" font-size="12.666px" xml:space="preserve" y="-0.68739891" x="825.22626" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-84" y="-0.68739891" x="825.22626"/></text>
  <text id="text4087-2-6-5-5-7" opacity=".8" font-size="12.666px" xml:space="preserve" y="-41.429108" x="849.18719" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6-24" y="-41.429108" x="849.18719"/></text>
  <text id="text4087-2-6-5-2-9" opacity=".8" font-size="12.666px" xml:space="preserve" y="-71.507248" x="-621.37115" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-2-5" y="-71.507248" x="-621.37115"/></text>
@@ -557,14 +557,14 @@
  <rect id="shape1" fill-rule="evenodd" height="7" width="5" stroke-miterlimit="2" y="24" x="10" stroke-width="0" fill="#d5dce0"/>
  <path id="shape3" d="m6.6667 27.5v1.4h2.2376v-1.4h-2.2376zm4.4137 0v1.4h2.2529v-1.4h-2.2529z" fill-rule="evenodd" stroke-miterlimit="2" stroke-width="0" fill="#3c3c3c"/>
  <rect id="rect1933" transform="rotate(-90)" height="2.2286" width="2.25" stroke-miterlimit="2" y="11.171" x="-10.75" stroke-width="0" fill="#ecf0f1"/>
- <path id="path2830" fill="#ecf0f1" stroke-width="0" stroke-miterlimit="2" d="m9.3143 18.25c1.0256-0.000171 1.8571 0.83932 1.8571 1.875s-0.83154 1.8752-1.8571 1.875c-1.0256 0.00017-1.8571-0.83931-1.8571-1.875s0.83153-1.8752 1.8571-1.875z"/>
- <path id="path4602" fill="#ecf0f1" stroke-width="0" stroke-miterlimit="2" d="m6.3429 10.75c0.61537-0.000116 1.1143 0.50359 1.1143 1.125 0 0.6214-0.49891 1.1251-1.1143 1.125-0.61537 0.000115-1.1143-0.50359-1.1143-1.125s0.49892-1.1251 1.1143-1.125z"/>
+ <path id="path2830" d="m9.3143 18.25c1.0256-0.000171 1.8571 0.83932 1.8571 1.875s-0.83154 1.8752-1.8571 1.875c-1.0256 0.00017-1.8571-0.83931-1.8571-1.875s0.83153-1.8752 1.8571-1.875z" stroke-width="0" stroke-miterlimit="2" fill="#ecf0f1"/>
+ <path id="path4602" d="m6.3429 10.75c0.61537-0.000116 1.1143 0.50359 1.1143 1.125 0 0.6214-0.49891 1.1251-1.1143 1.125-0.61537 0.000115-1.1143-0.50359-1.1143-1.125s0.49892-1.1251 1.1143-1.125z" stroke-width="0" stroke-miterlimit="2" fill="#ecf0f1"/>
  <path id="path4608" d="m7.4571 7s1.842-2.284 1.8873-2.2496c0.0454 0.0343 1.8266 2.2496 1.8266 2.2496z" fill-rule="evenodd" stroke-miterlimit="2" stroke-width="0" fill="#ecf0f1"/>
- <path id="path5436" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill="#ecf0f1" d="m8.9429 6.25v12.75h0.74286v-12.75h-0.74286z"/>
+ <path id="path5436" d="m8.9429 6.25v12.75h0.74286v-12.75h-0.74286z" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill="#ecf0f1"/>
  <path id="path5855" opacity=".3" d="m3 20.238v1c0 1.236 0.8409 2.265 2 2.619v-0.857h0.8691c-1.5892 0-2.8691-1.232-2.8691-2.762zm14 0c0 1.53-1.28 2.762-2.869 2.762h0.869v0.857c1.159-0.354 2-1.383 2-2.619v-1zm-12 9.762v1h10v-1h-10z" fill-rule="evenodd" stroke-miterlimit="2" stroke-width="0"/>
  <ellipse id="path3283" rx="9" ry="9" cy="22" cx="20" fill="#e74c3c"/>
- <path id="path4-0" fill="#fff" d="m17 24.143 3.5 2.857 3.5-3h-2v-7h-3v7.1429z"/>
- <path id="path4767" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill-rule="evenodd" fill="#ecf0f1" d="m5.9714 11.875v4.875h2.9714v-0.75h-2.2286v-4.125h-0.74286z"/>
- <path id="path4771" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill-rule="evenodd" fill="#ecf0f1" d="m12.657 8.875v4.875h-2.9714v-0.75h2.2286v-4.125h0.74286z"/>
+ <path id="path4-0" d="m17 24.143 3.5 2.857 3.5-3h-2v-7h-3v7.1429z" fill="#fff"/>
+ <path id="path4767" d="m5.9714 11.875v4.875h2.9714v-0.75h-2.2286v-4.125h-0.74286z" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill="#ecf0f1" fill-rule="evenodd"/>
+ <path id="path4771" d="m12.657 8.875v4.875h-2.9714v-0.75h2.2286v-4.125h0.74286z" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" fill="#ecf0f1" fill-rule="evenodd"/>
  <path id="path5963" opacity=".2" d="m5.8691 2c-1.5892 0-2.8691 1.2321-2.8691 2.7617v1c0-1.5296 1.2799-2.7617 2.8691-2.7617h8.2619c1.589 0 2.869 1.2321 2.869 2.7617v-1c0-1.5296-1.28-2.7617-2.869-2.7617h-8.2619z" fill-rule="evenodd" stroke-miterlimit="2" stroke-width="0" fill="#fff"/>
 </svg>

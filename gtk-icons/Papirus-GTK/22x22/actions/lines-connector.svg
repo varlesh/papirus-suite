@@ -1,29 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   id="svg3049"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="lines-connector.svg"
-   inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
-   inkscape:export-xdpi="30"
-   inkscape:export-ydpi="30">
-  <defs
-     id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
+<svg id="svg3049" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs3051">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-Background {
@@ -55,115 +34,24 @@
       }
       .ColorScheme-ButtonFocus{
         color:#3daee9;
-      }
-      </style>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="24.41"
-     inkscape:cx="1.4715263"
-     inkscape:cy="8.1561574"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1-8"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1600"
-     inkscape:window-height="847"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1"
-     inkscape:showpageshadow="false"
-     borderlayer="true"
-     inkscape:snap-bbox="true"
-     inkscape:snap-global="true"
-     showguides="false"
-     inkscape:guide-bbox="true"
-     inkscape:object-nodes="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4085" />
-    <sodipodi:guide
-       position="2,13"
-       orientation="12,0"
-       id="guide4075" />
-    <sodipodi:guide
-       position="13,2"
-       orientation="0,12"
-       id="guide4077" />
-    <sodipodi:guide
-       position="14,14.00003"
-       orientation="-12,0"
-       id="guide4079" />
-    <sodipodi:guide
-       position="14.000004,14.00003"
-       orientation="0,-12"
-       id="guide4081" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata3054">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-421.71429,-525.79074)">
-    <g
-       transform="matrix(0.75000002,0,0,0.83333404,421.46429,-327.98583)"
-       id="layer1-4"
-       inkscape:label="Capa 1">
-      <g
-         transform="matrix(0.99999997,0,0,0.89999799,0,104.10707)"
-         id="layer1-8"
-         inkscape:label="Capa 1">
-        <path
-           style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.66666842;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 17.666667,1028.0289 0,2.6667 -1.333334,0 -0.71875,0 -2.132812,12 -1.148438,0 0,-2.6666 -6.666666,0 0,6.6666 6.666666,0 0,-2.6666 1.333334,0 0.71875,0 2.130208,-12.0001 1.151042,0 0,2.6667 6.666666,0 0,-6.6667 -6.666666,0 z"
-           id="rect4152"
-           inkscape:connector-curvature="0" />
-        <g
-           transform="matrix(1,0,0,1.0000016,0,-0.00161868)"
-           id="layer1-7"
-           inkscape:label="Capa 1">
-          <g
-             inkscape:label="Capa 1"
-             id="layer1-3"
-             transform="translate(-461.71429,504.57143)" />
-        </g>
-        <g
-           transform="matrix(1,0,0,1.0000016,-461.71429,504.57062)"
-           id="layer1-3-9"
-           inkscape:label="Capa 1" />
-        <g
-           inkscape:label="Capa 1"
-           id="layer1-3-3-2"
-           transform="matrix(0.99999997,0,0,1.0000016,-461.71427,504.57065)" />
-        <g
-           transform="matrix(-0.99999997,0,0,1.0000016,22.000007,-0.00162735)"
-           id="layer1-7-4"
-           inkscape:label="Capa 1">
-          <g
-             inkscape:label="Capa 1"
-             id="layer1-3-7"
-             transform="translate(-461.71429,504.57143)" />
-        </g>
-      </g>
-    </g>
+      }</style>
+ </defs>
+ <metadata id="metadata3054">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-421.71 -525.79)">
+  <g id="layer1-4" transform="matrix(0.75 0 0 .83333 421.46 -327.99)">
+   <g id="layer1-8" transform="matrix(1 0 0 0.9 0 104.11)">
+    <path id="rect4152" opacity=".5" d="m17.667 1028v2.6667h-1.3333-0.71875l-2.1328 12h-1.1484v-2.6666h-6.6667v6.6666h6.6667v-2.6666h1.3333 0.71875l2.1302-12h1.151v2.6667h6.6667v-6.6667h-6.6667z"/>
+    <g id="layer1-7" transform="translate(0 -.0016187)"></g>
+    <g id="layer1-7-4" transform="matrix(-1 0 0 1 22 -.0016274)"></g>
+   </g>
   </g>
+ </g>
 </svg>

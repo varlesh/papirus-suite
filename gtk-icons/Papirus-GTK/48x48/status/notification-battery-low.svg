@@ -12,8 +12,8 @@
  </metadata>
  <title id="title8473">Paper Symbolic Icon Theme</title>
  <g id="layer12" transform="translate(-265 -2)">
-  <path id="rect2388-2-2-5" opacity=".35" fill="#e74c3c" d="m285 12v2h8v-2zm-4.3125 2c-0.5625 0.0938-1.6875 0.5-1.6875 2v22c0 2 2 2 2 2h16c2 0 2-2 2-2v-22s0-2-2-2h-16s-0.125-0.0312-0.3125 0z"/>
-  <path id="path3931" fill="#e74c3c" d="m279 32v6c0 2 2 2 2 2h16s2 0 2-2v-6z"/>
+  <path id="rect2388-2-2-5" opacity=".35" d="m285 12v2h8v-2zm-4.3125 2c-0.5625 0.0938-1.6875 0.5-1.6875 2v22c0 2 2 2 2 2h16c2 0 2-2 2-2v-22s0-2-2-2h-16s-0.125-0.0312-0.3125 0z" fill="#e74c3c"/>
+  <path id="path3931" d="m279 32v6c0 2 2 2 2 2h16s2 0 2-2v-6z" fill="#e74c3c"/>
   <rect id="rect5830" opacity=".1" style="color:#bebebe" height="48" width="48" y="2" x="265" fill="none"/>
  </g>
 </svg>

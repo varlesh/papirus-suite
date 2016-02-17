@@ -15,12 +15,12 @@
    <stop id="stop5742" stop-color="#fff" offset="0"/>
    <stop id="stop5744" stop-color="#fff" stop-opacity="0" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient4888" x1="15.669" xlink:href="#linearGradient5740" gradientUnits="userSpaceOnUse" x2="15.992" y1="2.202" y2="33.772"/>
+  <linearGradient id="linearGradient4888" y2="33.772" xlink:href="#linearGradient5740" gradientUnits="userSpaceOnUse" x2="15.992" y1="2.202" x1="15.669"/>
   <radialGradient id="radialGradient4892" gradientUnits="userSpaceOnUse" cy="8.4179" cx="19.063" gradientTransform="matrix(.76209 0 0 .57789 -1.8111 4.3641)" r="11">
    <stop id="stop5750" stop-color="#484848" offset="0"/>
    <stop id="stop5752" stop-color="#333" offset="1"/>
   </radialGradient>
-  <linearGradient id="linearGradient4904" x1="16.851" xlink:href="#linearGradient5740" gradientUnits="userSpaceOnUse" y1="17.784" gradientTransform="matrix(1.1429 0 0 1.25 -3.0697 -6.0846)" x2="16.674" y2="9.4756"/>
+  <linearGradient id="linearGradient4904" y2="9.4756" xlink:href="#linearGradient5740" gradientUnits="userSpaceOnUse" x2="16.674" gradientTransform="matrix(1.1429 0 0 1.25 -3.0697 -6.0846)" y1="17.784" x1="16.851"/>
  </defs>
  <text id="text4087-2-6-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-5.1873989" x="877.22626" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9" y="-5.1873989" x="877.22626"/></text>
  <text id="text4087-2-6-5-5" opacity=".8" font-size="12.666px" xml:space="preserve" y="-45.929108" x="901.18719" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-6" y="-45.929108" x="901.18719"/></text>
@@ -131,11 +131,11 @@
  <text id="text4087-2-6-5-4-1" opacity=".8" font-size="12.666px" xml:space="preserve" y="-1465.4517" x="1621.2083" font-family="&apos;Bitstream Vera Sans&apos;" fill="#000000"><tspan id="tspan4089-7-2-9-9-28" y="-1465.4517" x="1621.2083"/></text>
  <rect id="rect4255" ry="2" rx="2" transform="matrix(0,-1,-1,0,0,0)" height="22" width="28" y="-27" x="-30" fill="#4a4a4a"/>
  <rect id="rect4894" opacity=".15" fill-rule="evenodd" rx=".57143" ry=".625" height="10" width="16" y="6" x="8" fill="url(#linearGradient4904)"/>
- <path id="rect4878" opacity=".2" fill="url(#linearGradient4888)" d="m7 2c-1.108 0-2 0.892-2 2v24c0 1.108 0.892 2 2 2h18c1.108 0 2-0.892 2-2v-24c0-1.108-0.892-2-2-2h-18zm0 1h18c0.571 0 1 0.4287 1 1v24c0 0.571-0.429 1-1 1h-18c-0.5713 0-1-0.429-1-1v-24c0-0.5713 0.4287-1 1-1z"/>
+ <path id="rect4878" opacity=".2" d="m7 2c-1.108 0-2 0.892-2 2v24c0 1.108 0.892 2 2 2h18c1.108 0 2-0.892 2-2v-24c0-1.108-0.892-2-2-2h-18zm0 1h18c0.571 0 1 0.4287 1 1v24c0 0.571-0.429 1-1 1h-18c-0.5713 0-1-0.429-1-1v-24c0-0.5713 0.4287-1 1-1z" fill="url(#linearGradient4888)"/>
  <rect id="rect4890" stroke-linejoin="round" fill-rule="evenodd" rx="0" ry="0" height="8" width="14" stroke="#363636" stroke-linecap="round" stroke-miterlimit="3.4286" y="7" x="9" fill="url(#radialGradient4892)"/>
- <g id="g4906" style="enable-background:new" fill="#19c0f0" transform="matrix(.72727 0 0 .66667 9.8183 16.667)">
-  <g id="g4908" fill="#19c0f0" transform="translate(-305 119)">
-   <path id="path4910" opacity=".5" fill="#19c0f0" d="m308-117v12l11-6-9.8992-5.3996z"/>
+ <g id="g4906" style="enable-background:new" transform="matrix(.72727 0 0 .66667 9.8183 16.667)" fill="#19c0f0">
+  <g id="g4908" transform="translate(-305 119)" fill="#19c0f0">
+   <path id="path4910" opacity=".5" d="m308-117v12l11-6-9.8992-5.3996z" fill="#19c0f0"/>
   </g>
  </g>
 </svg>

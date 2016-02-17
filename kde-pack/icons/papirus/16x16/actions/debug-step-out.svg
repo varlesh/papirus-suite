@@ -1,123 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="debug-step-out.svg"
-   inkscape:export-filename="/home/sam/source-symbolic.png"
-   inkscape:export-xdpi="270"
-   inkscape:export-ydpi="270"
-   height="16"
-   id="svg7384"
-   style="enable-background:new"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   width="16">
-  <sodipodi:namedview
-     inkscape:bbox-nodes="true"
-     inkscape:bbox-paths="false"
-     bordercolor="#666666"
-     borderlayer="false"
-     borderopacity="1"
-     inkscape:current-layer="g6058"
-     inkscape:cx="-7.682718"
-     inkscape:cy="11.393966"
-     gridtolerance="10"
-     inkscape:guide-bbox="true"
-     guidetolerance="10"
-     id="namedview88"
-     inkscape:object-nodes="true"
-     inkscape:object-paths="true"
-     objecttolerance="10"
-     pagecolor="#f7f7f7"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     showborder="true"
-     showgrid="false"
-     showguides="true"
-     inkscape:showpageshadow="false"
-     inkscape:snap-bbox="true"
-     inkscape:snap-bbox-edge-midpoints="false"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-center="false"
-     inkscape:snap-global="true"
-     inkscape:snap-grids="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-nodes="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-others="true"
-     inkscape:snap-page="false"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-to-guides="true"
-     inkscape:window-height="847"
-     inkscape:window-maximized="1"
-     inkscape:window-width="1600"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:zoom="19.88">
-    <inkscape:grid
-       color="#000000"
-       dotted="false"
-       empcolor="#0800ff"
-       empopacity="0.4627451"
-       empspacing="4"
-       enabled="true"
-       id="grid4866"
-       opacity="0.16470588"
-       originx="-564"
-       originy="-176"
-       snapvisiblegridlinesonly="true"
-       spacingx="0.25px"
-       spacingy="0.25px"
-       type="xygrid"
-       visible="true" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title8473">Paper Symbolic Icon Theme</title>
-  <defs
-     id="defs7386">
-    <linearGradient
-       id="linearGradient5606"
-       osb:paint="solid">
-      <stop
-         id="stop5608"
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
-    </linearGradient>
-    <filter
-       inkscape:collect="always"
-       id="filter7554"
-       style="color-interpolation-filters:sRGB">
-      <feBlend
-         inkscape:collect="always"
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <style
-       id="current-color-scheme"
-       type="text/css">
-      .ColorScheme-Text {
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-Background {
@@ -149,72 +47,9 @@
       }
       .ColorScheme-ButtonFocus{
         color:#3daee9;
-      }
-      </style>
-  </defs>
-  <g
-     inkscape:groupmode="layer"
-     id="layer9"
-     inkscape:label="status"
-     style="display:inline"
-     transform="translate(-805.0002,-41.000001)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer10"
-     inkscape:label="devices"
-     style="display:inline;filter:url(#filter7554)"
-     transform="translate(-805.0002,-41.000001)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="places"
-     style="display:inline"
-     transform="translate(-564,-658)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer14"
-     inkscape:label="mimetypes"
-     style="display:inline"
-     transform="translate(-805.0002,-41.000001)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer15"
-     inkscape:label="emblems"
-     style="display:inline"
-     transform="translate(-805.0002,-41.000001)" />
-  <g
-     inkscape:groupmode="layer"
-     id="g71291"
-     inkscape:label="emotes"
-     style="display:inline"
-     transform="translate(-805.0002,-41.000001)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="categories"
-     style="display:inline"
-     transform="translate(-564,-508)" />
-  <g
-     inkscape:groupmode="layer"
-     id="g6058"
-     inkscape:label="apps"
-     style="display:inline"
-     transform="translate(-564,-508)">
-    <g
-       id="g6718"
-       inkscape:label="emblem-important"
-       style="fill:#333333"
-       transform="translate(217.8093,-455.1781)" />
-    <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
-       d="M 3.0078125 1 C 0.7591325 1 1.0078125 3 1.0078125 3 L 1.0078125 15 L 15 15 L 15 5 L 13.001953 5 L 13.001953 11.3125 L 13.001953 12.15625 L 13.001953 13 L 3.0078125 13 L 3.0078125 12.15625 L 3.0078125 10.5 L 3.0078125 5 L 4.2011719 5 L 5.0058594 5 L 11 5 L 11 1 L 5.0058594 1 L 4.2011719 1 L 3.0078125 1 z M 12 1 L 12 5 L 15 3 L 12 1 z M 6.4335938 6 C 5.3681337 6 4.9199219 6.3522463 4.9199219 7.2539062 C 4.9199219 7.2539062 4.8954719 7.84134 4.8886719 8 C 4.8424719 8.36892 4.7132769 8.6777344 4.3105469 8.6777344 L 4.0058594 8.6777344 L 4.0058594 9.3222656 L 4.3105469 9.3222656 C 4.8990969 9.3222656 4.9199219 9.9665275 4.9199219 10.523438 C 4.9149219 10.697368 4.9335 10.89186 4.9375 11 C 5.0208 11.71164 5.4763437 12 6.4335938 12 L 6.4335938 11.408203 C 5.9840837 11.408203 5.8272019 11.28989 5.7636719 11 C 5.7299719 10.88403 5.7264906 10.485582 5.7128906 10.294922 C 5.7128906 9.8794619 5.5889244 9.2602562 4.9902344 9.0039062 C 5.4633044 8.8013362 5.63431 8.37563 5.6875 8 C 5.7114 7.89589 5.7060906 7.7776956 5.7128906 7.6972656 C 5.7128906 6.8309556 5.7233137 6.5917969 6.4335938 6.5917969 L 6.4335938 6 z M 9.5761719 6 L 9.5761719 6.5917969 C 10.286452 6.5917969 10.294922 6.8309556 10.294922 7.6972656 C 10.301922 7.7776656 10.296912 7.89589 10.320312 8 C 10.373512 8.37563 10.544508 8.8013362 11.017578 9.0039062 C 10.418888 9.2602562 10.294922 9.8794619 10.294922 10.294922 C 10.281222 10.485582 10.277741 10.88403 10.244141 11 C 10.180641 11.28989 10.025682 11.408203 9.5761719 11.408203 L 9.5761719 12 C 10.533422 12 10.987053 11.71164 11.070312 11 C 11.074313 10.89186 11.092891 10.697367 11.087891 10.523438 C 11.087891 9.9665275 11.108746 9.3222656 11.697266 9.3222656 L 12.001953 9.3222656 L 12.001953 8.6777344 L 11.697266 8.6777344 C 11.294536 8.6777344 11.165321 8.36892 11.119141 8 C 11.112141 7.84134 11.087891 7.2539062 11.087891 7.2539062 C 11.087891 6.3522463 10.641632 6 9.5761719 6 z "
-       transform="translate(564,508)"
-       id="path4156" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer12"
-     inkscape:label="actions"
-     style="display:inline"
-     transform="translate(-805.0002,-41.000001)" />
+      }</style>
+ </defs>
+ <g id="g6058" transform="translate(-564,-508)">
+  <path id="path4156" opacity=".5" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:new;text-transform:none" d="m3.0078 1c-2.2487 0-2 2-2 2v12h13.992v-10h-1.998v6.312 0.844 0.844h-9.9942v-0.844-1.656-5.5h1.1934 0.8047 5.9941v-4h-5.9941-0.8047-1.1934zm8.9922 0v4l3-2-3-2zm-5.5664 5c-1.0655 0-1.5137 0.3522-1.5137 1.2539 0 0-0.0244 0.5874-0.0312 0.7461-0.0462 0.3689-0.1754 0.6777-0.5782 0.6777h-0.3046v0.6446h0.3046c0.5886 0 0.6094 0.6442 0.6094 1.2007-0.005 0.174 0.0136 0.369 0.0176 0.477 0.0833 0.712 0.5388 1 1.4961 1v-0.592c-0.4495 0-0.6064-0.118-0.6699-0.408-0.0337-0.116-0.0372-0.514-0.0508-0.705 0-0.4155-0.124-1.0347-0.7227-1.2911 0.4731-0.2026 0.6441-0.6283 0.6973-1.0039 0.0239-0.1041 0.0186-0.2223 0.0254-0.3027 0-0.8663 0.0104-1.1055 0.7207-1.1055v-0.5918zm3.1426 0v0.5918c0.7098 0 0.7188 0.2392 0.7188 1.1055 0.007 0.0804 0.002 0.1986 0.025 0.3027 0.054 0.3756 0.225 0.8013 0.698 1.0039-0.599 0.2564-0.723 0.8756-0.723 1.2911-0.014 0.191-0.017 0.589-0.051 0.705-0.063 0.29-0.218 0.408-0.6678 0.408v0.592c0.9568 0 1.4108-0.288 1.4938-1 0.004-0.108 0.023-0.303 0.018-0.477 0-0.5565 0.021-1.2007 0.609-1.2007h0.305v-0.6446h-0.305c-0.402 0-0.532-0.3088-0.578-0.6777-0.007-0.1587-0.031-0.7461-0.031-0.7461 0-0.9017-0.446-1.2539-1.5118-1.2539z" transform="translate(564,508)"/>
+ </g>
 </svg>

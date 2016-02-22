@@ -6,6 +6,10 @@ Papirus customization for Linux distros.
 Plasma 5 (With QtCurve Transparent Style)
 ![Screenshot - KDE](papirus-kde.png)
 
+
+Gnome 3.18
+![Screenshot - GNOME](papirus-gnome.png)
+
 Unity 7 (With GTK Theme [Arc Dark](https://github.com/horst3180/arc-theme))
 ![Screenshot - UNITY](papirus-arc-unity.png)
 

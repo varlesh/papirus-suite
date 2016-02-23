@@ -48,9 +48,9 @@ yaourt -S papirus-smplayer-theme-git
 yaourt -S bomi-skin-papirus-git
 ```
 **For Chakra OS**
-# CCR
 ```
-ccr papirus-pack-kde papirus-kmail-theme papirus-k3b-theme libreoffice-style-papirus bomi-skin-papirus smplayer-theme-papirus vlc-skin-papirus yakuake-skin-papirus
+# CCR
+ccr -S papirus-pack-kde papirus-kmail-theme papirus-k3b-theme libreoffice-style-papirus bomi-skin-papirus smplayer-theme-papirus vlc-skin-papirus yakuake-skin-papirus
 ```
 
 **For Ubuntu**

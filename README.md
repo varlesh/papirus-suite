@@ -1,6 +1,8 @@
 # Papirus Suite
 Papirus customization for Linux distros.
 
+![Screenshot - LOGO](logo.png)
+
 # Preview
 
 Plasma 5 (With QtCurve Transparent Style)

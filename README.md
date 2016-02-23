@@ -47,7 +47,7 @@ yaourt -S papirus-vlc-theme-git
 yaourt -S papirus-smplayer-theme-git
 yaourt -S bomi-skin-papirus-git
 ```
-**For Chakra OS**
+**For Chakra OS:**
 ```
 # CCR
 ccr -S papirus-pack-kde papirus-kmail-theme papirus-k3b-theme libreoffice-style-papirus bomi-skin-papirus smplayer-theme-papirus vlc-skin-papirus yakuake-skin-papirus
@@ -73,6 +73,9 @@ This repository combines many licenses, which mostly come from the original proj
 
 # DEVELOPERS
 [horosgrisa](https://github.com/horosgrisa) - Mainteiner (AUR), desinger and author more tools
+
 [FadeMind](https://github.com/FadeMind) - Mainteiner (AUR) and active member
+
 [BridouZ](https://chakraos.org/ccr/packages.php?K=BridouZ&SeB=m) - Mainteiner (CCR)
+
 [varlesh](https://github.com/varlesh) - Author and desinger Papirus project, mainteiner (PPA)

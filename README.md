@@ -2,7 +2,7 @@
 Papirus customization for Linux distros.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/varlesh/papirus-suite/master/logo.png" alt="logo"/>
+  <img src="https://raw.githubusercontent.com/varlesh/papirus-suite/master/logo-papirus.png" alt="logo-papirus"/>
 </p>
 
 # Preview
@@ -72,10 +72,10 @@ If you like my project , you can donate:
 This repository combines many licenses, which mostly come from the original projects. Please, see AUTHOR and LICENSE pages in each module folder of the theme for more information.
 
 # DEVELOPERS
-[horosgrisa](https://github.com/horosgrisa) - Mainteiner (AUR), desinger and author more tools
+[horosgrisa](https://github.com/horosgrisa) - Maintainer (AUR), designer and author more tools
 
-[FadeMind](https://github.com/FadeMind) - Mainteiner (AUR) and active member
+[FadeMind](https://github.com/FadeMind) - Maintainer (AUR) and active member
 
-[BridouZ](https://chakraos.org/ccr/packages.php?K=BridouZ&SeB=m) - Mainteiner (CCR)
+[BridouZ](https://chakraos.org/ccr/packages.php?K=BridouZ&SeB=m) - Maintainer (CCR)
 
-[varlesh](https://github.com/varlesh) - Author and desinger Papirus project, mainteiner (PPA)
+[varlesh](https://github.com/varlesh) - Author and designer Papirus project, maintainer (PPA)

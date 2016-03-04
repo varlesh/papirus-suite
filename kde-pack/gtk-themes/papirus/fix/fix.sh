@@ -17,7 +17,7 @@ mogrify -colorspace GRAY ../gtk-2.0/Spin/*.png
 mogrify -colorspace GRAY ../gtk-2.0/Tabs/*.png
 mogrify -colorspace GRAY ../gtk-2.0/Toolbar/*.png
 sed -i 's|3DAEE9|888888|g' ../gtk-2.0/gtkrc
-cp slider* ../gtk-2.0/Scrollbars/
+cp slider-scrollbar* ../gtk-2.0/Scrollbars/
 # Fix GTK 3
 mogrify -colorspace GRAY ../gtk-3.0/assets/*.png
 sed -i 's|93cee9|A6A6A6|g' ../gtk-3.0/*css
@@ -96,3 +96,4 @@ sed -i 's|46b2ea|989898|g' ../gtk-3.0/*css
 sed -i 's|61, 174, 233|147, 147, 147|g' ../gtk-3.0/*css
 sed -i 's|147, 206, 233|190, 190, 190|g' ../gtk-3.0/*css
 cp titlebutton* ../gtk-3.0/assets/
+cp scrollbar-slider* ../gtk-3.0/assets/

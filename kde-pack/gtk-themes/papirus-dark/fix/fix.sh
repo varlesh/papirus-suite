@@ -23,7 +23,7 @@ sed -i 's|353535|222222|g' ../gtk-2.0/gtkrc
 cp tool* ../gtk-2.0/Toolbar/
 cp handle* ../gtk-2.0/Handles/
 cp menu* ../gtk-2.0/Menubar/
-cp slider* ../gtk-2.0/Scrollbars/
+cp slider-scrollbar* ../gtk-2.0/Scrollbars/
 # Fix GTK 3
 mogrify -colorspace GRAY ../gtk-3.0/assets/*.png
 sed -i 's|93cee9|2E2E2E|g' ../gtk-3.0/*css

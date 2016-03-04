@@ -27,7 +27,7 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer9"
-     inkscape:cx="-75.543103"
+     inkscape:cx="-85.079208"
      inkscape:cy="4.83047"
      gridtolerance="10"
      inkscape:guide-bbox="true"
@@ -57,12 +57,12 @@
      inkscape:snap-page="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="840"
+     inkscape:window-height="842"
      inkscape:window-maximized="1"
      inkscape:window-width="1600"
      inkscape:window-x="-4"
-     inkscape:window-y="34"
-     inkscape:zoom="4.64">
+     inkscape:window-y="32"
+     inkscape:zoom="4.04">
     <inkscape:grid
        color="#000000"
        dotted="false"
@@ -126,7 +126,7 @@
        d="m 276.79,-405 c 0,-1.3 -0.72,-2.42 -1.79,-3 l 0,6 c 1.06,-0.58 1.79,-1.7 1.79,-3 z m -10.69889,-2.90909 0,5.81818 2.81818,0 L 273,-398 l 0,-14 -4.09071,4.09091 z M 275,-412 l 0,1.5 c 2.32,0.74 4,2.93 4,5.5 0,2.57 -1.68,4.76 -4,5.5 l 0,1.5 c 3.15,-0.78 5.5,-3.6 5.5,-7 0,-3.4 -2.35,-6.22 -5.5,-7 z"
        id="path5075"
        sodipodi:nodetypes="sccscccccccccsccsc"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.72" />
+       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.5" />
   </g>
   <g
      inkscape:groupmode="layer"

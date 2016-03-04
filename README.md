@@ -46,6 +46,8 @@ yaourt -S libreoffice-papirus-theme-git
 yaourt -S papirus-vlc-theme-git
 yaourt -S papirus-smplayer-theme-git
 yaourt -S bomi-skin-papirus-git
+# Wallpapers for KDE DE
+yaourt -S papirus-wallpapers-git
 ```
 **For Chakra OS:**
 ```

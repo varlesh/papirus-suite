@@ -1,6 +1,8 @@
 # Papirus Suite
 Papirus customization for Linux distros.
 
+Project finalized!
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/varlesh/papirus-suite/master/logo-papirus.png" alt="logo-papirus"/>
 </p>

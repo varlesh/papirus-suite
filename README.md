@@ -15,11 +15,11 @@ Plasma 5
 Unity 7 (With GTK Theme [Arc Dark](https://github.com/horst3180/arc-theme))
 ![Screenshot - UNITY](papirus-arc-unity.png)
 
-Gnome 3.18
-![Screenshot - GNOME](papirus-gnome.png)
-
 elementary OS Freya
 ![Screenshot - Pantheon](papirus-elementary.png)
+
+Gnome 3.18
+![Screenshot - GNOME](papirus-gnome.png)
 
 # INSTALL
 

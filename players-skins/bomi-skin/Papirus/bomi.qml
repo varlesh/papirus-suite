@@ -8,6 +8,7 @@ B.AppWithDock {
     id: app
     readonly property QtObject engine: B.App.engine
     property bool fs: B.App.window.fullscreen
+    property var text: ""
 
     SystemPalette { id: palette }
 

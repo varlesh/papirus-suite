@@ -16,10 +16,22 @@ mogrify -colorspace GRAY ../gtk-2.0/Shadows/*.png
 mogrify -colorspace GRAY ../gtk-2.0/Spin/*.png
 mogrify -colorspace GRAY ../gtk-2.0/Tabs/*.png
 mogrify -colorspace GRAY ../gtk-2.0/Toolbar/*.png
-sed -i 's|3DAEE9|888888|g' ../gtk-2.0/gtkrc
-cp slider-scrollbar* ../gtk-2.0/Scrollbars/
+sed -i 's|3DAEE9|363636|g' ../gtk-2.0/gtkrc
+sed -i 's|31363B|222222|g' ../gtk-2.0/gtkrc
+sed -i 's|232629|222222|g' ../gtk-2.0/gtkrc
+sed -i 's|353535|222222|g' ../gtk-2.0/gtkrc
+cp tool* ../gtk-2.0/Toolbar/
+cp handle* ../gtk-2.0/Handles/
+cp menu* ../gtk-2.0/Menubar/
 # Fix GTK 3
 mogrify -colorspace GRAY ../gtk-3.0/assets/*.png
+sed -i 's|93cee9|2E2E2E|g' ../gtk-3.0/*css
+sed -i 's|3DADE8|363636|g' ../gtk-3.0/*css
+sed -i 's|3DAEE9|363636|g' ../gtk-3.0/*css
+sed -i 's|3daee9|363636|g' ../gtk-3.0/*css
+sed -i 's|31363B|222222|g' ../gtk-3.0/*css
+sed -i 's|232629|222222|g' ../gtk-3.0/*css
+sed -i 's|353535|222222|g' ../gtk-3.0/*css
 sed -i 's|93cee9|A6A6A6|g' ../gtk-3.0/*css
 sed -i 's|3DADE8|888888|g' ../gtk-3.0/*css
 sed -i 's|3DAEE9|888888|g' ../gtk-3.0/*css
@@ -93,7 +105,14 @@ sed -i 's|1b436f|454545|g' ../gtk-3.0/*css
 sed -i 's|dce9ef|e5e5e5|g' ../gtk-3.0/*css
 sed -i 's|DCE9EF|e5e5e5|g' ../gtk-3.0/*css
 sed -i 's|46b2ea|989898|g' ../gtk-3.0/*css
+sed -i 's|3A3F44|3f3f3f|g' ../gtk-3.0/*css
+sed -i 's|81caf0|b9b9b9|g' ../gtk-3.0/*css
+sed -i 's|363b41|3c3c3c|g' ../gtk-3.0/*css
+sed -i 's|8f9295|929292|g' ../gtk-3.0/*css
+sed -i 's|606468|646464|g' ../gtk-3.0/*css
+sed -i 's|3a3f44|3f3f3f|g' ../gtk-3.0/*css
+sed -i 's|1787c2|6d6d6d|g' ../gtk-3.0/*css
+sed -i 's|6bc0ed|6d6d6d|g' ../gtk-3.0/*css
 sed -i 's|61, 174, 233|147, 147, 147|g' ../gtk-3.0/*css
 sed -i 's|147, 206, 233|190, 190, 190|g' ../gtk-3.0/*css
-cp titlebutton* ../gtk-3.0/assets/
-cp scrollbar-slider* ../gtk-3.0/assets/
+sed -i 's|61, 173, 232|146, 146, 146|g' ../gtk-3.0/*css

@@ -1333,7 +1333,8 @@ headerbar {
   border-color: #888888;
   border-radius: 0;
   */
-  color: #fcfcfc;
+  /*papirus*/
+  color: #888888;
   background-image: none;
   /*papirus*/
   background-color: #eff0f1;

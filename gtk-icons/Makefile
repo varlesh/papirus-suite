@@ -7,6 +7,8 @@ install: local
 clear:
 	-rm -rf $(INSTALLDIR)Papirus*
 local:
-	find Papirus* -type f -exec install -Dm644 '{}' "$(INSTALLDIR)/{}" \;
+	install -d $(INSTALLDIR)
+	cp -rf Papirus-Dark-GTK $(INSTALLDIR)
+	cp -rf Papirus-GTK $(INSTALLDIR)
 
 uninstall: clear

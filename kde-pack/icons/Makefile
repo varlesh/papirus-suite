@@ -18,10 +18,7 @@ local:
 	install -d $(AMAROKDIR)/papirus-black-panel/
 	install -d $(AMAROKDIR)/papirus-dark/
 	
-	find papirus -type f -exec install -Dm644 '{}' "$(INSTALLDIR)/{}" \;
-	find papirus-black-panel -type f -exec install -Dm644 '{}' "$(INSTALLDIR)/{}" \;
-	find papirus-dark -type f -exec install -Dm644 '{}' "$(INSTALLDIR)/{}" \;
-
+	cp -rf papirus* $(INSTALLDIR)
 	cp -rf papirus/extra-icons/amarok/*              $(AMAROKDIR)/papirus/
 	cp -rf papirus-black-panel/extra-icons/amarok/*  $(AMAROKDIR)/papirus-black-panel/
 	cp -rf papirus-dark/extra-icons/amarok/*         $(AMAROKDIR)/papirus-dark/

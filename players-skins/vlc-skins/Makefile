@@ -1,12 +1,13 @@
 INSTALLDIR=$(DESTDIR)/usr/share/vlc/skins2/
+RM = rm -rf
 
 all:
 
 install: local
 
 clear:
-	-rm -rf $(INSTALLDIR)Papirus*
+	$(RM) $(INSTALLDIR)Papirus.vlt
 local:
-	find Papirus* -type f -exec install -Dm644 '{}' "$(INSTALLDIR)/{}" \;
+	find Papirus.vlt -type f -exec install -Dm644 '{}' "$(INSTALLDIR){}" \;
 
 uninstall: clear

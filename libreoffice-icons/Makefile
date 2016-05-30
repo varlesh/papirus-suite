@@ -1,17 +1,17 @@
-INSTALLDIR-ARCH=$(DESTDIR)/usr/lib/libreoffice/share/config/
-INSTALLDIR-AUR=$(DESTDIR)/opt/libreoffice5.1/share/config/
+INSTALLDIR-ARCH = $(DESTDIR)/usr/lib/libreoffice/share/config/
+INSTALLDIR-AUR = $(DESTDIR)/opt/libreoffice5.1/share/config/
+RM = rm -rf
 
 all:
 
 install: local
 
 clear:
-	-rm -rf $(INSTALLDIR-ARCH)images_papirus*.zip
-	-rm -rf $(INSTALLDIR-AUR)images_papirus*.zip
+	$(RM) $(INSTALLDIR-ARCH)images_papirus{,_dark}.zip
+	$(RM) $(INSTALLDIR-AUR)images_papirus{,_dark}.zip
 local:
-	install -d $(INSTALLDIR-ARCH)
-	install -d $(INSTALLDIR-AUR)
-	cp -rf images_*.zip $(INSTALLDIR-ARCH)
-	cp -rf images_*.zip $(INSTALLDIR-AUR)
+
+	find images_papirus{,_dark}.zip -type f -exec install -Dm644 '{}' "$(INSTALLDIR-ARCH){}" \;
+	find images_papirus{,_dark}.zip -type f -exec install -Dm644 '{}' "$(INSTALLDIR-AUR){}" \;
 
 uninstall: clear

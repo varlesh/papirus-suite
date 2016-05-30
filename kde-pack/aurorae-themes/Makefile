@@ -1,12 +1,13 @@
-INSTALLDIR=$(DESTDIR)/usr/share/aurorae/themes/
+INSTALLDIR = $(DESTDIR)/usr/share/aurorae/themes/
+RM = rm -rf
 
 all:
 
 install: local
 
 clear:
-	-rm -rf $(INSTALLDIR)Papirus*
+	$(RM) $(INSTALLDIR)Papirus{,-Transparent}
 local:
-	find Papirus* -type f -exec install -Dm644 '{}' "$(INSTALLDIR)/{}" \;
+	find Papirus{,-Transparent} -type f -exec install -Dm644 '{}' "$(INSTALLDIR){}" \;
 
 uninstall: clear

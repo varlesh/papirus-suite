@@ -6,8 +6,8 @@ all:
 install: local
 
 clear:
-	$(RM) $(INSTALLDIR)Papirus
+	$(RM) $(INSTALLDIR)Papirus.vlt
 local:
-	find Papirus -type f -exec install -Dm644 '{}' "$(INSTALLDIR){}" \;
+	find Papirus.vlt -type f -exec install -Dm644 '{}' "$(INSTALLDIR){}" \;
 
 uninstall: clear

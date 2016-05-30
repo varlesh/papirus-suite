@@ -1,12 +1,13 @@
-INSTALLDIR=$(DESTDIR)/usr/share/QtCurve/
+INSTALLDIR = $(DESTDIR)/usr/share/QtCurve/
+RM = rm -rf
 
 all:
 
 install: local
 
 clear:
-	-rm -rf $(INSTALLDIR)Papirus*
+	$(RM) $(INSTALLDIR)Papirus{,_Transparent}.qtcurve
 local:
-	find Papirus* -type f -exec install -Dm644 '{}' "$(INSTALLDIR)/{}" \;
+	find Papirus{,_Transparent}.qtcurve -type f -exec install -Dm644 '{}' "$(INSTALLDIR){}" \;
 
 uninstall: clear

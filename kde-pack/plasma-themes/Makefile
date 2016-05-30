@@ -1,12 +1,13 @@
-INSTALLDIR=$(DESTDIR)/usr/share/plasma/desktoptheme/
+INSTALLDIR = $(DESTDIR)/usr/share/plasma/desktoptheme/
+RM = rm -rf
 
 all:
 
 install: local
 
 clear:
-	-rm -rf $(INSTALLDIR)papirus*
+	$(RM) $(INSTALLDIR)papirus
 local:
-	find papirus* -type f -exec install -Dm644 '{}' "$(INSTALLDIR)/{}" \;
+	find papirus -type f -exec install -Dm644 '{}' "$(INSTALLDIR){}" \;
 
 uninstall: clear

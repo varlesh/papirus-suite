@@ -1,25 +1,9 @@
 # Papirus Suite
 Papirus customization for Linux distros.
 
-Project finalized!
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/varlesh/papirus-suite/master/logo-papirus.png" alt="logo-papirus"/>
 </p>
-
-# Preview
-
-Plasma 5
-![Screenshot - KDE](papirus-kde.png)
-
-Unity 7 (With GTK Theme [Arc Dark](https://github.com/horst3180/arc-theme))
-![Screenshot - UNITY](papirus-arc-unity.png)
-
-elementary OS Freya
-![Screenshot - Pantheon](papirus-elementary.png)
-
-Gnome 3.18
-![Screenshot - GNOME](papirus-gnome.png)
 
 # INSTALL
 

@@ -1,12 +1,13 @@
-INSTALLDIR=$(DESTDIR)/usr/share/color-schemes/
+INSTALLDIR = $(DESTDIR)/usr/share/color-schemes/
+RM = rm -rf
 
 all:
 
 install: local
 
 clear:
-	-rm -rf $(INSTALLDIR)Papirus*
+	$(RM) $(INSTALLDIR)Papirus.colors
 local:
-	find Papirus* -type f -exec install -Dm644 '{}' "$(INSTALLDIR)/{}" \;
+	find Papirus.colors -type f -exec install -Dm644 '{}' "$(INSTALLDIR){}" \;
 
 uninstall: clear

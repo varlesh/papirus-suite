@@ -1,14 +1,16 @@
-INSTALLDIR=$(DESTDIR)/usr/share/icons/
+INSTALLDIR = $(DESTDIR)/usr/share/icons/
+INSTALL = install -d
+RM = rm -rf
+CP = cp -rf
 
 all:
 
 install: local
 
 clear:
-	-rm -rf $(INSTALLDIR)Papirus*
+	$(RM) $(INSTALLDIR) Papirus{,-Dark}-GTK
 local:
-	install -d $(INSTALLDIR)
-	cp -rf Papirus-Dark-GTK $(INSTALLDIR)
-	cp -rf Papirus-GTK $(INSTALLDIR)
+	$(INSTALL) $(INSTALLDIR)
+	$(CP) Papirus{,-Dark}-GTK $(INSTALLDIR)
 
 uninstall: clear

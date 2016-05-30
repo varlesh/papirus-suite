@@ -7,19 +7,6 @@ Papirus customization for Linux distros.
 
 # INSTALL
 
-**Stable version for Archlinux, Manjaro, Netrunner Rolling, Antergos (AUR):**
-```
-# For KDE DE
-yaourt -S papirus-icon-theme-kde papirus-gtk-theme papirus-look-and-feel plasma-theme-papirus papirus-color-scheme papirus-qtcurve-theme papirus-aurorae-theme yakuake-skin-papirus papirus-konsole-colorscheme papirus-kmail-theme papirus-k3b-theme
-# For GTK DE
-yaourt -S papirus-icon-theme-gtk
-# For all DE
-yaourt -S libreoffice-style-papirus
-yaourt -S vlc-skin-papirus
-yaourt -S smplayer-theme-papirus
-yaourt -S bomi-skin-papirus
-```
-
 **Git version for Archlinux, Manjaro, Netrunner Rolling, Antergos (AUR):**
 ```
 # For KDE DE
@@ -33,11 +20,6 @@ yaourt -S papirus-smplayer-theme-git
 yaourt -S bomi-skin-papirus-git
 # Wallpapers for KDE DE
 yaourt -S papirus-wallpapers-git
-```
-**For Chakra OS:**
-```
-# CCR
-ccr -S papirus-pack-kde papirus-kmail-theme papirus-k3b-theme libreoffice-style-papirus bomi-skin-papirus smplayer-theme-papirus vlc-skin-papirus yakuake-skin-papirus
 ```
 
 **For Ubuntu**

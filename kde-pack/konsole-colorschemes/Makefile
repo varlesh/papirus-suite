@@ -1,4 +1,4 @@
-INSTALLDIR = $(DESTDIR)/usr/share/konsole/
+INSTALLDIR = $(DESTDIR)/usr/share/konsole
 RM = rm -rf
 
 all:
@@ -6,8 +6,8 @@ all:
 install: local
 
 clear:
-	$(RM) $(INSTALLDIR)Papirus.colorscheme
+	$(RM) $(INSTALLDIR)/Papirus{,-Transparent}.colorscheme
 local:
-	find Papirus.colorscheme -type f -exec install -Dm644 '{}' "$(INSTALLDIR){}" \;
+	find Papirus{,-Transparent}.colorscheme -type f -exec install -Dm644 '{}' "$(INSTALLDIR)/{}" \;
 
 uninstall: clear

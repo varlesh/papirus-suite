@@ -1,6 +1,6 @@
 # Papirus Suite
-Project moved to https://github.com/PapirusDevelopmentTeam
+Project was moved to **[Papirus Development Team](https://github.com/PapirusDevelopmentTeam)** divided repositories.
 
-Papirus Dark discontinued, please use analog [Arc Dark KDE](https://github.com/varlesh/Arc-Dark-KDE)
+Development of Papirus Dark is discontinued. Please use **[Arc Dark KDE](https://github.com/varlesh/Arc-Dark-KDE)** instead.
 
-Or download old version [here](https://github.com/varlesh/papirus-suite/releases/tag/1.0).
+Tarballs with old version are available **[here](https://github.com/varlesh/papirus-suite/releases/tag/1.0)** for download.

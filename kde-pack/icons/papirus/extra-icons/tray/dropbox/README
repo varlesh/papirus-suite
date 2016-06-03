@@ -1,4 +1,0 @@
-Tray icons for Dropbox.
-Install:
-sudo rm -rf /opt/dropbox/images/hicolor/*
-sudo cp -R hicolor/* /opt/dropbox/images/hicolor/
